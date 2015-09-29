@@ -1,0 +1,5699 @@
+{
+    "aaq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Eastern Abnaki",
+        "comment": null
+    },
+    "abj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aka-Bea",
+        "comment": null
+    },
+    "aci": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aka-Cari",
+        "comment": null
+    },
+    "ack": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aka-Kora",
+        "comment": null
+    },
+    "acl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Akar-Bale",
+        "comment": null
+    },
+    "acs": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Acroá",
+        "comment": null
+    },
+    "aea": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Areba",
+        "comment": null
+    },
+    "aes": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Alsea",
+        "comment": null
+    },
+    "aga": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aguano",
+        "comment": null
+    },
+    "aho": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ahom",
+        "comment": null
+    },
+    "aid": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Alngith",
+        "comment": null
+    },
+    "ait": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Arikem",
+        "comment": null
+    },
+    "ajw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ajawa",
+        "comment": null
+    },
+    "akj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aka-Jeru",
+        "comment": null
+    },
+    "akm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aka-Bo",
+        "comment": null
+    },
+    "akx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aka-Kede",
+        "comment": null
+    },
+    "aky": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aka-Kol",
+        "comment": null
+    },
+    "ama": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Amanayé",
+        "comment": null
+    },
+    "amz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Atampaya",
+        "comment": null
+    },
+    "ana": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Andaqui",
+        "comment": null
+    },
+    "anb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Andoa",
+        "comment": null
+    },
+    "ans": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Anserma",
+        "comment": null
+    },
+    "aoh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Arma",
+        "comment": null
+    },
+    "aor": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aore",
+        "comment": null
+    },
+    "apv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Alapmunte",
+        "comment": null
+    },
+    "aqp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Atakapa",
+        "comment": null
+    },
+    "ard": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Arabana",
+        "comment": null
+    },
+    "arj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Arapaso",
+        "comment": null
+    },
+    "aru": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aruá (Amazonas State)",
+        "comment": null
+    },
+    "ash": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Abishira",
+        "comment": null
+    },
+    "atc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Atsahuaca",
+        "comment": null
+    },
+    "auo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Auyokawa",
+        "comment": null
+    },
+    "aux": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aurá",
+        "comment": null
+    },
+    "avm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Angkamuthi",
+        "comment": null
+    },
+    "avo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Agavotaguerra",
+        "comment": null
+    },
+    "avs": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aushiri",
+        "comment": null
+    },
+    "awg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Anguthimri",
+        "comment": null
+    },
+    "awk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Awabakal",
+        "comment": null
+    },
+    "axb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Abipon",
+        "comment": null
+    },
+    "axe": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ayerrerenge",
+        "comment": null
+    },
+    "axg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mato Grosso Arára",
+        "comment": null
+    },
+    "axl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lower Southern Aranda",
+        "comment": null
+    },
+    "ayd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ayabadhu",
+        "comment": null
+    },
+    "ayy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tayabas Ayta",
+        "comment": null
+    },
+    "bae": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Baré",
+        "comment": null
+    },
+    "bjb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Banggarla",
+        "comment": null
+    },
+    "bjy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bayali",
+        "comment": null
+    },
+    "bll": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Biloxi",
+        "comment": null
+    },
+    "bmn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bina (Papua New Guinea)",
+        "comment": null
+    },
+    "boi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Barbareño",
+        "comment": null
+    },
+    "bow": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Rema",
+        "comment": null
+    },
+    "bpb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Barbacoas",
+        "comment": null
+    },
+    "bpt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Barrow Point",
+        "comment": null
+    },
+    "bqf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Baga Kaloum",
+        "comment": null
+    },
+    "brc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Berbice Creole Dutch",
+        "comment": null
+    },
+    "brk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Birked",
+        "comment": null
+    },
+    "bsl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Basa-Gumna",
+        "comment": null
+    },
+    "bsv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Baga Sobané",
+        "comment": null
+    },
+    "bte": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gamo-Ningi",
+        "comment": null
+    },
+    "bue": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Beothuk",
+        "comment": null
+    },
+    "bvv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Baniva",
+        "comment": null
+    },
+    "bxi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pirlatapa",
+        "comment": null
+    },
+    "byg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Baygo",
+        "comment": null
+    },
+    "byq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Basay",
+        "comment": null
+    },
+    "byt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Berti",
+        "comment": null
+    },
+    "bzr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Biri",
+        "comment": null
+    },
+    "caj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chané",
+        "comment": null
+    },
+    "caz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Canichana",
+        "comment": null
+    },
+    "cbe": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chipiajes",
+        "comment": null
+    },
+    "cbh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cagua",
+        "comment": null
+    },
+    "cca": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cauca",
+        "comment": null
+    },
+    "ccr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cacaopera",
+        "comment": null
+    },
+    "cea": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lower Chehalis",
+        "comment": null
+    },
+    "chb": {
+        "part2B": "chb",
+        "part2T": "chb",
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chibcha",
+        "comment": null
+    },
+    "chc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Catawba",
+        "comment": null
+    },
+    "chg": {
+        "part2B": "chg",
+        "part2T": "chg",
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chagatai",
+        "comment": null
+    },
+    "cht": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cholón",
+        "comment": null
+    },
+    "cid": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chimariko",
+        "comment": null
+    },
+    "cjh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Upper Chehalis",
+        "comment": null
+    },
+    "cmm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Michigamea",
+        "comment": null
+    },
+    "cob": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chicomuceltec",
+        "comment": null
+    },
+    "coj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cochimi",
+        "comment": null
+    },
+    "cop": {
+        "part2B": "cop",
+        "part2T": "cop",
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Coptic",
+        "comment": null
+    },
+    "coq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Coquille",
+        "comment": null
+    },
+    "cow": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cowlitz",
+        "comment": null
+    },
+    "coy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Coyaima",
+        "comment": null
+    },
+    "cpg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cappadocian Greek",
+        "comment": null
+    },
+    "crb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Island Carib",
+        "comment": null
+    },
+    "crf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Caramanta",
+        "comment": null
+    },
+    "crr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Carolina Algonquian",
+        "comment": null
+    },
+    "crz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cruzeño",
+        "comment": null
+    },
+    "csi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Coast Miwok",
+        "comment": null
+    },
+    "css": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Southern Ohlone",
+        "comment": null
+    },
+    "ctm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chitimacha",
+        "comment": null
+    },
+    "cum": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cumeral",
+        "comment": null
+    },
+    "cuo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cumanagoto",
+        "comment": null
+    },
+    "cup": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cupeño",
+        "comment": null
+    },
+    "cyb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cayubaba",
+        "comment": null
+    },
+    "czk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Knaanic",
+        "comment": null
+    },
+    "dcr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Negerhollands",
+        "comment": null
+    },
+    "dda": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dadi Dadi",
+        "comment": null
+    },
+    "ddr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dhudhuroa",
+        "comment": null
+    },
+    "dep": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pidgin Delaware",
+        "comment": null
+    },
+    "dgn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dagoman",
+        "comment": null
+    },
+    "dgt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ndra'ngith",
+        "comment": null
+    },
+    "dgw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Daungwurrung",
+        "comment": null
+    },
+    "dhu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dhurga",
+        "comment": null
+    },
+    "dif": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dieri",
+        "comment": null
+    },
+    "dit": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dirari",
+        "comment": null
+    },
+    "dja": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Djadjawurrung",
+        "comment": null
+    },
+    "djf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Djangun",
+        "comment": null
+    },
+    "djw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Djawi",
+        "comment": null
+    },
+    "dlm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dalmatian",
+        "comment": null
+    },
+    "dmd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Madhi Madhi",
+        "comment": null
+    },
+    "drq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dura",
+        "comment": null
+    },
+    "drr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dororo",
+        "comment": null
+    },
+    "dth": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Adithinngithigh",
+        "comment": null
+    },
+    "duy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dicamay Agta",
+        "comment": null
+    },
+    "duz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Duli",
+        "comment": null
+    },
+    "dyb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dyaberdyaber",
+        "comment": null
+    },
+    "dyd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dyugun",
+        "comment": null
+    },
+    "dyg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Villa Viciosa Agta",
+        "comment": null
+    },
+    "dze": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Djiwarli",
+        "comment": null
+    },
+    "eaa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karenggapa",
+        "comment": null
+    },
+    "ekc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Eastern Karnic",
+        "comment": null
+    },
+    "eli": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nding",
+        "comment": null
+    },
+    "emm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mamulique",
+        "comment": null
+    },
+    "emy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Epigraphic Mayan",
+        "comment": null
+    },
+    "err": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Erre",
+        "comment": null
+    },
+    "esm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Esuma",
+        "comment": null
+    },
+    "esq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Esselen",
+        "comment": null
+    },
+    "etc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Etchemin",
+        "comment": null
+    },
+    "eya": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Eyak",
+        "comment": null
+    },
+    "fln": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Flinders Island",
+        "comment": null
+    },
+    "fos": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Siraya",
+        "comment": null
+    },
+    "frk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Frankish",
+        "comment": null
+    },
+    "gcd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ganggalida",
+        "comment": null
+    },
+    "gce": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Galice",
+        "comment": null
+    },
+    "gdc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gugu Badhun",
+        "comment": null
+    },
+    "gdt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kungardutyi",
+        "comment": null
+    },
+    "gft": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gafat",
+        "comment": null
+    },
+    "ggd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gugadj",
+        "comment": null
+    },
+    "ggk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kungarakany",
+        "comment": null
+    },
+    "ghc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Hiberno-Scottish Gaelic",
+        "comment": null
+    },
+    "gho": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ghomara",
+        "comment": null
+    },
+    "gjm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gunditjmara",
+        "comment": null
+    },
+    "gko": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kok-Nar",
+        "comment": null
+    },
+    "gku": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "ǂUngkue",
+        "comment": null
+    },
+    "gli": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Guliguli",
+        "comment": null
+    },
+    "gll": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Garlali",
+        "comment": null
+    },
+    "gly": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gule",
+        "comment": null
+    },
+    "gma": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gambera",
+        "comment": null
+    },
+    "gnc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Guanche",
+        "comment": null
+    },
+    "gnl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gangulu",
+        "comment": null
+    },
+    "gnr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gureng Gureng",
+        "comment": null
+    },
+    "gqn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Guana (Brazil)",
+        "comment": null
+    },
+    "gtu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aghu-Tharnggala",
+        "comment": null
+    },
+    "guv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gey",
+        "comment": null
+    },
+    "gvy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Guyani",
+        "comment": null
+    },
+    "gwm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Awngthim",
+        "comment": null
+    },
+    "gwu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Guwamu",
+        "comment": null
+    },
+    "gyf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gungabula",
+        "comment": null
+    },
+    "gyy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gunya",
+        "comment": null
+    },
+    "hib": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Hibito",
+        "comment": null
+    },
+    "hmk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Maek",
+        "comment": null
+    },
+    "hod": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Holma",
+        "comment": null
+    },
+    "hom": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Homa",
+        "comment": null
+    },
+    "hor": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Horo",
+        "comment": null
+    },
+    "hrp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nhirrpi",
+        "comment": null
+    },
+    "huw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Hukumina",
+        "comment": null
+    },
+    "iff": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ifo",
+        "comment": null
+    },
+    "ihw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bidhawal",
+        "comment": null
+    },
+    "iin": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Thiin",
+        "comment": null
+    },
+    "ikr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ikaranggal",
+        "comment": null
+    },
+    "ilg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Garig-Ilgar",
+        "comment": null
+    },
+    "iml": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Miluk",
+        "comment": null
+    },
+    "inz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ineseño",
+        "comment": null
+    },
+    "iow": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Iowa-Oto",
+        "comment": null
+    },
+    "ite": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Itene",
+        "comment": null
+    },
+    "jan": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Jandai",
+        "comment": null
+    },
+    "jbi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Badjiri",
+        "comment": null
+    },
+    "jbw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yawijibaya",
+        "comment": null
+    },
+    "jgb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngbee",
+        "comment": null
+    },
+    "jng": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yangman",
+        "comment": null
+    },
+    "jor": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Jorá",
+        "comment": null
+    },
+    "juc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Jurchen",
+        "comment": null
+    },
+    "jui": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngadjuri",
+        "comment": null
+    },
+    "jvd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Javindo",
+        "comment": null
+    },
+    "kae": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ketangalan",
+        "comment": null
+    },
+    "kba": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kalarko",
+        "comment": null
+    },
+    "kbb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kaxuiâna",
+        "comment": null
+    },
+    "kda": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Worimi",
+        "comment": null
+    },
+    "kgl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kunggari",
+        "comment": null
+    },
+    "kgm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karipúna",
+        "comment": null
+    },
+    "kii": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kitsai",
+        "comment": null
+    },
+    "kla": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Klamath-Modoc",
+        "comment": null
+    },
+    "koc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kpati",
+        "comment": null
+    },
+    "kof": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kubi",
+        "comment": null
+    },
+    "kox": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Coxima",
+        "comment": null
+    },
+    "kpn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kepkiriwát",
+        "comment": null
+    },
+    "kqu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Seroa",
+        "comment": null
+    },
+    "kqz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Korana",
+        "comment": null
+    },
+    "krb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karkin",
+        "comment": null
+    },
+    "krk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kerek",
+        "comment": null
+    },
+    "ktg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kalkutung",
+        "comment": null
+    },
+    "ktk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kaniet",
+        "comment": null
+    },
+    "ktq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Katabaga",
+        "comment": null
+    },
+    "ktw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kato",
+        "comment": null
+    },
+    "kuz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kunza",
+        "comment": null
+    },
+    "kwz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kwadi",
+        "comment": null
+    },
+    "kxo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kanoé",
+        "comment": null
+    },
+    "kzk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kazukuru",
+        "comment": null
+    },
+    "kzw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karirí-Xocó",
+        "comment": null
+    },
+    "laz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aribwatsa",
+        "comment": null
+    },
+    "lba": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lui",
+        "comment": null
+    },
+    "lby": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lamu-Lamu",
+        "comment": null
+    },
+    "len": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lenca",
+        "comment": null
+    },
+    "lhs": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mlahsö",
+        "comment": null
+    },
+    "lja": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Golpa",
+        "comment": null
+    },
+    "ljx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yuru",
+        "comment": null
+    },
+    "lkm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kalaamaya",
+        "comment": null
+    },
+    "lku": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kungkari",
+        "comment": null
+    },
+    "llf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Hermit",
+        "comment": null
+    },
+    "llj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ladji Ladji",
+        "comment": null
+    },
+    "llk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lelak",
+        "comment": null
+    },
+    "lmc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Limilngan",
+        "comment": null
+    },
+    "lmz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lumbee",
+        "comment": null
+    },
+    "lnj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Leningitij",
+        "comment": null
+    },
+    "lnw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lanima",
+        "comment": null
+    },
+    "lre": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Laurentian",
+        "comment": null
+    },
+    "lrg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Laragia",
+        "comment": null
+    },
+    "mbe": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Molale",
+        "comment": null
+    },
+    "mcl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Macaguaje",
+        "comment": null
+    },
+    "mem": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mangala",
+        "comment": null
+    },
+    "mfw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mulaha",
+        "comment": null
+    },
+    "mje": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Muskum",
+        "comment": null
+    },
+    "mjq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Malaryan",
+        "comment": null
+    },
+    "mjy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mahican",
+        "comment": null
+    },
+    "mkq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bay Miwok",
+        "comment": null
+    },
+    "mmv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Miriti",
+        "comment": null
+    },
+    "mod": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mobilian",
+        "comment": null
+    },
+    "mom": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mangue",
+        "comment": null
+    },
+    "mre": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Martha's Vineyard Sign Language",
+        "comment": null
+    },
+    "msp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Maritsauá",
+        "comment": null
+    },
+    "mtm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mator",
+        "comment": null
+    },
+    "mtn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Matagalpa",
+        "comment": null
+    },
+    "mvb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mattole",
+        "comment": null
+    },
+    "mvl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mbara (Australia)",
+        "comment": null
+    },
+    "mwu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mittu",
+        "comment": null
+    },
+    "mxi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mozarabic",
+        "comment": null
+    },
+    "mys": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mesmes",
+        "comment": null
+    },
+    "mzo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Matipuhy",
+        "comment": null
+    },
+    "nay": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Narrinyeri",
+        "comment": null
+    },
+    "ncz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Natchez",
+        "comment": null
+    },
+    "ndf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nadruvian",
+        "comment": null
+    },
+    "ngv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nagumi",
+        "comment": null
+    },
+    "nhc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tabasco Nahuatl",
+        "comment": null
+    },
+    "nid": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngandi",
+        "comment": null
+    },
+    "nig": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngalakan",
+        "comment": null
+    },
+    "nkp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Niuatoputapu",
+        "comment": null
+    },
+    "nlw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Walangama",
+        "comment": null
+    },
+    "nmp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nimanbur",
+        "comment": null
+    },
+    "nmr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nimbari",
+        "comment": null
+    },
+    "nmv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngamini",
+        "comment": null
+    },
+    "nnr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Narungga",
+        "comment": null
+    },
+    "nnt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nanticoke",
+        "comment": null
+    },
+    "nnv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nugunu (Australia)",
+        "comment": null
+    },
+    "nny": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nyangga",
+        "comment": null
+    },
+    "nok": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nooksack",
+        "comment": null
+    },
+    "nol": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nomlaki",
+        "comment": null
+    },
+    "nom": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nocamán",
+        "comment": null
+    },
+    "nrn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Norn",
+        "comment": null
+    },
+    "nrr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Norra",
+        "comment": null
+    },
+    "nrt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Northern Kalapuya",
+        "comment": null
+    },
+    "nrx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngurmbur",
+        "comment": null
+    },
+    "ntg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngantangarra",
+        "comment": null
+    },
+    "nts": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Natagaimas",
+        "comment": null
+    },
+    "ntw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nottoway",
+        "comment": null
+    },
+    "nuc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nukuini",
+        "comment": null
+    },
+    "nug": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nungali",
+        "comment": null
+    },
+    "nwa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nawathinehena",
+        "comment": null
+    },
+    "nwg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngayawung",
+        "comment": null
+    },
+    "nwo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nauo",
+        "comment": null
+    },
+    "nwy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nottoway-Meherrin",
+        "comment": null
+    },
+    "nxn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngawun",
+        "comment": null
+    },
+    "nxu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Narau",
+        "comment": null
+    },
+    "nyp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nyang'i",
+        "comment": null
+    },
+    "nyt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nyawaygi",
+        "comment": null
+    },
+    "nyv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nyulnyul",
+        "comment": null
+    },
+    "nyx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nganyaywana",
+        "comment": null
+    },
+    "obi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Obispeño",
+        "comment": null
+    },
+    "ofo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ofo",
+        "comment": null
+    },
+    "okg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Koko Babangk",
+        "comment": null
+    },
+    "okj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Oko-Juwoi",
+        "comment": null
+    },
+    "okl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Old Kentish Sign Language",
+        "comment": null
+    },
+    "olk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Olkol",
+        "comment": null
+    },
+    "omc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mochica",
+        "comment": null
+    },
+    "ome": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Omejes",
+        "comment": null
+    },
+    "omk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Omok",
+        "comment": null
+    },
+    "omu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Omurano",
+        "comment": null
+    },
+    "opt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Opata",
+        "comment": null
+    },
+    "oti": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Oti",
+        "comment": null
+    },
+    "otu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Otuke",
+        "comment": null
+    },
+    "oum": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ouma",
+        "comment": null
+    },
+    "paf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Paranawát",
+        "comment": null
+    },
+    "pax": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pankararé",
+        "comment": null
+    },
+    "paz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pankararú",
+        "comment": null
+    },
+    "pbg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Paraujano",
+        "comment": null
+    },
+    "peb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Eastern Pomo",
+        "comment": null
+    },
+    "pef": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Northeastern Pomo",
+        "comment": null
+    },
+    "pej": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Northern Pomo",
+        "comment": null
+    },
+    "pie": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Piro",
+        "comment": null
+    },
+    "pij": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pijao",
+        "comment": null
+    },
+    "pim": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Powhatan",
+        "comment": null
+    },
+    "pit": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pitta Pitta",
+        "comment": null
+    },
+    "pkc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Paekche",
+        "comment": null
+    },
+    "pmc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Palumata",
+        "comment": null
+    },
+    "pmd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pallanganmiddang",
+        "comment": null
+    },
+    "pmk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pamlico",
+        "comment": null
+    },
+    "pml": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lingua Franca",
+        "comment": null
+    },
+    "pmz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Southern Pame",
+        "comment": null
+    },
+    "pnj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pinjarup",
+        "comment": null
+    },
+    "pno": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Panobo",
+        "comment": null
+    },
+    "pod": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ponares",
+        "comment": null
+    },
+    "pog": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Potiguára",
+        "comment": null
+    },
+    "pox": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Polabian",
+        "comment": null
+    },
+    "ppu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Papora",
+        "comment": null
+    },
+    "prr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Puri",
+        "comment": null
+    },
+    "psm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pauserna",
+        "comment": null
+    },
+    "psy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Piscataway",
+        "comment": null
+    },
+    "pth": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pataxó Hã-Ha-Hãe",
+        "comment": null
+    },
+    "ptw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pentlatch",
+        "comment": null
+    },
+    "pue": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Puelche",
+        "comment": null
+    },
+    "puq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Puquina",
+        "comment": null
+    },
+    "puy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Purisimeño",
+        "comment": null
+    },
+    "pwi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Patwin",
+        "comment": null
+    },
+    "qun": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Quinault",
+        "comment": null
+    },
+    "qwm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kuman (Russia)",
+        "comment": null
+    },
+    "qwt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kwalhioqua-Tlatskanai",
+        "comment": null
+    },
+    "qyp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Quiripi",
+        "comment": null
+    },
+    "rbp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Barababaraba",
+        "comment": null
+    },
+    "rem": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Remo",
+        "comment": null
+    },
+    "rer": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Rer Bare",
+        "comment": null
+    },
+    "rgk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Rangkas",
+        "comment": null
+    },
+    "rkw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Arakwal",
+        "comment": null
+    },
+    "rmd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Traveller Danish",
+        "comment": null
+    },
+    "rna": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Runa",
+        "comment": null
+    },
+    "rnr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nari Nari",
+        "comment": null
+    },
+    "rrt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Arritinngithigh",
+        "comment": null
+    },
+    "rts": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yurats",
+        "comment": null
+    },
+    "rxw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karuwali",
+        "comment": null
+    },
+    "sam": {
+        "part2B": "sam",
+        "part2T": "sam",
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Samaritan Aramaic",
+        "comment": null
+    },
+    "sar": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Saraveca",
+        "comment": null
+    },
+    "sds": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Sened",
+        "comment": null
+    },
+    "sdt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Shuadit",
+        "comment": null
+    },
+    "sgm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Singa",
+        "comment": null
+    },
+    "sht": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Shasta",
+        "comment": null
+    },
+    "sia": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Akkala Sami",
+        "comment": null
+    },
+    "sis": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Siuslaw",
+        "comment": null
+    },
+    "sjk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kemi Sami",
+        "comment": null
+    },
+    "sjs": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Senhaja De Srair",
+        "comment": null
+    },
+    "skw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Skepi Creole Dutch",
+        "comment": null
+    },
+    "sln": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Salinan",
+        "comment": null
+    },
+    "smc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Som",
+        "comment": null
+    },
+    "smp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Samaritan",
+        "comment": null
+    },
+    "smu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Somray",
+        "comment": null
+    },
+    "snh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Shinabo",
+        "comment": null
+    },
+    "sni": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Sensi",
+        "comment": null
+    },
+    "sqn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Susquehannock",
+        "comment": null
+    },
+    "sut": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Subtiaba",
+        "comment": null
+    },
+    "svx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Skalvian",
+        "comment": null
+    },
+    "sww": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Sowa",
+        "comment": null
+    },
+    "sxk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Southern Kalapuya",
+        "comment": null
+    },
+    "sxl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Selian",
+        "comment": null
+    },
+    "szd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Seru",
+        "comment": null
+    },
+    "tas": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tay Boi",
+        "comment": null
+    },
+    "tbb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tapeba",
+        "comment": null
+    },
+    "tbh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Thurawal",
+        "comment": null
+    },
+    "tbu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tubar",
+        "comment": null
+    },
+    "tcl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Taman (Myanmar)",
+        "comment": null
+    },
+    "teb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tetete",
+        "comment": null
+    },
+    "ten": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tama (Colombia)",
+        "comment": null
+    },
+    "tep": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tepecano",
+        "comment": null
+    },
+    "tgv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tingui-Boto",
+        "comment": null
+    },
+    "tgy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Togoyo",
+        "comment": null
+    },
+    "tgz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tagalaka",
+        "comment": null
+    },
+    "til": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tillamook",
+        "comment": null
+    },
+    "tjm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Timucua",
+        "comment": null
+    },
+    "tjn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tonjon",
+        "comment": null
+    },
+    "tju": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tjurruru",
+        "comment": null
+    },
+    "tka": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Truká",
+        "comment": null
+    },
+    "tkf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tukumanféd",
+        "comment": null
+    },
+    "tkm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Takelma",
+        "comment": null
+    },
+    "tme": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tremembé",
+        "comment": null
+    },
+    "tmg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ternateño",
+        "comment": null
+    },
+    "tmr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Jewish Babylonian Aramaic (ca. 200-1200 CE)",
+        "comment": null
+    },
+    "tmz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tamanaku",
+        "comment": null
+    },
+    "tnq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Taino",
+        "comment": null
+    },
+    "toe": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tomedes",
+        "comment": null
+    },
+    "tpk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tupinikin",
+        "comment": null
+    },
+    "tpn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tupinambá",
+        "comment": null
+    },
+    "tpw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tupí",
+        "comment": null
+    },
+    "tqr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Torona",
+        "comment": null
+    },
+    "tqw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tonkawa",
+        "comment": null
+    },
+    "try": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Turung",
+        "comment": null
+    },
+    "trz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Torá",
+        "comment": null
+    },
+    "tta": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tutelo",
+        "comment": null
+    },
+    "tud": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tuxá",
+        "comment": null
+    },
+    "tun": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tunica",
+        "comment": null
+    },
+    "tux": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tuxináwa",
+        "comment": null
+    },
+    "tvy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Timor Pidgin",
+        "comment": null
+    },
+    "twa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Twana",
+        "comment": null
+    },
+    "twc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Teshenawa",
+        "comment": null
+    },
+    "twt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Turiwára",
+        "comment": null
+    },
+    "txc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tsetsaut",
+        "comment": null
+    },
+    "typ": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Thaypan",
+        "comment": null
+    },
+    "uam": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Uamué",
+        "comment": null
+    },
+    "uby": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ubykh",
+        "comment": null
+    },
+    "ugb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kuku-Ugbanh",
+        "comment": null
+    },
+    "uky": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kuuk-Yak",
+        "comment": null
+    },
+    "ule": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lule",
+        "comment": null
+    },
+    "umd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Umbindhamu",
+        "comment": null
+    },
+    "umg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Umbuygamu",
+        "comment": null
+    },
+    "umo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Umotína",
+        "comment": null
+    },
+    "umr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Umbugarla",
+        "comment": null
+    },
+    "unm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Unami",
+        "comment": null
+    },
+    "urc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Urningangg",
+        "comment": null
+    },
+    "urf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Uradhi",
+        "comment": null
+    },
+    "uru": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Urumi",
+        "comment": null
+    },
+    "urv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Uruava",
+        "comment": null
+    },
+    "veo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ventureño",
+        "comment": null
+    },
+    "vka": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kariyarra",
+        "comment": null
+    },
+    "vkm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kamakan",
+        "comment": null
+    },
+    "vmb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Barbaram",
+        "comment": null
+    },
+    "vmi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Miwa",
+        "comment": null
+    },
+    "vml": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Malgana",
+        "comment": null
+    },
+    "vms": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Moksela",
+        "comment": null
+    },
+    "vmu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Muluridyi",
+        "comment": null
+    },
+    "vmv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Valley Maidu",
+        "comment": null
+    },
+    "waf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wakoná",
+        "comment": null
+    },
+    "wam": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wampanoag",
+        "comment": null
+    },
+    "wao": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wappo",
+        "comment": null
+    },
+    "wdk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wadikali",
+        "comment": null
+    },
+    "wdu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wadjigu",
+        "comment": null
+    },
+    "wdy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wadjabangayi",
+        "comment": null
+    },
+    "wea": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wewaw",
+        "comment": null
+    },
+    "wga": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wagaya",
+        "comment": null
+    },
+    "wgg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wangganguru",
+        "comment": null
+    },
+    "wgu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wirangu",
+        "comment": null
+    },
+    "wie": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wik-Epa",
+        "comment": null
+    },
+    "wif": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wik-Keyangan",
+        "comment": null
+    },
+    "wil": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wilawila",
+        "comment": null
+    },
+    "wir": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wiraféd",
+        "comment": null
+    },
+    "wiy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wiyot",
+        "comment": null
+    },
+    "wka": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kw'adza",
+        "comment": null
+    },
+    "wkw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wakawaka",
+        "comment": null
+    },
+    "wky": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wangkayutyuru",
+        "comment": null
+    },
+    "wlk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wailaki",
+        "comment": null
+    },
+    "wlu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wuliwuli",
+        "comment": null
+    },
+    "wly": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Waling",
+        "comment": null
+    },
+    "wma": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mawa (Nigeria)",
+        "comment": null
+    },
+    "wmi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wamin",
+        "comment": null
+    },
+    "wmn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Waamwang",
+        "comment": null
+    },
+    "wnd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wandarang",
+        "comment": null
+    },
+    "wnm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wanggamala",
+        "comment": null
+    },
+    "wnn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wunumara",
+        "comment": null
+    },
+    "woy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Weyto",
+        "comment": null
+    },
+    "wrb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Warluwara",
+        "comment": null
+    },
+    "wrg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Warungu",
+        "comment": null
+    },
+    "wrh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wiradhuri",
+        "comment": null
+    },
+    "wri": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wariyangga",
+        "comment": null
+    },
+    "wro": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Worrorra",
+        "comment": null
+    },
+    "wrw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gugu Warra",
+        "comment": null
+    },
+    "wrz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Waray (Australia)",
+        "comment": null
+    },
+    "wsu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wasu",
+        "comment": null
+    },
+    "wsv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wotapuri-Katarqalai",
+        "comment": null
+    },
+    "wth": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wathawurrung",
+        "comment": null
+    },
+    "wur": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wurrugu",
+        "comment": null
+    },
+    "wwb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wakabunga",
+        "comment": null
+    },
+    "wwr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Warrwa",
+        "comment": null
+    },
+    "wxw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wardandi",
+        "comment": null
+    },
+    "wyi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Woiwurrung",
+        "comment": null
+    },
+    "xad": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Adai",
+        "comment": null
+    },
+    "xag": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aghwan",
+        "comment": null
+    },
+    "xai": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kaimbé",
+        "comment": null
+    },
+    "xaj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ararandewára",
+        "comment": null
+    },
+    "xam": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "/Xam",
+        "comment": null
+    },
+    "xap": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Apalachee",
+        "comment": null
+    },
+    "xar": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karami",
+        "comment": null
+    },
+    "xas": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kamas",
+        "comment": null
+    },
+    "xba": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kamba (Brazil)",
+        "comment": null
+    },
+    "xbb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Lower Burdekin",
+        "comment": null
+    },
+    "xbd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bindal",
+        "comment": null
+    },
+    "xbe": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bigambal",
+        "comment": null
+    },
+    "xbg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bunganditj",
+        "comment": null
+    },
+    "xbj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Birrpayi",
+        "comment": null
+    },
+    "xbn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kenaboi",
+        "comment": null
+    },
+    "xbo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bolgarian",
+        "comment": null
+    },
+    "xbp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Bibbulman",
+        "comment": null
+    },
+    "xbw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kambiwá",
+        "comment": null
+    },
+    "xbx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kabixí",
+        "comment": null
+    },
+    "xcb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cumbric",
+        "comment": null
+    },
+    "xch": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chemakum",
+        "comment": null
+    },
+    "xcm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Comecrudo",
+        "comment": null
+    },
+    "xcn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cotoname",
+        "comment": null
+    },
+    "xcu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Curonian",
+        "comment": null
+    },
+    "xcv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Chuvantsy",
+        "comment": null
+    },
+    "xcw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Coahuilteco",
+        "comment": null
+    },
+    "xcy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Cayuse",
+        "comment": null
+    },
+    "xdk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dharuk",
+        "comment": null
+    },
+    "xeg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "//Xegwi",
+        "comment": null
+    },
+    "xgb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gbin",
+        "comment": null
+    },
+    "xgd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gudang",
+        "comment": null
+    },
+    "xgf": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gabrielino-Fernandeño",
+        "comment": null
+    },
+    "xgg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Goreng",
+        "comment": null
+    },
+    "xgi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Garingbal",
+        "comment": null
+    },
+    "xgl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Galindan",
+        "comment": null
+    },
+    "xgm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Dharumbal",
+        "comment": null
+    },
+    "xgr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Garza",
+        "comment": null
+    },
+    "xgw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Guwa",
+        "comment": null
+    },
+    "xhc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Hunnic",
+        "comment": null
+    },
+    "xin": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Xinca",
+        "comment": null
+    },
+    "xip": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Xipináwa",
+        "comment": null
+    },
+    "xir": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Xiriâna",
+        "comment": null
+    },
+    "xjb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Minjungbal",
+        "comment": null
+    },
+    "xjt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Jaitmatang",
+        "comment": null
+    },
+    "xkr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Xakriabá",
+        "comment": null
+    },
+    "xlb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Loup B",
+        "comment": null
+    },
+    "xlo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Loup A",
+        "comment": null
+    },
+    "xmp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kuku-Mu'inh",
+        "comment": null
+    },
+    "xmq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kuku-Mangk",
+        "comment": null
+    },
+    "xmu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kamu",
+        "comment": null
+    },
+    "xni": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngarigu",
+        "comment": null
+    },
+    "xnk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nganakarti",
+        "comment": null
+    },
+    "xnt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Narragansett",
+        "comment": null
+    },
+    "xnu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Nukunul",
+        "comment": null
+    },
+    "xoc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "O'chi'chi'",
+        "comment": null
+    },
+    "xoo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Xukurú",
+        "comment": null
+    },
+    "xpa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pirriya",
+        "comment": null
+    },
+    "xpc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pecheneg",
+        "comment": null
+    },
+    "xpi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pictish",
+        "comment": null
+    },
+    "xpj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mpalitjanh",
+        "comment": null
+    },
+    "xpm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pumpokol",
+        "comment": null
+    },
+    "xpn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kapinawá",
+        "comment": null
+    },
+    "xpo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pochutec",
+        "comment": null
+    },
+    "xpp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Puyo-Paekche",
+        "comment": null
+    },
+    "xpq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mohegan-Pequot",
+        "comment": null
+    },
+    "xps": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Pisidian",
+        "comment": null
+    },
+    "xpt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Punthamara",
+        "comment": null
+    },
+    "xpy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Puyo",
+        "comment": null
+    },
+    "xrd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Gundungurra",
+        "comment": null
+    },
+    "xrg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Minang",
+        "comment": null
+    },
+    "xrm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Armazic",
+        "comment": null
+    },
+    "xrn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Arin",
+        "comment": null
+    },
+    "xrq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karranga",
+        "comment": null
+    },
+    "xrt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Aranama-Tamique",
+        "comment": null
+    },
+    "xso": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Solano",
+        "comment": null
+    },
+    "xss": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Assan",
+        "comment": null
+    },
+    "xsv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Sudovian",
+        "comment": null
+    },
+    "xth": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yitha Yitha",
+        "comment": null
+    },
+    "xtv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Thawa",
+        "comment": null
+    },
+    "xtz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tasmanian",
+        "comment": null
+    },
+    "xud": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Umiida",
+        "comment": null
+    },
+    "xul": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ngunawal",
+        "comment": null
+    },
+    "xun": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Unggaranggu",
+        "comment": null
+    },
+    "xup": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Upper Umpqua",
+        "comment": null
+    },
+    "xut": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kuthant",
+        "comment": null
+    },
+    "xwc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Woccon",
+        "comment": null
+    },
+    "xwd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wadi Wadi",
+        "comment": null
+    },
+    "xwj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wajuk",
+        "comment": null
+    },
+    "xwk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wangkumara",
+        "comment": null
+    },
+    "xwo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Written Oirat",
+        "comment": null
+    },
+    "xwt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wotjobaluk",
+        "comment": null
+    },
+    "xww": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Wemba Wemba",
+        "comment": null
+    },
+    "xxb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Boro (Ghana)",
+        "comment": null
+    },
+    "xxm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Minkin",
+        "comment": null
+    },
+    "xxr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Koropó",
+        "comment": null
+    },
+    "xxt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Tambora",
+        "comment": null
+    },
+    "xya": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yaygir",
+        "comment": null
+    },
+    "xyb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yandjibara",
+        "comment": null
+    },
+    "xyj": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mayi-Yapi",
+        "comment": null
+    },
+    "xyk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mayi-Kulan",
+        "comment": null
+    },
+    "xyl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yalakalore",
+        "comment": null
+    },
+    "xyt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mayi-Thakurti",
+        "comment": null
+    },
+    "xzm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Zemgalian",
+        "comment": null
+    },
+    "ybn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yabaâna",
+        "comment": null
+    },
+    "yda": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yanda",
+        "comment": null
+    },
+    "yei": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yeni",
+        "comment": null
+    },
+    "yga": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Malyangapa",
+        "comment": null
+    },
+    "ygi": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yiningayi",
+        "comment": null
+    },
+    "yil": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yindjilandji",
+        "comment": null
+    },
+    "ylr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yalarnnga",
+        "comment": null
+    },
+    "yme": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yameo",
+        "comment": null
+    },
+    "ynd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yandruwandha",
+        "comment": null
+    },
+    "ynn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yana",
+        "comment": null
+    },
+    "ynu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yahuna",
+        "comment": null
+    },
+    "yob": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yoba",
+        "comment": null
+    },
+    "yol": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yola",
+        "comment": null
+    },
+    "ysc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yassic",
+        "comment": null
+    },
+    "ysr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Sirenik Yupik",
+        "comment": null
+    },
+    "yty": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yatay",
+        "comment": null
+    },
+    "yub": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yugambal",
+        "comment": null
+    },
+    "yug": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yug",
+        "comment": null
+    },
+    "yuk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yuki",
+        "comment": null
+    },
+    "yvt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yavitero",
+        "comment": null
+    },
+    "yww": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yawarawarga",
+        "comment": null
+    },
+    "yxa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mayawali",
+        "comment": null
+    },
+    "yxg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yagara",
+        "comment": null
+    },
+    "yxl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yardliyawarra",
+        "comment": null
+    },
+    "yxm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yinwum",
+        "comment": null
+    },
+    "yxu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yuyu",
+        "comment": null
+    },
+    "yxy": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yabula Yabula",
+        "comment": null
+    },
+    "yyr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Yir Yoront",
+        "comment": null
+    },
+    "zir": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Ziriya",
+        "comment": null
+    },
+    "zkb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Koibal",
+        "comment": null
+    },
+    "zkg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Koguryo",
+        "comment": null
+    },
+    "zkh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Khorezmian",
+        "comment": null
+    },
+    "zkk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Karankawa",
+        "comment": null
+    },
+    "zko": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kott",
+        "comment": null
+    },
+    "zkp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "São Paulo Kaingáng",
+        "comment": null
+    },
+    "zkt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kitan",
+        "comment": null
+    },
+    "zku": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kaurna",
+        "comment": null
+    },
+    "zkv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Krevinian",
+        "comment": null
+    },
+    "zkz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Khazar",
+        "comment": null
+    },
+    "zmc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Margany",
+        "comment": null
+    },
+    "zme": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mangerr",
+        "comment": null
+    },
+    "zmh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Makolkol",
+        "comment": null
+    },
+    "zmk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mandandanyi",
+        "comment": null
+    },
+    "zmu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Muruwari",
+        "comment": null
+    },
+    "zmv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Mbariman-Gudhinma",
+        "comment": null
+    },
+    "znk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Manangkari",
+        "comment": null
+    },
+    "zra": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Kara (Korea)",
+        "comment": null
+    },
+    "zrp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "extinct",
+        "referenceName": "Zarphatic",
+        "comment": null
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "afh": {
+        "part2B": "afh",
+        "part2T": "afh",
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Afrihili",
+        "comment": null
+    },
+    "avk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Kotava",
+        "comment": null
+    },
+    "bzt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Brithenig",
+        "comment": null
+    },
+    "dws": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Dutton World Speedwords",
+        "comment": null
+    },
+    "epo": {
+        "part2B": "epo",
+        "part2T": "epo",
+        "part1": "eo",
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Esperanto",
+        "comment": null
+    },
+    "ido": {
+        "part2B": "ido",
+        "part2T": "ido",
+        "part1": "io",
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Ido",
+        "comment": null
+    },
+    "igs": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Interglossa",
+        "comment": null
+    },
+    "ile": {
+        "part2B": "ile",
+        "part2T": "ile",
+        "part1": "ie",
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Interlingue",
+        "comment": null
+    },
+    "ina": {
+        "part2B": "ina",
+        "part2T": "ina",
+        "part1": "ia",
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Interlingua (International Auxiliary Language Association)",
+        "comment": null
+    },
+    "jbo": {
+        "part2B": "jbo",
+        "part2T": "jbo",
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Lojban",
+        "comment": null
+    },
+    "ldn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Láadan",
+        "comment": null
+    },
+    "lfn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Lingua Franca Nova",
+        "comment": null
+    },
+    "neu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Neo",
+        "comment": null
+    },
+    "nov": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Novial",
+        "comment": null
+    },
+    "qya": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Quenya",
+        "comment": null
+    },
+    "rmv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Romanova",
+        "comment": null
+    },
+    "sjn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Sindarin",
+        "comment": null
+    },
+    "tlh": {
+        "part2B": "tlh",
+        "part2T": "tlh",
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Klingon",
+        "comment": null
+    },
+    "tzl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Talossan",
+        "comment": null
+    },
+    "vol": {
+        "part2B": "vol",
+        "part2T": "vol",
+        "part1": "vo",
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Volapük",
+        "comment": null
+    },
+    "zbl": {
+        "part2B": "zbl",
+        "part2T": "zbl",
+        "part1": null,
+        "scope": "individual",
+        "type": "constructed",
+        "referenceName": "Blissymbols",
+        "comment": null
+    }
+}

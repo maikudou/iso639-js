@@ -1,0 +1,614 @@
+{
+    "ang": {
+        "part2B": "ang",
+        "part2T": "ang",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old English (ca. 450-1100)",
+        "comment": null
+    },
+    "axm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Armenian",
+        "comment": null
+    },
+    "cmg": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Mongolian",
+        "comment": null
+    },
+    "cnx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Cornish",
+        "comment": null
+    },
+    "dum": {
+        "part2B": "dum",
+        "part2T": "dum",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Dutch (ca. 1050-1350)",
+        "comment": null
+    },
+    "enm": {
+        "part2B": "enm",
+        "part2T": "enm",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle English (1100-1500)",
+        "comment": null
+    },
+    "frm": {
+        "part2B": "frm",
+        "part2T": "frm",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle French (ca. 1400-1600)",
+        "comment": null
+    },
+    "fro": {
+        "part2B": "fro",
+        "part2T": "fro",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old French (842-ca. 1400)",
+        "comment": null
+    },
+    "gmh": {
+        "part2B": "gmh",
+        "part2T": "gmh",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle High German (ca. 1050-1500)",
+        "comment": null
+    },
+    "gml": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Low German",
+        "comment": null
+    },
+    "goh": {
+        "part2B": "goh",
+        "part2T": "goh",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old High German (ca. 750-1050)",
+        "comment": null
+    },
+    "grc": {
+        "part2B": "grc",
+        "part2T": "grc",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Ancient Greek (to 1453)",
+        "comment": null
+    },
+    "hbo": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Ancient Hebrew",
+        "comment": null
+    },
+    "jpa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Jewish Palestinian Aramaic",
+        "comment": null
+    },
+    "kjv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Kaikavian Literary Language",
+        "comment": null
+    },
+    "ltc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Late Middle Chinese",
+        "comment": null
+    },
+    "lzh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Literary Chinese",
+        "comment": null
+    },
+    "mga": {
+        "part2B": "mga",
+        "part2T": "mga",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Irish (900-1200)",
+        "comment": null
+    },
+    "myz": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Mandaic",
+        "comment": null
+    },
+    "nci": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Nahuatl",
+        "comment": null
+    },
+    "non": {
+        "part2B": "non",
+        "part2T": "non",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Norse",
+        "comment": null
+    },
+    "nwc": {
+        "part2B": "nwc",
+        "part2T": "nwc",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Newari",
+        "comment": null
+    },
+    "nwx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Newar",
+        "comment": null
+    },
+    "oav": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Avar",
+        "comment": null
+    },
+    "obr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Burmese",
+        "comment": null
+    },
+    "obt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Breton",
+        "comment": null
+    },
+    "oco": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Cornish",
+        "comment": null
+    },
+    "odt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Dutch",
+        "comment": null
+    },
+    "ofs": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Frisian",
+        "comment": null
+    },
+    "oge": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Georgian",
+        "comment": null
+    },
+    "ohu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Hungarian",
+        "comment": null
+    },
+    "ojp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Japanese",
+        "comment": null
+    },
+    "okm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Korean (10th-16th cent.)",
+        "comment": null
+    },
+    "oko": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Korean (3rd-9th cent.)",
+        "comment": null
+    },
+    "olt": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Lithuanian",
+        "comment": null
+    },
+    "omp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Manipuri",
+        "comment": null
+    },
+    "omr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Marathi",
+        "comment": null
+    },
+    "omx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Mon",
+        "comment": null
+    },
+    "onw": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Nubian",
+        "comment": null
+    },
+    "orv": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Russian",
+        "comment": null
+    },
+    "osp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Spanish",
+        "comment": null
+    },
+    "osx": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Saxon",
+        "comment": null
+    },
+    "ota": {
+        "part2B": "ota",
+        "part2T": "ota",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Ottoman Turkish (1500-1928)",
+        "comment": null
+    },
+    "otb": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Tibetan",
+        "comment": null
+    },
+    "otk": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Turkish",
+        "comment": null
+    },
+    "oui": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Uighur",
+        "comment": null
+    },
+    "owl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Welsh",
+        "comment": null
+    },
+    "peo": {
+        "part2B": "peo",
+        "part2T": "peo",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Persian (ca. 600-400 B.C.)",
+        "comment": null
+    },
+    "pgd": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Gāndhārī",
+        "comment": null
+    },
+    "pka": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Ardhamāgadhī Prākrit",
+        "comment": null
+    },
+    "pmh": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Māhārāṣṭri Prākrit",
+        "comment": null
+    },
+    "pro": {
+        "part2B": "pro",
+        "part2T": "pro",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Provençal (to 1500)",
+        "comment": null
+    },
+    "psu": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Sauraseni Prākrit",
+        "comment": null
+    },
+    "qwc": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Quechua",
+        "comment": null
+    },
+    "sga": {
+        "part2B": "sga",
+        "part2T": "sga",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Old Irish (to 900)",
+        "comment": null
+    },
+    "sqr": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Siculo Arabic",
+        "comment": null
+    },
+    "syc": {
+        "part2B": "syc",
+        "part2T": "syc",
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Syriac",
+        "comment": null
+    },
+    "wlm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Welsh",
+        "comment": null
+    },
+    "xaa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Andalusian Arabic",
+        "comment": null
+    },
+    "xbm": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Breton",
+        "comment": null
+    },
+    "xcl": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Armenian",
+        "comment": null
+    },
+    "xct": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Classical Tibetan",
+        "comment": null
+    },
+    "xmn": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Manichaean Middle Persian",
+        "comment": null
+    },
+    "xng": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Middle Mongolian",
+        "comment": null
+    },
+    "xno": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Anglo-Norman",
+        "comment": null
+    },
+    "xqa": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Karakhanid",
+        "comment": null
+    },
+    "xtq": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Tumshuqese",
+        "comment": null
+    },
+    "xzp": {
+        "part2B": null,
+        "part2T": null,
+        "part1": null,
+        "scope": "individual",
+        "type": "historical",
+        "referenceName": "Ancient Zapotec",
+        "comment": null
+    }
+}
