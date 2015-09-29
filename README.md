@@ -3,7 +3,7 @@ iso639-js
 
 ISO639 language codes for use in javaScript applications
 
-Based on [http://www-01.sil.org/iso639-3](http://www-01.sil.org/iso639-3)
+Based on [http://www-01.sil.org/iso639-3](http://www-01.sil.org/iso639-3), Wikipedia and other sources
 
 Generated files:
 ----------------
