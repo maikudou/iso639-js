@@ -1,0 +1,1986 @@
+{
+    "aka": [
+        {
+            "fat": {
+                "status": "active"
+            }
+        },{
+            "twi": {
+                "status": "active"
+            }
+        }
+    ],
+    "ara": [
+        {
+            "aao": {
+                "status": "active"
+            }
+        },{
+            "abh": {
+                "status": "active"
+            }
+        },{
+            "abv": {
+                "status": "active"
+            }
+        },{
+            "acm": {
+                "status": "active"
+            }
+        },{
+            "acq": {
+                "status": "active"
+            }
+        },{
+            "acw": {
+                "status": "active"
+            }
+        },{
+            "acx": {
+                "status": "active"
+            }
+        },{
+            "acy": {
+                "status": "active"
+            }
+        },{
+            "adf": {
+                "status": "active"
+            }
+        },{
+            "aeb": {
+                "status": "active"
+            }
+        },{
+            "aec": {
+                "status": "active"
+            }
+        },{
+            "afb": {
+                "status": "active"
+            }
+        },{
+            "ajp": {
+                "status": "active"
+            }
+        },{
+            "apc": {
+                "status": "active"
+            }
+        },{
+            "apd": {
+                "status": "active"
+            }
+        },{
+            "arb": {
+                "status": "active"
+            }
+        },{
+            "arq": {
+                "status": "active"
+            }
+        },{
+            "ars": {
+                "status": "active"
+            }
+        },{
+            "ary": {
+                "status": "active"
+            }
+        },{
+            "arz": {
+                "status": "active"
+            }
+        },{
+            "auz": {
+                "status": "active"
+            }
+        },{
+            "avl": {
+                "status": "active"
+            }
+        },{
+            "ayh": {
+                "status": "active"
+            }
+        },{
+            "ayl": {
+                "status": "active"
+            }
+        },{
+            "ayn": {
+                "status": "active"
+            }
+        },{
+            "ayp": {
+                "status": "active"
+            }
+        },{
+            "bbz": {
+                "status": "active"
+            }
+        },{
+            "pga": {
+                "status": "active"
+            }
+        },{
+            "shu": {
+                "status": "active"
+            }
+        },{
+            "ssh": {
+                "status": "active"
+            }
+        },{
+            "ayc": {
+                "status": "active"
+            }
+        }
+    ],
+    "aym": [
+        {
+            "ayr": {
+                "status": "active"
+            }
+        }
+    ],
+    "aze": [
+        {
+            "azb": {
+                "status": "active"
+            }
+        },{
+            "azj": {
+                "status": "active"
+            }
+        }
+    ],
+    "bal": [
+        {
+            "bcc": {
+                "status": "active"
+            }
+        },{
+            "bgn": {
+                "status": "active"
+            }
+        },{
+            "bgp": {
+                "status": "active"
+            }
+        }
+    ],
+    "bik": [
+        {
+            "bcl": {
+                "status": "active"
+            }
+        },{
+            "bhk": {
+                "status": "retired"
+            }
+        },{
+            "bln": {
+                "status": "active"
+            }
+        },{
+            "bto": {
+                "status": "active"
+            }
+        },{
+            "cts": {
+                "status": "active"
+            }
+        },{
+            "fbl": {
+                "status": "active"
+            }
+        },{
+            "lbl": {
+                "status": "active"
+            }
+        },{
+            "rbl": {
+                "status": "active"
+            }
+        },{
+            "ubl": {
+                "status": "active"
+            }
+        }
+    ],
+    "bnc": [
+        {
+            "ebk": {
+                "status": "active"
+            }
+        },{
+            "lbk": {
+                "status": "active"
+            }
+        },{
+            "obk": {
+                "status": "active"
+            }
+        },{
+            "rbk": {
+                "status": "active"
+            }
+        },{
+            "vbk": {
+                "status": "active"
+            }
+        }
+    ],
+    "bua": [
+        {
+            "bxm": {
+                "status": "active"
+            }
+        },{
+            "bxr": {
+                "status": "active"
+            }
+        },{
+            "bxu": {
+                "status": "active"
+            }
+        }
+    ],
+    "chm": [
+        {
+            "mhr": {
+                "status": "active"
+            }
+        },{
+            "mrj": {
+                "status": "active"
+            }
+        }
+    ],
+    "cre": [
+        {
+            "crj": {
+                "status": "active"
+            }
+        },{
+            "crk": {
+                "status": "active"
+            }
+        },{
+            "crl": {
+                "status": "active"
+            }
+        },{
+            "crm": {
+                "status": "active"
+            }
+        },{
+            "csw": {
+                "status": "active"
+            }
+        },{
+            "cwd": {
+                "status": "active"
+            }
+        }
+    ],
+    "del": [
+        {
+            "umu": {
+                "status": "active"
+            }
+        },{
+            "unm": {
+                "status": "active"
+            }
+        }
+    ],
+    "den": [
+        {
+            "scs": {
+                "status": "active"
+            }
+        },{
+            "xsl": {
+                "status": "active"
+            }
+        }
+    ],
+    "din": [
+        {
+            "dib": {
+                "status": "active"
+            }
+        },{
+            "dik": {
+                "status": "active"
+            }
+        },{
+            "dip": {
+                "status": "active"
+            }
+        },{
+            "diw": {
+                "status": "active"
+            }
+        },{
+            "dks": {
+                "status": "active"
+            }
+        }
+    ],
+    "doi": [
+        {
+            "dgo": {
+                "status": "active"
+            }
+        },{
+            "xnr": {
+                "status": "active"
+            }
+        }
+    ],
+    "est": [
+        {
+            "ekk": {
+                "status": "active"
+            }
+        },{
+            "vro": {
+                "status": "active"
+            }
+        }
+    ],
+    "fas": [
+        {
+            "pes": {
+                "status": "active"
+            }
+        },{
+            "prs": {
+                "status": "active"
+            }
+        }
+    ],
+    "ful": [
+        {
+            "ffm": {
+                "status": "active"
+            }
+        },{
+            "fub": {
+                "status": "active"
+            }
+        },{
+            "fuc": {
+                "status": "active"
+            }
+        },{
+            "fue": {
+                "status": "active"
+            }
+        },{
+            "fuf": {
+                "status": "active"
+            }
+        },{
+            "fuh": {
+                "status": "active"
+            }
+        },{
+            "fui": {
+                "status": "active"
+            }
+        },{
+            "fuq": {
+                "status": "active"
+            }
+        },{
+            "fuv": {
+                "status": "active"
+            }
+        }
+    ],
+    "gba": [
+        {
+            "bdt": {
+                "status": "active"
+            }
+        },{
+            "gbp": {
+                "status": "active"
+            }
+        },{
+            "gbq": {
+                "status": "active"
+            }
+        },{
+            "gmm": {
+                "status": "active"
+            }
+        },{
+            "gso": {
+                "status": "active"
+            }
+        },{
+            "gya": {
+                "status": "active"
+            }
+        },{
+            "mdo": {
+                "status": "retired"
+            }
+        }
+    ],
+    "gon": [
+        {
+            "ggo": {
+                "status": "active"
+            }
+        },{
+            "gno": {
+                "status": "active"
+            }
+        }
+    ],
+    "grb": [
+        {
+            "gbo": {
+                "status": "active"
+            }
+        },{
+            "gec": {
+                "status": "active"
+            }
+        },{
+            "grj": {
+                "status": "active"
+            }
+        },{
+            "grv": {
+                "status": "active"
+            }
+        },{
+            "gry": {
+                "status": "active"
+            }
+        }
+    ],
+    "grn": [
+        {
+            "gnw": {
+                "status": "active"
+            }
+        },{
+            "gug": {
+                "status": "active"
+            }
+        },{
+            "gui": {
+                "status": "active"
+            }
+        },{
+            "gun": {
+                "status": "active"
+            }
+        },{
+            "nhd": {
+                "status": "active"
+            }
+        }
+    ],
+    "hai": [
+        {
+            "hax": {
+                "status": "active"
+            }
+        },{
+            "hdn": {
+                "status": "active"
+            }
+        }
+    ],
+    "hbs": [
+        {
+            "bos": {
+                "status": "active"
+            }
+        },{
+            "hrv": {
+                "status": "active"
+            }
+        },{
+            "srp": {
+                "status": "active"
+            }
+        }
+    ],
+    "hmn": [
+        {
+            "blu": {
+                "status": "retired"
+            }
+        },{
+            "cqd": {
+                "status": "active"
+            }
+        },{
+            "hea": {
+                "status": "active"
+            }
+        },{
+            "hma": {
+                "status": "active"
+            }
+        },{
+            "hmc": {
+                "status": "active"
+            }
+        },{
+            "hmd": {
+                "status": "active"
+            }
+        },{
+            "hme": {
+                "status": "active"
+            }
+        },{
+            "hmg": {
+                "status": "active"
+            }
+        },{
+            "hmh": {
+                "status": "active"
+            }
+        },{
+            "hmi": {
+                "status": "active"
+            }
+        },{
+            "hmj": {
+                "status": "active"
+            }
+        },{
+            "hml": {
+                "status": "active"
+            }
+        },{
+            "hmm": {
+                "status": "active"
+            }
+        },{
+            "hmp": {
+                "status": "active"
+            }
+        },{
+            "hmq": {
+                "status": "active"
+            }
+        },{
+            "hms": {
+                "status": "active"
+            }
+        },{
+            "hmw": {
+                "status": "active"
+            }
+        },{
+            "hmy": {
+                "status": "active"
+            }
+        },{
+            "hmz": {
+                "status": "active"
+            }
+        },{
+            "hnj": {
+                "status": "active"
+            }
+        },{
+            "hrm": {
+                "status": "active"
+            }
+        },{
+            "huj": {
+                "status": "active"
+            }
+        },{
+            "mmr": {
+                "status": "active"
+            }
+        },{
+            "muq": {
+                "status": "active"
+            }
+        },{
+            "mww": {
+                "status": "active"
+            }
+        },{
+            "sfm": {
+                "status": "active"
+            }
+        }
+    ],
+    "iku": [
+        {
+            "ike": {
+                "status": "active"
+            }
+        },{
+            "ikt": {
+                "status": "active"
+            }
+        }
+    ],
+    "ipk": [
+        {
+            "esi": {
+                "status": "active"
+            }
+        },{
+            "esk": {
+                "status": "active"
+            }
+        }
+    ],
+    "jrb": [
+        {
+            "ajt": {
+                "status": "active"
+            }
+        },{
+            "aju": {
+                "status": "active"
+            }
+        },{
+            "jye": {
+                "status": "active"
+            }
+        },{
+            "yhd": {
+                "status": "active"
+            }
+        },{
+            "yud": {
+                "status": "active"
+            }
+        }
+    ],
+    "kau": [
+        {
+            "kby": {
+                "status": "active"
+            }
+        },{
+            "knc": {
+                "status": "active"
+            }
+        },{
+            "krt": {
+                "status": "active"
+            }
+        }
+    ],
+    "kln": [
+        {
+            "enb": {
+                "status": "active"
+            }
+        },{
+            "eyo": {
+                "status": "active"
+            }
+        },{
+            "niq": {
+                "status": "active"
+            }
+        },{
+            "oki": {
+                "status": "active"
+            }
+        },{
+            "pko": {
+                "status": "active"
+            }
+        },{
+            "sgc": {
+                "status": "active"
+            }
+        },{
+            "spy": {
+                "status": "active"
+            }
+        },{
+            "tec": {
+                "status": "active"
+            }
+        },{
+            "tuy": {
+                "status": "active"
+            }
+        }
+    ],
+    "kok": [
+        {
+            "gom": {
+                "status": "active"
+            }
+        },{
+            "knn": {
+                "status": "active"
+            }
+        }
+    ],
+    "kom": [
+        {
+            "koi": {
+                "status": "active"
+            }
+        },{
+            "kpv": {
+                "status": "active"
+            }
+        }
+    ],
+    "kon": [
+        {
+            "kng": {
+                "status": "active"
+            }
+        },{
+            "kwy": {
+                "status": "active"
+            }
+        },{
+            "ldi": {
+                "status": "active"
+            }
+        }
+    ],
+    "kpe": [
+        {
+            "gkp": {
+                "status": "active"
+            }
+        },{
+            "xpe": {
+                "status": "active"
+            }
+        }
+    ],
+    "kur": [
+        {
+            "ckb": {
+                "status": "active"
+            }
+        },{
+            "kmr": {
+                "status": "active"
+            }
+        },{
+            "sdh": {
+                "status": "active"
+            }
+        }
+    ],
+    "lah": [
+        {
+            "hnd": {
+                "status": "active"
+            }
+        },{
+            "hno": {
+                "status": "active"
+            }
+        },{
+            "jat": {
+                "status": "active"
+            }
+        },{
+            "phr": {
+                "status": "active"
+            }
+        },{
+            "pmu": {
+                "status": "retired"
+            }
+        },{
+            "pnb": {
+                "status": "active"
+            }
+        },{
+            "skr": {
+                "status": "active"
+            }
+        },{
+            "xhe": {
+                "status": "active"
+            }
+        }
+    ],
+    "lav": [
+        {
+            "ltg": {
+                "status": "active"
+            }
+        },{
+            "lvs": {
+                "status": "active"
+            }
+        }
+    ],
+    "luy": [
+        {
+            "bxk": {
+                "status": "active"
+            }
+        },{
+            "ida": {
+                "status": "active"
+            }
+        },{
+            "lkb": {
+                "status": "active"
+            }
+        },{
+            "lko": {
+                "status": "active"
+            }
+        },{
+            "lks": {
+                "status": "active"
+            }
+        },{
+            "lri": {
+                "status": "active"
+            }
+        },{
+            "lrm": {
+                "status": "active"
+            }
+        },{
+            "lsm": {
+                "status": "active"
+            }
+        },{
+            "lto": {
+                "status": "active"
+            }
+        },{
+            "lts": {
+                "status": "active"
+            }
+        },{
+            "lwg": {
+                "status": "active"
+            }
+        },{
+            "nle": {
+                "status": "active"
+            }
+        },{
+            "nyd": {
+                "status": "active"
+            }
+        },{
+            "rag": {
+                "status": "active"
+            }
+        }
+    ],
+    "man": [
+        {
+            "emk": {
+                "status": "active"
+            }
+        },{
+            "mku": {
+                "status": "active"
+            }
+        },{
+            "mlq": {
+                "status": "active"
+            }
+        },{
+            "mnk": {
+                "status": "active"
+            }
+        },{
+            "msc": {
+                "status": "active"
+            }
+        },{
+            "mwk": {
+                "status": "active"
+            }
+        },{
+            "myq": {
+                "status": "retired"
+            }
+        }
+    ],
+    "mlg": [
+        {
+            "bhr": {
+                "status": "active"
+            }
+        },{
+            "bjq": {
+                "status": "retired"
+            }
+        },{
+            "bmm": {
+                "status": "active"
+            }
+        },{
+            "bzc": {
+                "status": "active"
+            }
+        },{
+            "msh": {
+                "status": "active"
+            }
+        },{
+            "plt": {
+                "status": "active"
+            }
+        },{
+            "skg": {
+                "status": "active"
+            }
+        },{
+            "tdx": {
+                "status": "active"
+            }
+        },{
+            "tkg": {
+                "status": "active"
+            }
+        },{
+            "txy": {
+                "status": "active"
+            }
+        },{
+            "xmv": {
+                "status": "active"
+            }
+        },{
+            "xmw": {
+                "status": "active"
+            }
+        }
+    ],
+    "mon": [
+        {
+            "khk": {
+                "status": "active"
+            }
+        },{
+            "mvf": {
+                "status": "active"
+            }
+        }
+    ],
+    "msa": [
+        {
+            "bjn": {
+                "status": "active"
+            }
+        },{
+            "btj": {
+                "status": "active"
+            }
+        },{
+            "bve": {
+                "status": "active"
+            }
+        },{
+            "bvu": {
+                "status": "active"
+            }
+        },{
+            "coa": {
+                "status": "active"
+            }
+        },{
+            "dup": {
+                "status": "active"
+            }
+        },{
+            "hji": {
+                "status": "active"
+            }
+        },{
+            "ind": {
+                "status": "active"
+            }
+        },{
+            "jak": {
+                "status": "active"
+            }
+        },{
+            "jax": {
+                "status": "active"
+            }
+        },{
+            "kvb": {
+                "status": "active"
+            }
+        },{
+            "kvr": {
+                "status": "active"
+            }
+        },{
+            "kxd": {
+                "status": "active"
+            }
+        },{
+            "lce": {
+                "status": "active"
+            }
+        },{
+            "lcf": {
+                "status": "active"
+            }
+        },{
+            "liw": {
+                "status": "active"
+            }
+        },{
+            "max": {
+                "status": "active"
+            }
+        },{
+            "meo": {
+                "status": "active"
+            }
+        },{
+            "mfa": {
+                "status": "active"
+            }
+        },{
+            "mfb": {
+                "status": "active"
+            }
+        },{
+            "min": {
+                "status": "active"
+            }
+        },{
+            "mly": {
+                "status": "retired"
+            }
+        },{
+            "mqg": {
+                "status": "active"
+            }
+        },{
+            "msi": {
+                "status": "active"
+            }
+        },{
+            "mui": {
+                "status": "active"
+            }
+        },{
+            "orn": {
+                "status": "active"
+            }
+        },{
+            "ors": {
+                "status": "active"
+            }
+        },{
+            "pel": {
+                "status": "active"
+            }
+        },{
+            "pse": {
+                "status": "active"
+            }
+        },{
+            "tmw": {
+                "status": "active"
+            }
+        },{
+            "urk": {
+                "status": "active"
+            }
+        },{
+            "vkk": {
+                "status": "active"
+            }
+        },{
+            "vkt": {
+                "status": "active"
+            }
+        },{
+            "xmm": {
+                "status": "active"
+            }
+        },{
+            "zlm": {
+                "status": "active"
+            }
+        },{
+            "zmi": {
+                "status": "active"
+            }
+        },{
+            "zsm": {
+                "status": "active"
+            }
+        }
+    ],
+    "mwr": [
+        {
+            "dhd": {
+                "status": "active"
+            }
+        },{
+            "mtr": {
+                "status": "active"
+            }
+        },{
+            "mve": {
+                "status": "active"
+            }
+        },{
+            "rwr": {
+                "status": "active"
+            }
+        },{
+            "swv": {
+                "status": "active"
+            }
+        },{
+            "wry": {
+                "status": "active"
+            }
+        }
+    ],
+    "nep": [
+        {
+            "dty": {
+                "status": "active"
+            }
+        },{
+            "npi": {
+                "status": "active"
+            }
+        }
+    ],
+    "nor": [
+        {
+            "nno": {
+                "status": "active"
+            }
+        },{
+            "nob": {
+                "status": "active"
+            }
+        }
+    ],
+    "oji": [
+        {
+            "ciw": {
+                "status": "active"
+            }
+        }
+    ],
+    "oji": [
+        {
+            "ojb": {
+                "status": "active"
+            }
+        },{
+            "ojc": {
+                "status": "active"
+            }
+        },{
+            "ojg": {
+                "status": "active"
+            }
+        },{
+            "ojs": {
+                "status": "active"
+            }
+        },{
+            "ojw": {
+                "status": "active"
+            }
+        },{
+            "otw": {
+                "status": "active"
+            }
+        }
+    ],
+    "ori": [
+        {
+            "ory": {
+                "status": "active"
+            }
+        },{
+            "spv": {
+                "status": "active"
+            }
+        }
+    ],
+    "orm": [
+        {
+            "gax": {
+                "status": "active"
+            }
+        },{
+            "gaz": {
+                "status": "active"
+            }
+        },{
+            "hae": {
+                "status": "active"
+            }
+        },{
+            "orc": {
+                "status": "active"
+            }
+        }
+    ],
+    "pus": [
+        {
+            "pbt": {
+                "status": "active"
+            }
+        },{
+            "pbu": {
+                "status": "active"
+            }
+        },{
+            "pst": {
+                "status": "active"
+            }
+        }
+    ],
+    "que": [
+        {
+            "cqu": {
+                "status": "active"
+            }
+        },{
+            "qub": {
+                "status": "active"
+            }
+        },{
+            "qud": {
+                "status": "active"
+            }
+        },{
+            "quf": {
+                "status": "active"
+            }
+        },{
+            "qug": {
+                "status": "active"
+            }
+        },{
+            "quh": {
+                "status": "active"
+            }
+        },{
+            "quk": {
+                "status": "active"
+            }
+        },{
+            "qul": {
+                "status": "active"
+            }
+        },{
+            "qup": {
+                "status": "active"
+            }
+        },{
+            "qur": {
+                "status": "active"
+            }
+        },{
+            "qus": {
+                "status": "active"
+            }
+        },{
+            "quw": {
+                "status": "active"
+            }
+        },{
+            "qux": {
+                "status": "active"
+            }
+        },{
+            "quy": {
+                "status": "active"
+            }
+        },{
+            "quz": {
+                "status": "active"
+            }
+        },{
+            "qva": {
+                "status": "active"
+            }
+        },{
+            "qvc": {
+                "status": "active"
+            }
+        },{
+            "qve": {
+                "status": "active"
+            }
+        },{
+            "qvh": {
+                "status": "active"
+            }
+        },{
+            "qvi": {
+                "status": "active"
+            }
+        },{
+            "qvj": {
+                "status": "active"
+            }
+        },{
+            "qvl": {
+                "status": "active"
+            }
+        },{
+            "qvm": {
+                "status": "active"
+            }
+        },{
+            "qvn": {
+                "status": "active"
+            }
+        },{
+            "qvo": {
+                "status": "active"
+            }
+        },{
+            "qvp": {
+                "status": "active"
+            }
+        },{
+            "qvs": {
+                "status": "active"
+            }
+        },{
+            "qvw": {
+                "status": "active"
+            }
+        },{
+            "qvz": {
+                "status": "active"
+            }
+        },{
+            "qwa": {
+                "status": "active"
+            }
+        },{
+            "qwc": {
+                "status": "active"
+            }
+        },{
+            "qwh": {
+                "status": "active"
+            }
+        },{
+            "qws": {
+                "status": "active"
+            }
+        },{
+            "qxa": {
+                "status": "active"
+            }
+        },{
+            "qxc": {
+                "status": "active"
+            }
+        },{
+            "qxh": {
+                "status": "active"
+            }
+        },{
+            "qxl": {
+                "status": "active"
+            }
+        },{
+            "qxn": {
+                "status": "active"
+            }
+        },{
+            "qxo": {
+                "status": "active"
+            }
+        },{
+            "qxp": {
+                "status": "active"
+            }
+        },{
+            "qxr": {
+                "status": "active"
+            }
+        },{
+            "qxt": {
+                "status": "active"
+            }
+        },{
+            "qxu": {
+                "status": "active"
+            }
+        },{
+            "qxw": {
+                "status": "active"
+            }
+        }
+    ],
+    "raj": [
+        {
+            "bgq": {
+                "status": "active"
+            }
+        },{
+            "gda": {
+                "status": "active"
+            }
+        },{
+            "gju": {
+                "status": "active"
+            }
+        },{
+            "hoj": {
+                "status": "active"
+            }
+        },{
+            "mup": {
+                "status": "active"
+            }
+        },{
+            "wbr": {
+                "status": "active"
+            }
+        }
+    ],
+    "rom": [
+        {
+            "rmc": {
+                "status": "active"
+            }
+        },{
+            "rmf": {
+                "status": "active"
+            }
+        },{
+            "rml": {
+                "status": "active"
+            }
+        },{
+            "rmn": {
+                "status": "active"
+            }
+        },{
+            "rmo": {
+                "status": "active"
+            }
+        },{
+            "rmw": {
+                "status": "active"
+            }
+        },{
+            "rmy": {
+                "status": "active"
+            }
+        }
+    ],
+    "sqi": [
+        {
+            "aae": {
+                "status": "active"
+            }
+        },{
+            "aat": {
+                "status": "active"
+            }
+        },{
+            "aln": {
+                "status": "active"
+            }
+        },{
+            "als": {
+                "status": "active"
+            }
+        }
+    ],
+    "srd": [
+        {
+            "sdc": {
+                "status": "active"
+            }
+        },{
+            "sdn": {
+                "status": "active"
+            }
+        },{
+            "src": {
+                "status": "active"
+            }
+        },{
+            "sro": {
+                "status": "active"
+            }
+        }
+    ],
+    "swa": [
+        {
+            "swc": {
+                "status": "active"
+            }
+        },{
+            "swh": {
+                "status": "active"
+            }
+        }
+    ],
+    "syr": [
+        {
+            "aii": {
+                "status": "active"
+            }
+        },{
+            "cld": {
+                "status": "active"
+            }
+        }
+    ],
+    "tmh": [
+        {
+            "taq": {
+                "status": "active"
+            }
+        },{
+            "thv": {
+                "status": "active"
+            }
+        },{
+            "thz": {
+                "status": "active"
+            }
+        },{
+            "ttq": {
+                "status": "active"
+            }
+        }
+    ],
+    "uzb": [
+        {
+            "uzn": {
+                "status": "active"
+            }
+        },{
+            "uzs": {
+                "status": "active"
+            }
+        }
+    ],
+    "yid": [
+        {
+            "ydd": {
+                "status": "active"
+            }
+        },{
+            "yih": {
+                "status": "active"
+            }
+        }
+    ],
+    "zap": [
+        {
+            "zaa": {
+                "status": "active"
+            }
+        }
+    ],
+    "zap": [
+        {
+            "zab": {
+                "status": "active"
+            }
+        },{
+            "zac": {
+                "status": "active"
+            }
+        },{
+            "zad": {
+                "status": "active"
+            }
+        },{
+            "zae": {
+                "status": "active"
+            }
+        },{
+            "zaf": {
+                "status": "active"
+            }
+        },{
+            "zai": {
+                "status": "active"
+            }
+        },{
+            "zam": {
+                "status": "active"
+            }
+        },{
+            "zao": {
+                "status": "active"
+            }
+        },{
+            "zaq": {
+                "status": "active"
+            }
+        },{
+            "zar": {
+                "status": "active"
+            }
+        },{
+            "zas": {
+                "status": "active"
+            }
+        },{
+            "zat": {
+                "status": "active"
+            }
+        },{
+            "zav": {
+                "status": "active"
+            }
+        },{
+            "zaw": {
+                "status": "active"
+            }
+        },{
+            "zax": {
+                "status": "active"
+            }
+        },{
+            "zca": {
+                "status": "active"
+            }
+        },{
+            "zoo": {
+                "status": "active"
+            }
+        },{
+            "zpa": {
+                "status": "active"
+            }
+        },{
+            "zpb": {
+                "status": "active"
+            }
+        },{
+            "zpc": {
+                "status": "active"
+            }
+        },{
+            "zpd": {
+                "status": "active"
+            }
+        },{
+            "zpe": {
+                "status": "active"
+            }
+        },{
+            "zpf": {
+                "status": "active"
+            }
+        },{
+            "zpg": {
+                "status": "active"
+            }
+        },{
+            "zph": {
+                "status": "active"
+            }
+        },{
+            "zpi": {
+                "status": "active"
+            }
+        },{
+            "zpj": {
+                "status": "active"
+            }
+        },{
+            "zpk": {
+                "status": "active"
+            }
+        },{
+            "zpl": {
+                "status": "active"
+            }
+        },{
+            "zpm": {
+                "status": "active"
+            }
+        },{
+            "zpn": {
+                "status": "active"
+            }
+        },{
+            "zpo": {
+                "status": "active"
+            }
+        },{
+            "zpp": {
+                "status": "active"
+            }
+        },{
+            "zpq": {
+                "status": "active"
+            }
+        },{
+            "zpr": {
+                "status": "active"
+            }
+        },{
+            "zps": {
+                "status": "active"
+            }
+        },{
+            "zpt": {
+                "status": "active"
+            }
+        },{
+            "zpu": {
+                "status": "active"
+            }
+        },{
+            "zpv": {
+                "status": "active"
+            }
+        },{
+            "zpw": {
+                "status": "active"
+            }
+        },{
+            "zpx": {
+                "status": "active"
+            }
+        },{
+            "zpy": {
+                "status": "active"
+            }
+        },{
+            "zpz": {
+                "status": "active"
+            }
+        },{
+            "zsr": {
+                "status": "active"
+            }
+        },{
+            "ztc": {
+                "status": "retired"
+            }
+        },{
+            "zte": {
+                "status": "active"
+            }
+        },{
+            "ztg": {
+                "status": "active"
+            }
+        },{
+            "ztl": {
+                "status": "active"
+            }
+        },{
+            "ztm": {
+                "status": "active"
+            }
+        },{
+            "ztn": {
+                "status": "active"
+            }
+        },{
+            "ztp": {
+                "status": "active"
+            }
+        },{
+            "ztq": {
+                "status": "active"
+            }
+        },{
+            "zts": {
+                "status": "active"
+            }
+        },{
+            "ztt": {
+                "status": "active"
+            }
+        },{
+            "ztu": {
+                "status": "active"
+            }
+        },{
+            "ztx": {
+                "status": "active"
+            }
+        },{
+            "zty": {
+                "status": "active"
+            }
+        }
+    ],
+    "zha": [
+        {
+            "ccx": {
+                "status": "retired"
+            }
+        },{
+            "ccy": {
+                "status": "retired"
+            }
+        },{
+            "zch": {
+                "status": "active"
+            }
+        },{
+            "zeh": {
+                "status": "active"
+            }
+        },{
+            "zgb": {
+                "status": "active"
+            }
+        },{
+            "zgm": {
+                "status": "active"
+            }
+        },{
+            "zgn": {
+                "status": "active"
+            }
+        },{
+            "zhd": {
+                "status": "active"
+            }
+        },{
+            "zhn": {
+                "status": "active"
+            }
+        },{
+            "zlj": {
+                "status": "active"
+            }
+        },{
+            "zln": {
+                "status": "active"
+            }
+        },{
+            "zlq": {
+                "status": "active"
+            }
+        },{
+            "zqe": {
+                "status": "active"
+            }
+        },{
+            "zyb": {
+                "status": "active"
+            }
+        },{
+            "zyg": {
+                "status": "active"
+            }
+        },{
+            "zyj": {
+                "status": "active"
+            }
+        },{
+            "zyn": {
+                "status": "active"
+            }
+        },{
+            "zzj": {
+                "status": "active"
+            }
+        }
+    ],
+    "zho": [
+        {
+            "cdo": {
+                "status": "active"
+            }
+        },{
+            "cjy": {
+                "status": "active"
+            }
+        },{
+            "cmn": {
+                "status": "active"
+            }
+        },{
+            "cpx": {
+                "status": "active"
+            }
+        },{
+            "czh": {
+                "status": "active"
+            }
+        },{
+            "czo": {
+                "status": "active"
+            }
+        },{
+            "gan": {
+                "status": "active"
+            }
+        },{
+            "hak": {
+                "status": "active"
+            }
+        },{
+            "hsn": {
+                "status": "active"
+            }
+        },{
+            "lzh": {
+                "status": "active"
+            }
+        },{
+            "mnp": {
+                "status": "active"
+            }
+        },{
+            "nan": {
+                "status": "active"
+            }
+        },{
+            "wuu": {
+                "status": "active"
+            }
+        },{
+            "yue": {
+                "status": "active"
+            }
+        }
+    ],
+    "zza": [
+        {
+            "diq": {
+                "status": "active"
+            }
+        },{
+            "kiu": {
+                "status": "active"
+            }
+        }
+    ]
+}
