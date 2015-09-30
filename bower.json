@@ -24,6 +24,7 @@
     "tests",
     "reference",
     "tools",
+    "locales",
     "*.json",
     "README.md"
   ],
