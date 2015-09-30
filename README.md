@@ -1,21 +1,25 @@
 iso639-js
 =========
 
-ISO639 language codes for use in javaScript applications
+ISO 639 is a standardized nomenclature used to classify all known languages. Each language is assigned a two-letter (639-1) and three-letter (639-2 and 639-3), lowercase abbreviation, amended in later versions of the nomenclature.
+
+The system is highly useful for linguists and ethnographers to categorize the languages spoken on a regional basis, and to compute analysis in the field of lexicostatistics. ISO 639 has five code lists.
+
+There is prepared codes for use in your JavaScript applications.
 
 Based on [http://www-01.sil.org/iso639-3](http://www-01.sil.org/iso639-3), Wikipedia and other sources
 
 
-Main files:
+Main files
 -----------
 
-- *iso639.js* Full file with native and all locales names included
-- *iso639_enUS.js* English locale and native names only
-- *iso639_ruRU.js* Russian locale and native names only
+- [Full file with native and all locales names included](iso639.js)
+- [English locale and native names only](iso639_enUS.js)
+- [Russian locale and native names only](iso639_ruRU.js)
 
 
-Other generated files:
-----------------
+Other files
+-----------
 
 - *alpha2to3mappings.json* Mapping from 2-letter codes to 3-letter codes
 - *alpha3to2mappings.json* Mapping from 3-letter codes to 2-letter codes
@@ -26,36 +30,26 @@ Other generated files:
 - *iso639-3_living* List of living languages
 
 
-Reference files:
-----------------
+Reference files
+---------------
 
-### reference/iso639-3.json
+Filename | Last modified | Description
+---------|---------------|------------
+[iso639-3.json](reference/iso639-3.json) | 2015-01-12 | ISO639-3 to ISO639-2 and ISO639-1 mappings
 
-*last modified:* 2015-01-12
 
-ISO639-3 to ISO639-2 and ISO639-1 mappings
+Reference structures
+--------------------
 
-#### part2B
-Equivalent 639-2 identifier of the bibliographic applications code set
+## iso639-3
 
-#### part2T
-Equivalent 639-2 identifier of the terminology applications code
-
-#### part1
-Equivalent 639-1 identifier, if there is one    
-
-#### scope
-`individual`, `macrolanguage`, `special`
-    
-#### type
-`ancient`, `constructed`, `extinct`, `historical`, `living`, `special`
-
-#### referenceName
-Reference language name 
-
-#### comment
-Comment relating to one or more of the columns
-
+* *part2B* - equivalent 639-2 identifier of the bibliographic applications code set
+* *part2T* - equivalent 639-2 identifier of the terminology applications code
+* *part1* - equivalent 639-1 identifier, if there is one    
+* *scope* - one of `individual`, `macrolanguage`, `special`
+* *type* - one of `ancient`, `constructed`, `extinct`, `historical`, `living`, `special`
+* *referenceName* - reference language name 
+* *comment* - comment relating to one or more of the columns
 
 ### reference/iso639-3_name-index.json
 
