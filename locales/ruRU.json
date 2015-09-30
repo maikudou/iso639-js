@@ -1,0 +1,1181 @@
+{
+    "abq": {
+        "localeName": "Абазинский"
+    },
+    "abk": {
+        "localeName": "Абхазский"
+    },
+    "awa": {
+        "localeName": "Авадхи"
+    },
+    "ava": {
+        "localeName": "Аварский"
+    },
+    "ave": {
+        "localeName": "Авестийский"
+    },
+    "ada": {
+        "localeName": "Адангме"
+    },
+    "ady": {
+        "localeName": "Адыгейский"
+    },
+    "aze": {
+        "localeName": "Азербайджанский"
+    },
+    "aym": {
+        "localeName": "Аймара"
+    },
+    "ain": {
+        "localeName": "Айну"
+    },
+    "aka": {
+        "localeName": "Акан"
+    },
+    "akk": {
+        "localeName": "Аккадский"
+    },
+    "sqi": {
+        "localeName": "Албанский"
+    },
+    "ale": {
+        "localeName": "Алеутский"
+    },
+    "alt": {
+        "localeName": "Алтайский"
+    },
+    "amh": {
+        "localeName": "Амхарский"
+    },
+    "eng": {
+        "localeName": "Английский"
+    },
+    "ara": {
+        "localeName": "Арабский"
+    },
+    "arw": {
+        "localeName": "Аравакский"
+    },
+    "arc": {
+        "localeName": "Арамейский"
+    },
+    "arp": {
+        "localeName": "Арапахо"
+    },
+    "ahu": {
+        "localeName": "Арахау"
+    },
+    "arn": {
+        "localeName": "Арауканский"
+    },
+    "hye": {
+        "localeName": "Армянский"
+    },
+    "axm": {
+        "localeName": "Армянский"
+    },
+    "xcl": {
+        "localeName": "Армянский"
+    },
+    "asm": {
+        "localeName": "Ассамский"
+    },
+    "aii": {
+        "localeName": "Ассирийский"
+    },
+    "ath": {
+        "localeName": "Атапачские"
+    },
+    "aar": {
+        "localeName": "Афарский"
+    },
+    "afr": {
+        "localeName": "Африкаанс"
+    },
+    "afh": {
+        "localeName": "Африхили"
+    },
+    "akv": {
+        "localeName": "Ахвахский"
+    },
+    "nah": {
+        "localeName": "Ацтекский"
+    },
+    "ace": {
+        "localeName": "Ачехский"
+    },
+    "ach": {
+        "localeName": "Ачоли"
+    },
+    "ban": {
+        "localeName": "Балийский"
+    },
+    "bam": {
+        "localeName": "Бамбара"
+    },
+    "bad": {
+        "localeName": "Банда"
+    },
+    "bas": {
+        "localeName": "Баса"
+    },
+    "eus": {
+        "localeName": "Баскский"
+    },
+    "bak": {
+        "localeName": "Башкирский"
+    },
+    "bej": {
+        "localeName": "Беджа"
+    },
+    "bel": {
+        "localeName": "Белорусский"
+    },
+    "bal": {
+        "localeName": "Белуджский"
+    },
+    "bem": {
+        "localeName": "Бемба"
+    },
+    "ben": {
+        "localeName": "Бенгальский"
+    },
+    "bik": {
+        "localeName": "Бикольский"
+    },
+    "bin": {
+        "localeName": "Бини"
+    },
+    "mya": {
+        "localeName": "Бирманский"
+    },
+    "bis": {
+        "localeName": "Бислама"
+    },
+    "bul": {
+        "localeName": "Болгарский"
+    },
+    "bos": {
+        "localeName": "Боснийский"
+    },
+    "brh": {
+        "localeName": "Брауи"
+    },
+    "bre": {
+        "localeName": "Бретонский"
+    },
+    "bug": {
+        "localeName": "Бугийский"
+    },
+    "bua": {
+        "localeName": "Бурятский"
+    },
+    "bho": {
+        "localeName": "Бходжпури"
+    },
+    "vai": {
+        "localeName": "Ваи"
+    },
+    "cym": {
+        "localeName": "Валлийский"
+    },
+    "war": {
+        "localeName": "Варай"
+    },
+    "was": {
+        "localeName": "Вашо"
+    },
+    "hun": {
+        "localeName": "Венгерский"
+    },
+    "ven": {
+        "localeName": "Венда"
+    },
+    "vep": {
+        "localeName": "Вепсский"
+    },
+    "wal": {
+        "localeName": "Воламо"
+    },
+    "vol": {
+        "localeName": "Волапюк"
+    },
+    "wol": {
+        "localeName": "Волоф"
+    },
+    "vie": {
+        "localeName": "Вьетнамский"
+    },
+    "gaa": {
+        "localeName": "Га"
+    },
+    "haw": {
+        "localeName": "Гавайский"
+    },
+    "gag": {
+        "localeName": "Гагаузский"
+    },
+    "gay": {
+        "localeName": "Гайо"
+    },
+    "glg": {
+        "localeName": "Галисийский"
+    },
+    "lug": {
+        "localeName": "Ганда"
+    },
+    "her": {
+        "localeName": "Гереро"
+    },
+    "gez": {
+        "localeName": "Геэз"
+    },
+    "gil": {
+        "localeName": "Гилбертский"
+    },
+    "gon": {
+        "localeName": "Гонди"
+    },
+    "got": {
+        "localeName": "Готский"
+    },
+    "grb": {
+        "localeName": "Гребо"
+    },
+    "kal": {
+        "localeName": "Гренландский"
+    },
+    "ell": {
+        "localeName": "Греческий"
+    },
+    "kat": {
+        "localeName": "Грузинский"
+    },
+    "grn": {
+        "localeName": "Гуарани"
+    },
+    "guj": {
+        "localeName": "Гуджарати"
+    },
+    "gla": {
+        "localeName": "Гэльский"
+    },
+    "dak": {
+        "localeName": "Дакота"
+    },
+    "dar": {
+        "localeName": "Даргинский"
+    },
+    "dan": {
+        "localeName": "Датский"
+    },
+    "del": {
+        "localeName": "Делавэрский"
+    },
+    "dzo": {
+        "localeName": "Дзонг-кэ"
+    },
+    "div": {
+        "localeName": "Дивехи"
+    },
+    "din": {
+        "localeName": "Динка"
+    },
+    "dyu": {
+        "localeName": "Диула"
+    },
+    "doi": {
+        "localeName": "Догри"
+    },
+    "grc": {
+        "localeName": "Древнегреческий"
+    },
+    "egy": {
+        "localeName": "Древнеегипетский"
+    },
+    "orv": {
+        "localeName": "Древнерусский"
+    },
+    "osx": {
+        "localeName": "Древнесаксонский"
+    },
+    "dua": {
+        "localeName": "Дуала"
+    },
+    "dng": {
+        "localeName": "Дунганский"
+    },
+    "jrb": {
+        "localeName": "Еврейско-арабский"
+    },
+    "jpr": {
+        "localeName": "Еврейско-персидский"
+    },
+    "zen": {
+        "localeName": "Зенагский"
+    },
+    "zul": {
+        "localeName": "Зулу"
+    },
+    "zun": {
+        "localeName": "Зуньи"
+    },
+    "iba": {
+        "localeName": "Ибанский"
+    },
+    "heb": {
+        "localeName": "Иврит"
+    },
+    "ibo": {
+        "localeName": "Игбо"
+    },
+    "yid": {
+        "localeName": "Идиш"
+    },
+    "ilo": {
+        "localeName": "Илоко"
+    },
+    "inh": {
+        "localeName": "Ингушский"
+    },
+    "ind": {
+        "localeName": "Индонезийский"
+    },
+    "ina": {
+        "localeName": "Интерлингва"
+    },
+    "ile": {
+        "localeName": "Интерлингве"
+    },
+    "iku": {
+        "localeName": "Инуктитут"
+    },
+    "ipk": {
+        "localeName": "Инупиак"
+    },
+    "gle": {
+        "localeName": "Ирландский"
+    },
+    "isl": {
+        "localeName": "Исландский"
+    },
+    "spa": {
+        "localeName": "Испанский"
+    },
+    "ita": {
+        "localeName": "Итальянский"
+    },
+    "itl": {
+        "localeName": "Ительменский"
+    },
+    "yor": {
+        "localeName": "Йоруба"
+    },
+    "kbd": {
+        "localeName": "Кабардино-черкесский"
+    },
+    "kab": {
+        "localeName": "Кабильский"
+    },
+    "kaw": {
+        "localeName": "Кави"
+    },
+    "cad": {
+        "localeName": "Каддо"
+    },
+    "kaz": {
+        "localeName": "Казахский"
+    },
+    "xal": {
+        "localeName": "Калмыцкий"
+    },
+    "kam": {
+        "localeName": "Камба"
+    },
+    "kan": {
+        "localeName": "Каннада"
+    },
+    "kau": {
+        "localeName": "Канури"
+    },
+    "kdr": {
+        "localeName": "Караимский"
+    },
+    "kaa": {
+        "localeName": "Каракалпакский"
+    },
+    "krc": {
+        "localeName": "Карачаево-балкарский"
+    },
+    "krl": {
+        "localeName": "Карельский"
+    },
+    "car": {
+        "localeName": "Кариб"
+    },
+    "cat": {
+        "localeName": "Каталанский"
+    },
+    "kac": {
+        "localeName": "Качинский"
+    },
+    "kas": {
+        "localeName": "Кашмири"
+    },
+    "que": {
+        "localeName": "Кечуа"
+    },
+    "kik": {
+        "localeName": "Кикуйю"
+    },
+    "kua": {
+        "localeName": "Киньяма"
+    },
+    "kir": {
+        "localeName": "Киргизский"
+    },
+    "zho": {
+        "localeName": "Китайский"
+    },
+    "kom": {
+        "localeName": "Коми"
+    },
+    "koi": {
+        "localeName": "Коми-пермяцкий"
+    },
+    "kon": {
+        "localeName": "Конго"
+    },
+    "kok": {
+        "localeName": "Конкани"
+    },
+    "cop": {
+        "localeName": "Коптский"
+    },
+    "kor": {
+        "localeName": "Корейский"
+    },
+    "cor": {
+        "localeName": "Корнский"
+    },
+    "cos": {
+        "localeName": "Корсиканский"
+    },
+    "kpy": {
+        "localeName": "Корякский"
+    },
+    "xho": {
+        "localeName": "Коса"
+    },
+    "kpe": {
+        "localeName": "Кпелле"
+    },
+    "mus": {
+        "localeName": "Крик"
+    },
+    "crh": {
+        "localeName": "Крымско-татарский"
+    },
+    "kum": {
+        "localeName": "Кумыкский"
+    },
+    "kur": {
+        "localeName": "Курдский"
+    },
+    "kru": {
+        "localeName": "Курух"
+    },
+    "kos": {
+        "localeName": "Кусайе"
+    },
+    "kut": {
+        "localeName": "Кутенай"
+    },
+    "kha": {
+        "localeName": "Кхаси"
+    },
+    "khm": {
+        "localeName": "Кхмерский"
+    },
+    "lad": {
+        "localeName": "Ладино"
+    },
+    "lbe": {
+        "localeName": "Лакский"
+    },
+    "lam": {
+        "localeName": "Ламба"
+    },
+    "lao": {
+        "localeName": "Лаосский"
+    },
+    "lat": {
+        "localeName": "Латинский"
+    },
+    "lav": {
+        "localeName": "Латышский"
+    },
+    "lah": {
+        "localeName": "Лахнда"
+    },
+    "lez": {
+        "localeName": "Лезгинский"
+    },
+    "lin": {
+        "localeName": "Лингала"
+    },
+    "lit": {
+        "localeName": "Литовский"
+    },
+    "loz": {
+        "localeName": "Лози"
+    },
+    "lub": {
+        "localeName": "Луба-катанга"
+    },
+    "lui": {
+        "localeName": "Луисеньо"
+    },
+    "lun": {
+        "localeName": "Лунда"
+    },
+    "luo": {
+        "localeName": "Луо"
+    },
+    "ltz": {
+        "localeName": "Люксембургский"
+    },
+    "mag": {
+        "localeName": "Магахи"
+    },
+    "mad": {
+        "localeName": "Мадурский"
+    },
+    "mai": {
+        "localeName": "Майтхили"
+    },
+    "mak": {
+        "localeName": "Макассарский"
+    },
+    "mkd": {
+        "localeName": "Македонский"
+    },
+    "mlg": {
+        "localeName": "Малагасийский"
+    },
+    "msa": {
+        "localeName": "Малайский"
+    },
+    "mal": {
+        "localeName": "Малаялам"
+    },
+    "mlt": {
+        "localeName": "Мальтийский"
+    },
+    "man": {
+        "localeName": "Мандинго"
+    },
+    "mni": {
+        "localeName": "Манипури"
+    },
+    "mns": {
+        "localeName": "Мансийский"
+    },
+    "mri": {
+        "localeName": "Маори"
+    },
+    "mar": {
+        "localeName": "Маратхи"
+    },
+    "mwr": {
+        "localeName": "Марвари"
+    },
+    "chm": {
+        "localeName": "Марийский"
+    },
+    "mah": {
+        "localeName": "Маршалльский"
+    },
+    "mas": {
+        "localeName": "Масаи"
+    },
+    "men": {
+        "localeName": "Менде"
+    },
+    "mic": {
+        "localeName": "Микмак"
+    },
+    "min": {
+        "localeName": "Минангкабау"
+    },
+    "mdf": {
+        "localeName": "Мокшанский"
+    },
+    "ron": {
+        "localeName": "Румынский"
+    },
+    "lol": {
+        "localeName": "Монго"
+    },
+    "mon": {
+        "localeName": "Монгольский"
+    },
+    "mos": {
+        "localeName": "Мооре"
+    },
+    "moh": {
+        "localeName": "Мохаук"
+    },
+    "glv": {
+        "localeName": "Мэнский"
+    },
+    "nav": {
+        "localeName": "Навахо"
+    },
+    "gld": {
+        "localeName": "Нанайский"
+    },
+    "nau": {
+        "localeName": "Науру"
+    },
+    "nde": {
+        "localeName": "Ндебеле северный"
+    },
+    "nbl": {
+        "localeName": "Ндебеле южный"
+    },
+    "ndo": {
+        "localeName": "Ндунга"
+    },
+    "new": {
+        "localeName": "Неварский"
+    },
+    "und": {
+        "localeName": "Неидентифицированный"
+    },
+    "deu": {
+        "localeName": "Немецкий"
+    },
+    "yrk": {
+        "localeName": "Ненецкий"
+    },
+    "nep": {
+        "localeName": "Непальский"
+    },
+    "nzi": {
+        "localeName": "Нзима"
+    },
+    "niv": {
+        "localeName": "Нивхский"
+    },
+    "nld": {
+        "localeName": "Нидерландский"
+    },
+    "dum": {
+        "localeName": "Нидерландский средневековый"
+    },
+    "niu": {
+        "localeName": "Ниуэ"
+    },
+    "nog": {
+        "localeName": "Ногайский"
+    },
+    "nor": {
+        "localeName": "Норвежский"
+    },
+    "nyo": {
+        "localeName": "Ньоро"
+    },
+    "nym": {
+        "localeName": "Ньямвези"
+    },
+    "nya": {
+        "localeName": "Ньянджа"
+    },
+    "nyn": {
+        "localeName": "Ньянколе"
+    },
+    "nno": {
+        "localeName": "Нюнорск"
+    },
+    "oji": {
+        "localeName": "Оджибве"
+    },
+    "oci": {
+        "localeName": "Окситанский"
+    },
+    "ori": {
+        "localeName": "Ория"
+    },
+    "orm": {
+        "localeName": "Оромо"
+    },
+    "osa": {
+        "localeName": "Оседжи"
+    },
+    "oss": {
+        "localeName": "Осетинский"
+    },
+    "pau": {
+        "localeName": "Палау"
+    },
+    "pli": {
+        "localeName": "Пали"
+    },
+    "pam": {
+        "localeName": "Пампанга"
+    },
+    "pag": {
+        "localeName": "Пангасинан"
+    },
+    "pan": {
+        "localeName": "Пенджабский"
+    },
+    "pap": {
+        "localeName": "Папьяменто"
+    },
+    "fas": {
+        "localeName": "Персидский"
+    },
+    "pal": {
+        "localeName": "Пехлевийский"
+    },
+    "pol": {
+        "localeName": "Польский"
+    },
+    "pon": {
+        "localeName": "Понапе"
+    },
+    "por": {
+        "localeName": "Португальский"
+    },
+    "pus": {
+        "localeName": "Пушту"
+    },
+    "raj": {
+        "localeName": "Раджастхани"
+    },
+    "mul": {
+        "localeName": "Разных семей языки"
+    },
+    "rar": {
+        "localeName": "Раротонга"
+    },
+    "roh": {
+        "localeName": "Ретороманский"
+    },
+    "kin": {
+        "localeName": "Руанда"
+    },
+    "run": {
+        "localeName": "Рунди"
+    },
+    "rus": {
+        "localeName": "Русский"
+    },
+    "smi": {
+        "localeName": "Саамский"
+    },
+    "sam": {
+        "localeName": "Самаритянский арамейский"
+    },
+    "smo": {
+        "localeName": "Самоанский"
+    },
+    "sag": {
+        "localeName": "Санго"
+    },
+    "sad": {
+        "localeName": "Сандаве"
+    },
+    "san": {
+        "localeName": "Санскрит"
+    },
+    "zap": {
+        "localeName": "Сапотекский"
+    },
+    "srd": {
+        "localeName": "Сардинский"
+    },
+    "ssw": {
+        "localeName": "Свази"
+    },
+    "ceb": {
+        "localeName": "Себуано"
+    },
+    "sel": {
+        "localeName": "Селькупский"
+    },
+    "srp": {
+        "localeName": "Сербский"
+    },
+    "srr": {
+        "localeName": "Серер"
+    },
+    "sid": {
+        "localeName": "Сидама"
+    },
+    "bla": {
+        "localeName": "Сиксика"
+    },
+    "sin": {
+        "localeName": "Сингальский"
+    },
+    "snd": {
+        "localeName": "Синдхи"
+    },
+    "syr": {
+        "localeName": "Сирийский"
+    },
+    "slk": {
+        "localeName": "Словацкий"
+    },
+    "slv": {
+        "localeName": "Словенский"
+    },
+    "sog": {
+        "localeName": "Согдийский"
+    },
+    "som": {
+        "localeName": "Сомали"
+    },
+    "nso": {
+        "localeName": "Сото северный"
+    },
+    "sot": {
+        "localeName": "Сото южный"
+    },
+    "enm": {
+        "localeName": "Среднеанглийский"
+    },
+    "gmh": {
+        "localeName": "Средневерхненемецкий"
+    },
+    "mga": {
+        "localeName": "Среднеирландский"
+    },
+    "frm": {
+        "localeName": "Среднефранцузский"
+    },
+    "ang": {
+        "localeName": "Староанглийский"
+    },
+    "goh": {
+        "localeName": "Староверхненемецкий"
+    },
+    "sga": {
+        "localeName": "Староирландский"
+    },
+    "non": {
+        "localeName": "Старонорвежский"
+    },
+    "peo": {
+        "localeName": "Староперсидский"
+    },
+    "pro": {
+        "localeName": "Старопровансальский"
+    },
+    "ota": {
+        "localeName": "Старотурецкий"
+    },
+    "fro": {
+        "localeName": "Старофранцузский"
+    },
+    "swa": {
+        "localeName": "Суахили"
+    },
+    "suk": {
+        "localeName": "Сукума"
+    },
+    "sun": {
+        "localeName": "Сунданский"
+    },
+    "sus": {
+        "localeName": "Сусу"
+    },
+    "tab": {
+        "localeName": "Табасаранский"
+    },
+    "tgl": {
+        "localeName": "Тагальский"
+    },
+    "tgk": {
+        "localeName": "Таджикский"
+    },
+    "tha": {
+        "localeName": "Тайский"
+    },
+    "tah": {
+        "localeName": "Таитянский"
+    },
+    "tly": {
+        "localeName": "Талышский"
+    },
+    "tmh": {
+        "localeName": "Тамашек"
+    },
+    "tam": {
+        "localeName": "Тамильский"
+    },
+    "tat": {
+        "localeName": "Татарский"
+    },
+    "twi": {
+        "localeName": "Тви"
+    },
+    "tel": {
+        "localeName": "Телугу"
+    },
+    "tem": {
+        "localeName": "Темне"
+    },
+    "ter": {
+        "localeName": "Терено"
+    },
+    "bod": {
+        "localeName": "Тибетский"
+    },
+    "tiw": {
+        "localeName": "Тиви"
+    },
+    "tig": {
+        "localeName": "Тигре"
+    },
+    "tir": {
+        "localeName": "Тигринья"
+    },
+    "tli": {
+        "localeName": "Тлингит"
+    },
+    "tog": {
+        "localeName": "Тонга"
+    },
+    "ton": {
+        "localeName": "Тонганский"
+    },
+    "chk": {
+        "localeName": "Трукский"
+    },
+    "tsn": {
+        "localeName": "Тсвана"
+    },
+    "tso": {
+        "localeName": "Тсонга"
+    },
+    "tyv": {
+        "localeName": "Тувинский"
+    },
+    "tum": {
+        "localeName": "Тумбука"
+    },
+    "tur": {
+        "localeName": "Турецкий"
+    },
+    "tuk": {
+        "localeName": "Туркменский"
+    },
+    "uga": {
+        "localeName": "Угаритский"
+    },
+    "udm": {
+        "localeName": "Удмуртский"
+    },
+    "ude": {
+        "localeName": "Удэгейский"
+    },
+    "uzb": {
+        "localeName": "Узбекский"
+    },
+    "uig": {
+        "localeName": "Уйгурский"
+    },
+    "ukr": {
+        "localeName": "Украинский"
+    },
+    "ulc": {
+        "localeName": "Ульчский"
+    },
+    "umb": {
+        "localeName": "Умбунду"
+    },
+    "urd": {
+        "localeName": "Урду"
+    },
+    "fan": {
+        "localeName": "Фанг"
+    },
+    "fat": {
+        "localeName": "Фанти"
+    },
+    "fao": {
+        "localeName": "Фарерский"
+    },
+    "fij": {
+        "localeName": "Фиджи"
+    },
+    "fil": {
+        "localeName": "Филиппинский"
+    },
+    "phn": {
+        "localeName": "Финикийский"
+    },
+    "fin": {
+        "localeName": "Финский"
+    },
+    "fon": {
+        "localeName": "Фон"
+    },
+    "fra": {
+        "localeName": "Французский"
+    },
+    "fry": {
+        "localeName": "Фризский"
+    },
+    "ful": {
+        "localeName": "Фулах"
+    },
+    "hai": {
+        "localeName": "Хайда"
+    },
+    "kjh": {
+        "localeName": "Хакасский"
+    },
+    "kca": {
+        "localeName": "Хантыйский"
+    },
+    "hau": {
+        "localeName": "Хауса"
+    },
+    "hil": {
+        "localeName": "Хилигайнон"
+    },
+    "hin": {
+        "localeName": "Хинди"
+    },
+    "hmo": {
+        "localeName": "Хиримоту"
+    },
+    "hrv": {
+        "localeName": "Хорватский"
+    },
+    "kho": {
+        "localeName": "Хотанский"
+    },
+    "hup": {
+        "localeName": "Хупа"
+    },
+    "tkr": {
+        "localeName": "Цахурский"
+    },
+    "chu": {
+        "localeName": "Церковнославянский"
+    },
+    "tsi": {
+        "localeName": "Цимшиан"
+    },
+    "rom": {
+        "localeName": "Цыганский"
+    },
+    "chg": {
+        "localeName": "Чагатайский"
+    },
+    "cha": {
+        "localeName": "Чаморро"
+    },
+    "chy": {
+        "localeName": "Шайенн"
+    },
+    "chr": {
+        "localeName": "Чероки"
+    },
+    "che": {
+        "localeName": "Чеченский"
+    },
+    "ces": {
+        "localeName": "Чешский"
+    },
+    "zha": {
+        "localeName": "Чжуанский"
+    },
+    "chb": {
+        "localeName": "Чибча"
+    },
+    "chn": {
+        "localeName": "Чинук жаргон"
+    },
+    "cho": {
+        "localeName": "Чоктав"
+    },
+    "chv": {
+        "localeName": "Чувашский"
+    },
+    "ckt": {
+        "localeName": "Чукотский"
+    },
+    "shn": {
+        "localeName": "Шанский"
+    },
+    "swe": {
+        "localeName": "Шведский"
+    },
+    "sna": {
+        "localeName": "Шона"
+    },
+    "cjs": {
+        "localeName": "Шорский"
+    },
+    "sco": {
+        "localeName": "Шотландский"
+    },
+    "sgh": {
+        "localeName": "Шугнанский"
+    },
+    "sux": {
+        "localeName": "Шумерский"
+    },
+    "ewe": {
+        "localeName": "Эве"
+    },
+    "evn": {
+        "localeName": "Эвенкийский"
+    },
+    "eve": {
+        "localeName": "Эвенский"
+    },
+    "ewo": {
+        "localeName": "Эвондо"
+    },
+    "eka": {
+        "localeName": "Экаджук"
+    },
+    "elx": {
+        "localeName": "Эламский"
+    },
+    "myv": {
+        "localeName": "Эрзянский"
+    },
+    "epo": {
+        "localeName": "Эсперанто"
+    },
+    "est": {
+        "localeName": "Эстонский"
+    },
+    "efi": {
+        "localeName": "Эфик"
+    },
+    "jav": {
+        "localeName": "Яванский"
+    },
+    "sah": {
+        "localeName": "Якутский"
+    },
+    "yao": {
+        "localeName": "Яо"
+    },
+    "yap": {
+        "localeName": "Яп"
+    },
+    "jpn": {
+        "localeName": "Японский"
+    }
+}

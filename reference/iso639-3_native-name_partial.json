@@ -1,6 +1,5 @@
 {
     "abk": {
-        "englishName": "Abkhaz",
         "nativeName": "аҧсшәа",
         "nativeNameVariant": "аҧсуа бызшәа",
         "part1": "ab",
@@ -9,7 +8,6 @@
         "part6": "abks"
     },
     "aar": {
-        "englishName": "Afar",
         "nativeName": "Afaraf",
         "part1": "aa",
         "part2t": "aar",
@@ -17,7 +15,6 @@
         "part6": "aars"
     },
     "afr": {
-        "englishName": "Afrikaans",
         "nativeName": "Afrikaans",
         "part1": "af",
         "part2t": "afr",
@@ -25,7 +22,6 @@
         "part6": "afrs"
     },
     "aka": {
-        "englishName": "Akan",
         "nativeName": "Akan",
         "part1": "ak",
         "part2t": "aka",
@@ -33,7 +29,6 @@
         "part6": null
     },
     "sqi": {
-        "englishName": "Albanian",
         "nativeName": "Shqip",
         "part1": "sq",
         "part2t": "sqi",
@@ -41,7 +36,6 @@
         "part6": null
     },
     "amh": {
-        "englishName": "Amharic",
         "nativeName": "አማርኛ",
         "part1": "am",
         "part2t": "amh",
@@ -49,7 +43,6 @@
         "part6": null
     },
     "ara": {
-        "englishName": "Arabic",
         "nativeName": "العربية",
         "part1": "ar",
         "part2t": "ara",
@@ -57,7 +50,6 @@
         "part6": null
     },
     "arg": {
-        "englishName": "Aragonese",
         "nativeName": "aragonés",
         "part1": "an",
         "part2t": "arg",
@@ -65,7 +57,6 @@
         "part6": null
     },
     "hye": {
-        "englishName": "Armenian",
         "nativeName": "Հայերեն",
         "part1": "hy",
         "part2t": "hye",
@@ -73,7 +64,6 @@
         "part6": null
     },
     "asm": {
-        "englishName": "Assamese",
         "nativeName": "অসমীয়া",
         "part1": "as",
         "part2t": "asm",
@@ -81,7 +71,6 @@
         "part6": null
     },
     "ast": {
-        "englishName": "Australian",
         "nativeName": "Ástralic",
         "part1": "ac",
         "part2t": "ast",
@@ -89,7 +78,6 @@
         "part6": null
     },
     "ava": {
-        "englishName": "Avaric",
         "nativeName": "авар мацӀ",
         "nativeNameVariant": "магӀарул мацӀ",
         "part1": "av",
@@ -98,7 +86,6 @@
         "part6": null
     },
     "ave": {
-        "englishName": "Avestan",
         "nativeName": "avesta",
         "part1": "ae",
         "part2t": "ave",
@@ -106,7 +93,6 @@
         "part6": null
     },
     "aym": {
-        "englishName": "Aymara",
         "nativeName": "aymar aru",
         "part1": "ay",
         "part2t": "aym",
@@ -114,7 +100,6 @@
         "part6": null
     },
     "aze": {
-        "englishName": "Azerbaijani",
         "nativeName": "azərbaycan dili",
         "part1": "az",
         "part2t": "aze",
@@ -122,7 +107,6 @@
         "part6": null
     },
     "bam": {
-        "englishName": "Bambara",
         "nativeName": "bamanankan",
         "part1": "bm",
         "part2t": "bam",
@@ -130,7 +114,6 @@
         "part6": null
     },
     "bak": {
-        "englishName": "Bashkir",
         "nativeName": "башҡорт",
         "nativeNameVariant": "башҡорт теле",
         "part1": "ba",
@@ -139,7 +122,6 @@
         "part6": null
     },
     "eus": {
-        "englishName": "Basque",
         "nativeName": "euskara",
         "nativeNameVariant": "euskera",
         "part1": "eu",
@@ -148,7 +130,6 @@
         "part6": null
     },
     "bel": {
-        "englishName": "Belarusian",
         "nativeName": "беларуская мова",
         "part1": "be",
         "part2t": "bel",
@@ -156,7 +137,6 @@
         "part6": null
     },
     "ben": {
-        "englishName": "Bengali, Bang",
         "nativeName": "বাংলা",
         "part1": "bn",
         "part2t": "ben",
@@ -164,7 +144,6 @@
         "part6": null
     },
     "bis": {
-        "englishName": "Bislama",
         "nativeName": "Bislama",
         "part1": "bi",
         "part2t": "bis",
@@ -172,7 +151,6 @@
         "part6": null
     },
     "bos": {
-        "englishName": "Bosnian",
         "nativeName": "bosanski jezik",
         "part1": "bs",
         "part2t": "bos",
@@ -180,7 +158,6 @@
         "part6": "boss"
     },
     "bre": {
-        "englishName": "Breton",
         "nativeName": "brezhoneg",
         "part1": "br",
         "part2t": "bre",
@@ -188,7 +165,6 @@
         "part6": null
     },
     "bul": {
-        "englishName": "Bulgarian",
         "nativeName": "български език",
         "part1": "bg",
         "part2t": "bul",
@@ -196,7 +172,6 @@
         "part6": "buls"
     },
     "mya": {
-        "englishName": "Burmese",
         "nativeName": "ဗမာစာ",
         "part1": "my",
         "part2t": "mya",
@@ -204,7 +179,6 @@
         "part6": null
     },
     "cat": {
-        "englishName": "Catalan",
         "nativeName": "català",
         "part1": "ca",
         "part2t": "cat",
@@ -212,7 +186,6 @@
         "part6": null
     },
     "cha": {
-        "englishName": "Chamorr",
         "nativeName": "Chamoru",
         "part1": "ch",
         "part2t": "cha",
@@ -220,7 +193,6 @@
         "part6": null
     },
     "che": {
-        "englishName": "Chechen",
         "nativeName": "нохчийн мотт",
         "part1": "ce",
         "part2t": "che",
@@ -228,7 +200,6 @@
         "part6": null
     },
     "nya": {
-        "englishName": "Chichewa, Chewa, Nyan",
         "nativeName": "chiCheŵa",
         "nativeNameVariant": "chinyanja",
         "part1": "ny",
@@ -237,7 +208,6 @@
         "part6": null
     },
     "zho": {
-        "englishName": "Chinese",
         "nativeName": "中文",
         "nativeNameVariant": "Zhōngwén, 汉语, 漢語",
         "part1": "zh",
@@ -246,7 +216,6 @@
         "part6": null
     },
     "chv": {
-        "englishName": "Chuvash",
         "nativeName": "чӑваш чӗлхи",
         "part1": "cv",
         "part2t": "chv",
@@ -254,7 +223,6 @@
         "part6": null
     },
     "cor": {
-        "englishName": "Cornish",
         "nativeName": "Kernewek",
         "part1": "kw",
         "part2t": "cor",
@@ -262,7 +230,6 @@
         "part6": null
     },
     "cos": {
-        "englishName": "Corsican",
         "nativeName": "corsu",
         "nativeNameVariant": "lingua corsa",
         "part1": "co",
@@ -271,7 +238,6 @@
         "part6": null
     },
     "cre": {
-        "englishName": "Cree",
         "nativeName": "ᓀᐦᐃᔭᐍᐏᐣ",
         "part1": "cr",
         "part2t": "cre",
@@ -279,7 +245,6 @@
         "part6": null
     },
     "hrv": {
-        "englishName": "Croatian",
         "nativeName": "hrvatski jezik",
         "part1": "hr",
         "part2t": "hrv",
@@ -287,7 +252,6 @@
         "part6": null
     },
     "ces": {
-        "englishName": "Czech",
         "nativeName": "čeština",
         "nativeNameVariant": "český jazyk",
         "part1": "cs",
@@ -296,7 +260,6 @@
         "part6": null
     },
     "dan": {
-        "englishName": "Danish",
         "nativeName": "dansk",
         "part1": "da",
         "part2t": "dan",
@@ -304,7 +267,6 @@
         "part6": null
     },
     "div": {
-        "englishName": "Divehi, Dhivehi, Maldivi",
         "nativeName": "ދިވެހި",
         "part1": "dv",
         "part2t": "div",
@@ -312,7 +274,6 @@
         "part6": null
     },
     "nld": {
-        "englishName": "Dutch",
         "nativeName": "Nederlands",
         "nativeNameVariant": "Vlaams",
         "part1": "nl",
@@ -321,7 +282,6 @@
         "part6": null
     },
     "dzo": {
-        "englishName": "Dzongkha",
         "nativeName": "རྫོང་ཁ",
         "part1": "dz",
         "part2t": "dzo",
@@ -329,7 +289,6 @@
         "part6": null
     },
     "eng": {
-        "englishName": "English",
         "nativeName": "English",
         "part1": "en",
         "part2t": "eng",
@@ -337,7 +296,6 @@
         "part6": "engs"
     },
     "epo": {
-        "englishName": "Esperanto",
         "nativeName": "Esperanto",
         "part1": "eo",
         "part2t": "epo",
@@ -345,7 +303,6 @@
         "part6": null
     },
     "est": {
-        "englishName": "Estonian",
         "nativeName": "eesti",
         "nativeNameVariant": "eesti keel",
         "part1": "et",
@@ -354,7 +311,6 @@
         "part6": null
     },
     "ewe": {
-        "englishName": "Ewe",
         "nativeName": "Eʋegbe",
         "part1": "ee",
         "part2t": "ewe",
@@ -362,7 +318,6 @@
         "part6": null
     },
     "fao": {
-        "englishName": "Faroese",
         "nativeName": "føroyskt",
         "part1": "fo",
         "part2t": "fao",
@@ -370,7 +325,6 @@
         "part6": null
     },
     "fij": {
-        "englishName": "Fijian",
         "nativeName": "vosa Vakaviti",
         "part1": "fj",
         "part2t": "fij",
@@ -378,7 +332,6 @@
         "part6": null
     },
     "fin": {
-        "englishName": "Finnish",
         "nativeName": "suomi",
         "nativeNameVariant": "suomen kieli",
         "part1": "fi",
@@ -387,7 +340,6 @@
         "part6": null
     },
     "fra": {
-        "englishName": "French",
         "nativeName": "français",
         "nativeNameVariant": "langue française",
         "part1": "fr",
@@ -396,7 +348,6 @@
         "part6": "fras"
     },
     "ful": {
-        "englishName": "Fula, Fulah, Pulaar, Pul",
         "nativeName": "Fulfulde",
         "nativeNameVariant": "Pulaar, Pular",
         "part1": "ff",
@@ -405,7 +356,6 @@
         "part6": null
     },
     "glg": {
-        "englishName": "Galician",
         "nativeName": "galego",
         "part1": "gl",
         "part2t": "glg",
@@ -413,7 +363,6 @@
         "part6": null
     },
     "kat": {
-        "englishName": "Georgian",
         "nativeName": "ქართული",
         "part1": "ka",
         "part2t": "kat",
@@ -421,7 +370,6 @@
         "part6": null
     },
     "deu": {
-        "englishName": "German",
         "nativeName": "Deutsch",
         "part1": "de",
         "part2t": "deu",
@@ -429,7 +377,6 @@
         "part6": "deus"
     },
     "ell": {
-        "englishName": "Greek (moder",
         "nativeName": "ελληνικά",
         "part1": "el",
         "part2t": "ell",
@@ -437,7 +384,6 @@
         "part6": "ells"
     },
     "grn": {
-        "englishName": "Guaraní",
         "nativeName": "Avañe'ẽ",
         "part1": "gn",
         "part2t": "grn",
@@ -445,7 +391,6 @@
         "part6": null
     },
     "guj": {
-        "englishName": "Gujarati",
         "nativeName": "ગુજરાતી",
         "part1": "gu",
         "part2t": "guj",
@@ -453,7 +398,6 @@
         "part6": null
     },
     "hat": {
-        "englishName": "Haitian, Haitian Creole",
         "nativeName": "Kreyòl ayisyen",
         "part1": "ht",
         "part2t": "hat",
@@ -461,7 +405,6 @@
         "part6": null
     },
     "hau": {
-        "englishName": "Hausa",
         "nativeName": "هَوُسَ",
         "part1": "ha",
         "part2t": "hau",
@@ -469,7 +412,6 @@
         "part6": null
     },
     "heb": {
-        "englishName": "Hebrew",
         "nativeName": "עברית",
         "part1": "he",
         "part2t": "heb",
@@ -477,7 +419,6 @@
         "part6": null
     },
     "her": {
-        "englishName": "Herero",
         "nativeName": "Otjiherero",
         "part1": "hz",
         "part2t": "her",
@@ -485,7 +426,6 @@
         "part6": null
     },
     "hin": {
-        "englishName": "Hindi",
         "nativeName": "हिन्दी",
         "nativeNameVariant": "हिंदी",
         "part1": "hi",
@@ -494,7 +434,6 @@
         "part6": "hins"
     },
     "hmo": {
-        "englishName": "Hiri Motu",
         "nativeName": "Hiri Motu",
         "part1": "ho",
         "part2t": "hmo",
@@ -502,7 +441,6 @@
         "part6": null
     },
     "hun": {
-        "englishName": "Hungarian",
         "nativeName": "magyar",
         "part1": "hu",
         "part2t": "hun",
@@ -510,7 +448,6 @@
         "part6": null
     },
     "ina": {
-        "englishName": "Interlingua",
         "nativeName": "Interlingua",
         "part1": "ia",
         "part2t": "ina",
@@ -518,7 +455,6 @@
         "part6": null
     },
     "ind": {
-        "englishName": "Indonesian",
         "nativeName": "Bahasa Indonesia",
         "part1": "id",
         "part2t": "ind",
@@ -526,7 +462,6 @@
         "part6": null
     },
     "ile": {
-        "englishName": "Interlingue",
         "nativeName": "Interlingue",
         "part1": "ie",
         "part2t": "ile",
@@ -534,7 +469,6 @@
         "part6": null
     },
     "gle": {
-        "englishName": "Irish",
         "nativeName": "Gaeilge",
         "part1": "ga",
         "part2t": "gle",
@@ -542,7 +476,6 @@
         "part6": null
     },
     "ibo": {
-        "englishName": "Igbo",
         "nativeName": "Asụsụ Igbo",
         "part1": "ig",
         "part2t": "ibo",
@@ -550,7 +483,6 @@
         "part6": null
     },
     "ipk": {
-        "englishName": "Inupiaq",
         "nativeName": "Iñupiaq",
         "nativeNameVariant": "Iñupiatun",
         "part1": "ik",
@@ -559,7 +491,6 @@
         "part6": null
     },
     "ido": {
-        "englishName": "Ido",
         "nativeName": "Ido",
         "part1": "io",
         "part2t": "ido",
@@ -567,7 +498,6 @@
         "part6": "idos"
     },
     "isl": {
-        "englishName": "Icelandic",
         "nativeName": "Íslenska",
         "part1": "is",
         "part2t": "isl",
@@ -575,7 +505,6 @@
         "part6": null
     },
     "ita": {
-        "englishName": "Italian",
         "nativeName": "italiano",
         "part1": "it",
         "part2t": "ita",
@@ -583,7 +512,6 @@
         "part6": "itas"
     },
     "iku": {
-        "englishName": "Inuktitut",
         "nativeName": "ᐃᓄᒃᑎᑐᑦ",
         "part1": "iu",
         "part2t": "iku",
@@ -591,7 +519,6 @@
         "part6": null
     },
     "jpn": {
-        "englishName": "Japanese",
         "nativeName": "日本語",
         "part1": "ja",
         "part2t": "jpn",
@@ -599,7 +526,6 @@
         "part6": null
     },
     "jav": {
-        "englishName": "Javanese",
         "nativeName": "basa Jawa",
         "part1": "jv",
         "part2t": "jav",
@@ -607,7 +533,6 @@
         "part6": null
     },
     "kal": {
-        "englishName": "Kalaallisut, Greenland",
         "nativeName": "kalaallisut",
         "nativeNameVariant": "kalaallit oqaasii",
         "part1": "kl",
@@ -616,7 +541,6 @@
         "part6": null
     },
     "kan": {
-        "englishName": "Kannada",
         "nativeName": "ಕನ್ನಡ",
         "part1": "kn",
         "part2t": "kan",
@@ -624,7 +548,6 @@
         "part6": null
     },
     "kau": {
-        "englishName": "Kanuri",
         "nativeName": "Kanuri",
         "part1": "kr",
         "part2t": "kau",
@@ -632,7 +555,6 @@
         "part6": null
     },
     "kas": {
-        "englishName": "Kashmir",
         "nativeName": "कश्मीरी",
         "nativeNameVariant": "كشميري",
         "part1": "ks",
@@ -641,7 +563,6 @@
         "part6": null
     },
     "kaz": {
-        "englishName": "Kazak",
         "nativeName": "қазақ тілі",
         "part1": "kk",
         "part2t": "kaz",
@@ -649,7 +570,6 @@
         "part6": null
     },
     "khm": {
-        "englishName": "Khme",
         "nativeName": "ខ្មែរ",
         "nativeNameVariant": "ខេមរភាសា, ភាសាខ្មែរ",
         "part1": "km",
@@ -658,7 +578,6 @@
         "part6": null
     },
     "kik": {
-        "englishName": "Kikuyu, Gik",
         "nativeName": "Gĩkũyũ",
         "part1": "ki",
         "part2t": "kik",
@@ -666,7 +585,6 @@
         "part6": null
     },
     "kin": {
-        "englishName": "Kinyarwanda",
         "nativeName": "Ikinyarwanda",
         "part1": "rw",
         "part2t": "kin",
@@ -674,7 +592,6 @@
         "part6": null
     },
     "kir": {
-        "englishName": "Kyrgyz",
         "nativeName": "Кыргызча",
         "nativeNameVariant": "Кыргыз тили",
         "part1": "ky",
@@ -683,7 +600,6 @@
         "part6": null
     },
     "kom": {
-        "englishName": "Komi",
         "nativeName": "коми кыв",
         "part1": "kv",
         "part2t": "kom",
@@ -691,7 +607,6 @@
         "part6": null
     },
     "kon": {
-        "englishName": "Kongo",
         "nativeName": "Kikongo",
         "part1": "kg",
         "part2t": "kon",
@@ -699,7 +614,6 @@
         "part6": null
     },
     "kor": {
-        "englishName": "Korea",
         "nativeName": "한국어",
         "nativeNameVariant": "조선어",
         "part1": "ko",
@@ -708,7 +622,6 @@
         "part6": null
     },
     "kur": {
-        "englishName": "Kurdish",
         "nativeName": "Kurdî",
         "nativeNameVariant": "كوردی",
         "part1": "ku",
@@ -717,7 +630,6 @@
         "part6": null
     },
     "kua": {
-        "englishName": "Kwanyama, Kuanyam",
         "nativeName": "Kuanyama",
         "part1": "kj",
         "part2t": "kua",
@@ -725,7 +637,6 @@
         "part6": null
     },
     "lat": {
-        "englishName": "Latin",
         "nativeName": "latine",
         "nativeNameVariant": "lingua latina",
         "part1": "la",
@@ -734,7 +645,6 @@
         "part6": "lats"
     },
     "ltz": {
-        "englishName": "Luxembourgish, Letzeburges",
         "nativeName": "Lëtzebuergesch",
         "part1": "lb",
         "part2t": "ltz",
@@ -742,7 +652,6 @@
         "part6": null
     },
     "lug": {
-        "englishName": "Luganda, Ganda",
         "nativeName": "Luganda",
         "part1": "lg",
         "part2t": "lug",
@@ -750,7 +659,6 @@
         "part6": null
     },
     "lim": {
-        "englishName": "Limburgish, Limburgan, Limburg",
         "nativeName": "Limburgs",
         "part1": "li",
         "part2t": "lim",
@@ -758,7 +666,6 @@
         "part6": null
     },
     "lin": {
-        "englishName": "Lingala",
         "nativeName": "Lingála",
         "part1": "ln",
         "part2t": "lin",
@@ -766,7 +673,6 @@
         "part6": null
     },
     "lao": {
-        "englishName": "Lao",
         "nativeName": "ພາສາລາວ",
         "part1": "lo",
         "part2t": "lao",
@@ -774,7 +680,6 @@
         "part6": null
     },
     "lit": {
-        "englishName": "Lithuanian",
         "nativeName": "lietuvių kalba",
         "part1": "lt",
         "part2t": "lit",
@@ -782,7 +687,6 @@
         "part6": null
     },
     "lub": {
-        "englishName": "Luba-Katanga",
         "nativeName": "Tshiluba",
         "part1": "lu",
         "part2t": "lub",
@@ -790,7 +694,6 @@
         "part6": null
     },
     "lav": {
-        "englishName": "Latvian",
         "nativeName": "latviešu valoda",
         "part1": "lv",
         "part2t": "lav",
@@ -798,7 +701,6 @@
         "part6": null
     },
     "glv": {
-        "englishName": "Manx",
         "nativeName": "Gaelg",
         "nativeNameVariant": "Gailck",
         "part1": "gv",
@@ -807,7 +709,6 @@
         "part6": null
     },
     "mkd": {
-        "englishName": "Macedonia",
         "nativeName": "македонски јазик",
         "part1": "mk",
         "part2t": "mkd",
@@ -815,7 +716,6 @@
         "part6": null
     },
     "mlg": {
-        "englishName": "Malagasy",
         "nativeName": "fiteny malagasy",
         "part1": "mg",
         "part2t": "mlg",
@@ -823,7 +723,6 @@
         "part6": null
     },
     "msa": {
-        "englishName": "Mala",
         "nativeName": "bahasa Melayu",
         "nativeNameVariant": "بهاس ملايو",
         "part1": "ms",
@@ -832,7 +731,6 @@
         "part6": null
     },
     "mal": {
-        "englishName": "Malayala",
         "nativeName": "മലയാളം",
         "part1": "ml",
         "part2t": "mal",
@@ -840,7 +738,6 @@
         "part6": null
     },
     "mlt": {
-        "englishName": "Maltes",
         "nativeName": "Malti",
         "part1": "mt",
         "part2t": "mlt",
@@ -848,7 +745,6 @@
         "part6": null
     },
     "mri": {
-        "englishName": "Māori",
         "nativeName": "te reo Māori",
         "part1": "mi",
         "part2t": "mri",
@@ -856,7 +752,6 @@
         "part6": null
     },
     "mar": {
-        "englishName": "Marathi (Marāṭhī",
         "nativeName": "मराठी",
         "part1": "mr",
         "part2t": "mar",
@@ -864,7 +759,6 @@
         "part6": null
     },
     "mah": {
-        "englishName": "Marshallese",
         "nativeName": "Kajin M̧ajeļ",
         "part1": "mh",
         "part2t": "mah",
@@ -872,7 +766,6 @@
         "part6": null
     },
     "mon": {
-        "englishName": "Mongolia",
         "nativeName": "Монгол хэл",
         "part1": "mn",
         "part2t": "mon",
@@ -880,7 +773,6 @@
         "part6": null
     },
     "nau": {
-        "englishName": "Naur",
         "nativeName": "Ekakairũ Naoero",
         "part1": "na",
         "part2t": "nau",
@@ -888,7 +780,6 @@
         "part6": null
     },
     "nav": {
-        "englishName": "Navajo, Nava",
         "nativeName": "Diné bizaad",
         "part1": "nv",
         "part2t": "nav",
@@ -896,7 +787,6 @@
         "part6": null
     },
     "nde": {
-        "englishName": "Northern Ndebele",
         "nativeName": "isi Ndebele",
         "part1": "nd",
         "part2t": "nde",
@@ -904,7 +794,6 @@
         "part6": null
     },
     "nep": {
-        "englishName": "Nepal",
         "nativeName": "नेपाली",
         "part1": "ne",
         "part2t": "nep",
@@ -912,7 +801,6 @@
         "part6": null
     },
     "ndo": {
-        "englishName": "Ndonga",
         "nativeName": "Owambo",
         "part1": "ng",
         "part2t": "ndo",
@@ -920,7 +808,6 @@
         "part6": null
     },
     "nob": {
-        "englishName": "Bokmål, Norwegian Bokmål",
         "nativeName": "Norsk bokmål",
         "part1": "nb",
         "part2t": "nob",
@@ -928,7 +815,6 @@
         "part6": null
     },
     "nno": {
-        "englishName": "Nynorsk, Norwegian Nynorsk",
         "nativeName": "Norsk nynorsk",
         "part1": "nn",
         "part2t": "nno",
@@ -936,7 +822,6 @@
         "part6": null
     },
     "nor": {
-        "englishName": "Norwegia",
         "nativeName": "Norsk",
         "part1": "no",
         "part2t": "nor",
@@ -944,7 +829,6 @@
         "part6": null
     },
     "iii": {
-        "englishName": "Nuosu",
         "nativeName": "ꆈꌠ꒿ Nuosuhxop",
         "part1": "ii",
         "part2t": "iii",
@@ -952,7 +836,6 @@
         "part6": null
     },
     "nbl": {
-        "englishName": "Southern Ndebele",
         "nativeName": "isi Ndebele",
         "part1": "nr",
         "part2t": "nbl",
@@ -960,7 +843,6 @@
         "part6": null
     },
     "oci": {
-        "englishName": "Occitan",
         "nativeName": "occitan",
         "nativeNameVariant": "lenga d'òc",
         "part1": "oc",
@@ -969,7 +851,6 @@
         "part6": null
     },
     "oji": {
-        "englishName": "Ojibwe, Oji",
         "nativeName": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
         "part1": "oj",
         "part2t": "oji",
@@ -977,7 +858,6 @@
         "part6": null
     },
     "chu": {
-        "englishName": "Old Church Slavonic, Church Slavonic, Old Bulgarian",
         "nativeName": "ѩзыкъ словѣньскъ",
         "part1": "cu",
         "part2t": "chu",
@@ -985,7 +865,6 @@
         "part6": null
     },
     "orm": {
-        "englishName": "Orom",
         "nativeName": "Afaan Oromoo",
         "part1": "om",
         "part2t": "orm",
@@ -993,7 +872,6 @@
         "part6": null
     },
     "ori": {
-        "englishName": "Oriy",
         "nativeName": "ଓଡ଼ିଆ",
         "part1": "or",
         "part2t": "ori",
@@ -1001,7 +879,6 @@
         "part6": null
     },
     "oss": {
-        "englishName": "Ossetian, Osse",
         "nativeName": "ирон æвзаг",
         "part1": "os",
         "part2t": "oss",
@@ -1009,7 +886,6 @@
         "part6": null
     },
     "pan": {
-        "englishName": "Panjabi, Punj",
         "nativeName": "ਪੰਜਾਬੀ",
         "nativeNameVariant": "پنجابی",
         "part1": "pa",
@@ -1018,7 +894,6 @@
         "part6": null
     },
     "pli": {
-        "englishName": "Pāli",
         "nativeName": "पाऴि",
         "part1": "pi",
         "part2t": "pli",
@@ -1026,7 +901,6 @@
         "part6": null
     },
     "fas": {
-        "englishName": "Persian (Farsi)",
         "nativeName": "فارسی",
         "part1": "fa",
         "part2t": "fas",
@@ -1034,7 +908,6 @@
         "part6": null
     },
     "pol": {
-        "englishName": "Polis",
         "nativeName": "język polski",
         "nativeNameVariant": "polszczyzna",
         "part1": "pl",
@@ -1043,7 +916,6 @@
         "part6": "pols"
     },
     "pus": {
-        "englishName": "Pashto, Pus",
         "nativeName": "پښتو",
         "part1": "ps",
         "part2t": "pus",
@@ -1051,7 +923,6 @@
         "part6": null
     },
     "por": {
-        "englishName": "Portugues",
         "nativeName": "português",
         "part1": "pt",
         "part2t": "por",
@@ -1059,7 +930,6 @@
         "part6": null
     },
     "que": {
-        "englishName": "Quechu",
         "nativeName": "Runa Simi",
         "nativeNameVariant": "Kichwa",
         "part1": "qu",
@@ -1068,7 +938,6 @@
         "part6": null
     },
     "roh": {
-        "englishName": "Romans",
         "nativeName": "rumantsch grischun",
         "part1": "rm",
         "part2t": "roh",
@@ -1076,7 +945,6 @@
         "part6": null
     },
     "run": {
-        "englishName": "Kirundi",
         "nativeName": "Ikirundi",
         "part1": "rn",
         "part2t": "run",
@@ -1084,7 +952,6 @@
         "part6": null
     },
     "ron": {
-        "englishName": "Romanian",
         "nativeName": "limba română",
         "part1": "ro",
         "part2t": "ron",
@@ -1092,7 +959,6 @@
         "part6": null
     },
     "rus": {
-        "englishName": "Russia",
         "nativeName": "Русский",
         "part1": "ru",
         "part2t": "rus",
@@ -1100,7 +966,6 @@
         "part6": null
     },
     "san": {
-        "englishName": "Sanskrit, Sanskrit (Saṁskṛta)",
         "nativeName": "संस्कृतम्",
         "part1": "sa",
         "part2t": "san",
@@ -1108,7 +973,6 @@
         "part6": null
     },
     "srd": {
-        "englishName": "Sardinia",
         "nativeName": "sardu",
         "part1": "sc",
         "part2t": "srd",
@@ -1116,7 +980,6 @@
         "part6": null
     },
     "snd": {
-        "englishName": "Sindh",
         "nativeName": "सिन्धी",
         "nativeNameVariant": "سنڌي، سندھی",
         "part1": "sd",
@@ -1125,7 +988,6 @@
         "part6": null
     },
     "sme": {
-        "englishName": "Northern Sami",
         "nativeName": "Davvisámegiella",
         "part1": "se",
         "part2t": "sme",
@@ -1133,7 +995,6 @@
         "part6": null
     },
     "smo": {
-        "englishName": "Samoa",
         "nativeName": "gagana fa'a Samoa",
         "part1": "sm",
         "part2t": "smo",
@@ -1141,7 +1002,6 @@
         "part6": null
     },
     "sag": {
-        "englishName": "Sang",
         "nativeName": "yângâ tî sängö",
         "part1": "sg",
         "part2t": "sag",
@@ -1149,7 +1009,6 @@
         "part6": null
     },
     "srp": {
-        "englishName": "Serbia",
         "nativeName": "српски језик",
         "part1": "sr",
         "part2t": "srp",
@@ -1157,7 +1016,6 @@
         "part6": null
     },
     "gla": {
-        "englishName": "Scottish Gaelic, Scottish Gaelic, Gaelic",
         "nativeName": "Gàidhlig",
         "part1": "gd",
         "part2t": "gla",
@@ -1165,7 +1023,6 @@
         "part6": null
     },
     "sna": {
-        "englishName": "Shon",
         "nativeName": "chiShona",
         "part1": "sn",
         "part2t": "sna",
@@ -1173,7 +1030,6 @@
         "part6": null
     },
     "sin": {
-        "englishName": "Sinhala, Sinhal",
         "nativeName": "සිංහල",
         "part1": "si",
         "part2t": "sin",
@@ -1181,7 +1037,6 @@
         "part6": null
     },
     "slk": {
-        "englishName": "Slova",
         "nativeName": "slovenčina",
         "nativeNameVariant": "slovenský jazyk",
         "part1": "sk",
@@ -1190,7 +1045,6 @@
         "part6": null
     },
     "slv": {
-        "englishName": "Sloven",
         "nativeName": "slovenščina",
         "nativeNameVariant": "slovenski jezik",
         "part1": "sl",
@@ -1199,7 +1053,6 @@
         "part6": null
     },
     "som": {
-        "englishName": "Somal",
         "nativeName": "Soomaaliga",
         "nativeNameVariant": "af Soomaali",
         "part1": "so",
@@ -1208,7 +1061,6 @@
         "part6": null
     },
     "sot": {
-        "englishName": "Southern Soth",
         "nativeName": "Sesotho",
         "part1": "st",
         "part2t": "sot",
@@ -1216,7 +1068,6 @@
         "part6": null
     },
     "spa": {
-        "englishName": "Spanish",
         "nativeName": "español",
         "part1": "es",
         "part2t": "spa",
@@ -1224,7 +1075,6 @@
         "part6": null
     },
     "sun": {
-        "englishName": "Sundanes",
         "nativeName": "Basa Sunda",
         "part1": "su",
         "part2t": "sun",
@@ -1232,7 +1082,6 @@
         "part6": null
     },
     "swa": {
-        "englishName": "Swahil",
         "nativeName": "Kiswahili",
         "part1": "sw",
         "part2t": "swa",
@@ -1240,7 +1089,6 @@
         "part6": null
     },
     "ssw": {
-        "englishName": "Swat",
         "nativeName": "SiSwati",
         "part1": "ss",
         "part2t": "ssw",
@@ -1248,7 +1096,6 @@
         "part6": null
     },
     "swe": {
-        "englishName": "Swedis",
         "nativeName": "svenska",
         "part1": "sv",
         "part2t": "swe",
@@ -1256,7 +1103,6 @@
         "part6": null
     },
     "tam": {
-        "englishName": "Tami",
         "nativeName": "தமிழ்",
         "part1": "ta",
         "part2t": "tam",
@@ -1264,7 +1110,6 @@
         "part6": null
     },
     "tel": {
-        "englishName": "Telug",
         "nativeName": "తెలుగు",
         "part1": "te",
         "part2t": "tel",
@@ -1272,7 +1117,6 @@
         "part6": null
     },
     "tgk": {
-        "englishName": "Taji",
         "nativeName": "тоҷикӣ",
         "nativeNameVariant": "toçikī, تاجیکی",
         "part1": "tg",
@@ -1281,7 +1125,6 @@
         "part6": null
     },
     "tha": {
-        "englishName": "Tha",
         "nativeName": "ไทย",
         "part1": "th",
         "part2t": "tha",
@@ -1289,7 +1132,6 @@
         "part6": null
     },
     "tir": {
-        "englishName": "Tigriny",
         "nativeName": "ትግርኛ",
         "part1": "ti",
         "part2t": "tir",
@@ -1297,7 +1139,6 @@
         "part6": null
     },
     "bod": {
-        "englishName": "Standard Tibetan, Tibetan",
         "nativeName": "བོད་ཡིག",
         "part1": "bo",
         "part2t": "bod",
@@ -1305,7 +1146,6 @@
         "part6": null
     },
     "tuk": {
-        "englishName": "Turkme",
         "nativeName": "Türkmen",
         "nativeNameVariant": "Түркмен",
         "part1": "tk",
@@ -1314,7 +1154,6 @@
         "part6": null
     },
     "tgl": {
-        "englishName": "Tagalo",
         "nativeName": "Wikang Tagalog",
         "nativeNameVariant": "ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔",
         "part1": "tl",
@@ -1323,7 +1162,6 @@
         "part6": null
     },
     "tsn": {
-        "englishName": "Tswan",
         "nativeName": "Setswana",
         "part1": "tn",
         "part2t": "tsn",
@@ -1331,7 +1169,6 @@
         "part6": null
     },
     "ton": {
-        "englishName": "Tonga (Tonga Island)",
         "nativeName": "faka Tonga",
         "part1": "to",
         "part2t": "ton",
@@ -1339,7 +1176,6 @@
         "part6": null
     },
     "tur": {
-        "englishName": "Turkis",
         "nativeName": "Türkçe",
         "part1": "tr",
         "part2t": "tur",
@@ -1347,7 +1183,6 @@
         "part6": null
     },
     "tso": {
-        "englishName": "Tsong",
         "nativeName": "Xitsonga",
         "part1": "ts",
         "part2t": "tso",
@@ -1355,7 +1190,6 @@
         "part6": null
     },
     "tat": {
-        "englishName": "Tata",
         "nativeName": "татар теле",
         "nativeNameVariant": "tatar tele",
         "part1": "tt",
@@ -1364,7 +1198,6 @@
         "part6": null
     },
     "twi": {
-        "englishName": "Twi",
         "nativeName": "Twi",
         "part1": "tw",
         "part2t": "twi",
@@ -1372,7 +1205,6 @@
         "part6": null
     },
     "tah": {
-        "englishName": "Tahitia",
         "nativeName": "Reo Tahiti",
         "part1": "ty",
         "part2t": "tah",
@@ -1380,7 +1212,6 @@
         "part6": null
     },
     "uig": {
-        "englishName": "Uyghu",
         "nativeName": "ئۇيغۇرچە",
         "nativeNameVariant": "Uyghurche",
         "part1": "ug",
@@ -1389,7 +1220,6 @@
         "part6": null
     },
     "ukr": {
-        "englishName": "Ukrainia",
         "nativeName": "українська мова",
         "part1": "uk",
         "part2t": "ukr",
@@ -1397,7 +1227,6 @@
         "part6": null
     },
     "urd": {
-        "englishName": "Urdu",
         "nativeName": "اردو",
         "part1": "ur",
         "part2t": "urd",
@@ -1405,7 +1234,6 @@
         "part6": null
     },
     "uzb": {
-        "englishName": "Uzbe",
         "nativeName": "Oʻzbek",
         "nativeNameVariant": "Ўзбек, أۇزبېك",
         "part1": "uz",
@@ -1414,7 +1242,6 @@
         "part6": null
     },
     "ven": {
-        "englishName": "Vend",
         "nativeName": "Tshivenḓa",
         "part1": "ve",
         "part2t": "ven",
@@ -1422,7 +1249,6 @@
         "part6": null
     },
     "vie": {
-        "englishName": "Vietnamese",
         "nativeName": "Tiếng Việt",
         "part1": "vi",
         "part2t": "vie",
@@ -1430,7 +1256,6 @@
         "part6": null
     },
     "vol": {
-        "englishName": "Volapük",
         "nativeName": "Volapük",
         "part1": "vo",
         "part2t": "vol",
@@ -1438,7 +1263,6 @@
         "part6": null
     },
     "wln": {
-        "englishName": "Walloo",
         "nativeName": "walon",
         "part1": "wa",
         "part2t": "wln",
@@ -1446,7 +1270,6 @@
         "part6": null
     },
     "cym": {
-        "englishName": "Wels",
         "nativeName": "Cymraeg",
         "part1": "cy",
         "part2t": "cym",
@@ -1454,7 +1277,6 @@
         "part6": null
     },
     "wol": {
-        "englishName": "Wolo",
         "nativeName": "Wollof",
         "part1": "wo",
         "part2t": "wol",
@@ -1462,7 +1284,6 @@
         "part6": null
     },
     "fry": {
-        "englishName": "West Frisian, Western Frisian",
         "nativeName": "Frysk",
         "part1": "fy",
         "part2t": "fry",
@@ -1470,7 +1291,6 @@
         "part6": null
     },
     "xho": {
-        "englishName": "Xhos",
         "nativeName": "isiXhosa",
         "part1": "xh",
         "part2t": "xho",
@@ -1478,7 +1298,6 @@
         "part6": null
     },
     "yid": {
-        "englishName": "Yiddis",
         "nativeName": "ייִדיש",
         "part1": "yi",
         "part2t": "yid",
@@ -1486,7 +1305,6 @@
         "part6": null
     },
     "yor": {
-        "englishName": "Yorub",
         "nativeName": "Yorùbá",
         "part1": "yo",
         "part2t": "yor",
@@ -1494,7 +1312,6 @@
         "part6": null   
     },
     "zha": {
-        "englishName": "Zhuang, Chu",
         "nativeName": "Saɯ cueŋƅ",
         "nativeNameVariant": "Saw cuengh",
         "part1": "za",
@@ -1503,7 +1320,6 @@
         "part6": null
     },
     "zul": {
-        "englishName": "Zul",
         "nativeName": "isiZulu",
         "part1": "zu",
         "part2t": "zul",

@@ -11,4 +11,4 @@ for(languageCode in allCodeParsed){
     }
 }
 
-fs.writeFileSync('alpha2to3mapping.json', JSON.stringify(mapping, null, '    '), 'utf8')
+fs.writeFileSync('alpha2to3mapping.json', JSON.stringify(mapping, null, '    '), 'utf8');

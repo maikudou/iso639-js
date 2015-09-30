@@ -1,738 +1,554 @@
 {
     "aar": {
-        "nativeName": "Afaraf",
-        "englishName": "Afar"
+        "nativeName": "Afaraf"
     },
     "abk": {
-        "nativeName": "аҧсшәа",
-        "englishName": "Abkhaz"
+        "nativeName": "аҧсшәа"
     },
     "afr": {
-        "nativeName": "Afrikaans",
-        "englishName": "Afrikaans"
+        "nativeName": "Afrikaans"
     },
     "aka": {
-        "nativeName": "Akan",
-        "englishName": "Akan"
+        "nativeName": "Akan"
     },
     "amh": {
-        "nativeName": "አማርኛ",
-        "englishName": "Amharic"
+        "nativeName": "አማርኛ"
     },
     "ara": {
-        "nativeName": "العربية",
-        "englishName": "Arabic"
+        "nativeName": "العربية"
     },
     "arg": {
-        "nativeName": "aragonés",
-        "englishName": "Aragonese"
+        "nativeName": "aragonés"
     },
     "asm": {
-        "nativeName": "অসমীয়া",
-        "englishName": "Assamese"
+        "nativeName": "অসমীয়া"
     },
     "ast": {
-        "nativeName": "Ástralic",
-        "englishName": "Australian"
+        "nativeName": "Ástralic"
     },
     "ava": {
-        "nativeName": "авар мацӀ",
-        "englishName": "Avaric"
+        "nativeName": "авар мацӀ"
     },
     "ave": {
-        "nativeName": "avesta",
-        "englishName": "Avestan"
+        "nativeName": "avesta"
     },
     "aym": {
-        "nativeName": "aymar aru",
-        "englishName": "Aymara"
+        "nativeName": "aymar aru"
     },
     "aze": {
-        "nativeName": "azərbaycan dili",
-        "englishName": "Azerbaijani"
+        "nativeName": "azərbaycan dili"
     },
     "bak": {
-        "nativeName": "башҡорт",
-        "englishName": "Bashkir"
+        "nativeName": "башҡорт"
     },
     "bam": {
-        "nativeName": "bamanankan",
-        "englishName": "Bambara"
+        "nativeName": "bamanankan"
     },
     "bel": {
-        "nativeName": "беларуская мова",
-        "englishName": "Belarusian"
+        "nativeName": "беларуская мова"
     },
     "ben": {
-        "nativeName": "বাংলা",
-        "englishName": "Bengali"
+        "nativeName": "বাংলা"
     },
     "bis": {
-        "nativeName": "Bislama",
-        "englishName": "Bislama"
+        "nativeName": "Bislama"
     },
     "bod": {
-        "nativeName": "བོད་ཡིག",
-        "englishName": "Standard Tibetan"
+        "nativeName": "བོད་ཡིག"
     },
     "bos": {
-        "nativeName": "bosanski jezik",
-        "englishName": "Bosnian"
+        "nativeName": "bosanski jezik"
     },
     "bre": {
-        "nativeName": "brezhoneg",
-        "englishName": "Breton"
+        "nativeName": "brezhoneg"
     },
     "bul": {
-        "nativeName": "български език",
-        "englishName": "Bulgarian"
+        "nativeName": "български език"
     },
     "cat": {
-        "nativeName": "català",
-        "englishName": "Catalan"
+        "nativeName": "català"
     },
     "ces": {
-        "nativeName": "čeština",
-        "englishName": "Czech"
+        "nativeName": "čeština"
     },
     "cha": {
-        "nativeName": "Chamoru",
-        "englishName": "Chamorr"
+        "nativeName": "Chamoru"
     },
     "che": {
-        "nativeName": "нохчийн мотт",
-        "englishName": "Chechen"
+        "nativeName": "нохчийн мотт"
     },
     "chu": {
-        "nativeName": "ѩзыкъ словѣньскъ",
-        "englishName": "Old Church Slavonic"
+        "nativeName": "ѩзыкъ словѣньскъ"
     },
     "chv": {
-        "nativeName": "чӑваш чӗлхи",
-        "englishName": "Chuvash"
+        "nativeName": "чӑваш чӗлхи"
     },
     "cor": {
-        "nativeName": "Kernewek",
-        "englishName": "Cornish"
+        "nativeName": "Kernewek"
     },
     "cos": {
-        "nativeName": "corsu",
-        "englishName": "Corsican"
+        "nativeName": "corsu"
     },
     "cre": {
-        "nativeName": "ᓀᐦᐃᔭᐍᐏᐣ",
-        "englishName": "Cree"
+        "nativeName": "ᓀᐦᐃᔭᐍᐏᐣ"
     },
     "cym": {
-        "nativeName": "Cymraeg",
-        "englishName": "Wels"
+        "nativeName": "Cymraeg"
     },
     "dan": {
-        "nativeName": "dansk",
-        "englishName": "Danish"
+        "nativeName": "dansk"
     },
     "deu": {
-        "nativeName": "Deutsch",
-        "englishName": "German"
+        "nativeName": "Deutsch"
     },
     "div": {
-        "nativeName": "ދިވެހި",
-        "englishName": "Divehi"
+        "nativeName": "ދިވެހި"
     },
     "dzo": {
-        "nativeName": "རྫོང་ཁ",
-        "englishName": "Dzongkha"
+        "nativeName": "རྫོང་ཁ"
     },
     "ell": {
-        "nativeName": "ελληνικά",
-        "englishName": "Greek (moder"
+        "nativeName": "ελληνικά"
     },
     "eng": {
-        "nativeName": "English",
-        "englishName": "English"
+        "nativeName": "English"
     },
     "epo": {
-        "nativeName": "Esperanto",
-        "englishName": "Esperanto"
+        "nativeName": "Esperanto"
     },
     "est": {
-        "nativeName": "eesti",
-        "englishName": "Estonian"
+        "nativeName": "eesti"
     },
     "eus": {
-        "nativeName": "euskara",
-        "englishName": "Basque"
+        "nativeName": "euskara"
     },
     "ewe": {
-        "nativeName": "Eʋegbe",
-        "englishName": "Ewe"
+        "nativeName": "Eʋegbe"
     },
     "fao": {
-        "nativeName": "føroyskt",
-        "englishName": "Faroese"
+        "nativeName": "føroyskt"
     },
     "fas": {
-        "nativeName": "فارسی",
-        "englishName": "Persian (Farsi)"
+        "nativeName": "فارسی"
     },
     "fij": {
-        "nativeName": "vosa Vakaviti",
-        "englishName": "Fijian"
+        "nativeName": "vosa Vakaviti"
     },
     "fin": {
-        "nativeName": "suomi",
-        "englishName": "Finnish"
+        "nativeName": "suomi"
     },
     "fra": {
-        "nativeName": "français",
-        "englishName": "French"
+        "nativeName": "français"
     },
     "fry": {
-        "nativeName": "Frysk",
-        "englishName": "West Frisian"
+        "nativeName": "Frysk"
     },
     "ful": {
-        "nativeName": "Fulfulde",
-        "englishName": "Fula"
+        "nativeName": "Fulfulde"
     },
     "gla": {
-        "nativeName": "Gàidhlig",
-        "englishName": "Scottish Gaelic"
+        "nativeName": "Gàidhlig"
     },
     "gle": {
-        "nativeName": "Gaeilge",
-        "englishName": "Irish"
+        "nativeName": "Gaeilge"
     },
     "glg": {
-        "nativeName": "galego",
-        "englishName": "Galician"
+        "nativeName": "galego"
     },
     "glv": {
-        "nativeName": "Gaelg",
-        "englishName": "Manx"
+        "nativeName": "Gaelg"
     },
     "grn": {
-        "nativeName": "Avañe'ẽ",
-        "englishName": "Guaraní"
+        "nativeName": "Avañe'ẽ"
     },
     "guj": {
-        "nativeName": "ગુજરાતી",
-        "englishName": "Gujarati"
+        "nativeName": "ગુજરાતી"
     },
     "hat": {
-        "nativeName": "Kreyòl ayisyen",
-        "englishName": "Haitian"
+        "nativeName": "Kreyòl ayisyen"
     },
     "hau": {
-        "nativeName": "هَوُسَ",
-        "englishName": "Hausa"
+        "nativeName": "هَوُسَ"
     },
     "heb": {
-        "nativeName": "עברית",
-        "englishName": "Hebrew"
+        "nativeName": "עברית"
     },
     "her": {
-        "nativeName": "Otjiherero",
-        "englishName": "Herero"
+        "nativeName": "Otjiherero"
     },
     "hin": {
-        "nativeName": "हिन्दी",
-        "englishName": "Hindi"
+        "nativeName": "हिन्दी"
     },
     "hmo": {
-        "nativeName": "Hiri Motu",
-        "englishName": "Hiri Motu"
+        "nativeName": "Hiri Motu"
     },
     "hrv": {
-        "nativeName": "hrvatski jezik",
-        "englishName": "Croatian"
+        "nativeName": "hrvatski jezik"
     },
     "hun": {
-        "nativeName": "magyar",
-        "englishName": "Hungarian"
+        "nativeName": "magyar"
     },
     "hye": {
-        "nativeName": "Հայերեն",
-        "englishName": "Armenian"
+        "nativeName": "Հայերեն"
     },
     "ibo": {
-        "nativeName": "Asụsụ Igbo",
-        "englishName": "Igbo"
+        "nativeName": "Asụsụ Igbo"
     },
     "ido": {
-        "nativeName": "Ido",
-        "englishName": "Ido"
+        "nativeName": "Ido"
     },
     "iii": {
-        "nativeName": "ꆈꌠ꒿ Nuosuhxop",
-        "englishName": "Nuosu"
+        "nativeName": "ꆈꌠ꒿ Nuosuhxop"
     },
     "iku": {
-        "nativeName": "ᐃᓄᒃᑎᑐᑦ",
-        "englishName": "Inuktitut"
+        "nativeName": "ᐃᓄᒃᑎᑐᑦ"
     },
     "ile": {
-        "nativeName": "Interlingue",
-        "englishName": "Interlingue"
+        "nativeName": "Interlingue"
     },
     "ina": {
-        "nativeName": "Interlingua",
-        "englishName": "Interlingua"
+        "nativeName": "Interlingua"
     },
     "ind": {
-        "nativeName": "Bahasa Indonesia",
-        "englishName": "Indonesian"
+        "nativeName": "Bahasa Indonesia"
     },
     "ipk": {
-        "nativeName": "Iñupiaq",
-        "englishName": "Inupiaq"
+        "nativeName": "Iñupiaq"
     },
     "isl": {
-        "nativeName": "Íslenska",
-        "englishName": "Icelandic"
+        "nativeName": "Íslenska"
     },
     "ita": {
-        "nativeName": "italiano",
-        "englishName": "Italian"
+        "nativeName": "italiano"
     },
     "jav": {
-        "nativeName": "basa Jawa",
-        "englishName": "Javanese"
+        "nativeName": "basa Jawa"
     },
     "jpn": {
-        "nativeName": "日本語",
-        "englishName": "Japanese"
+        "nativeName": "日本語"
     },
     "kal": {
-        "nativeName": "kalaallisut",
-        "englishName": "Kalaallisut"
+        "nativeName": "kalaallisut"
     },
     "kan": {
-        "nativeName": "ಕನ್ನಡ",
-        "englishName": "Kannada"
+        "nativeName": "ಕನ್ನಡ"
     },
     "kas": {
-        "nativeName": "कश्मीरी",
-        "englishName": "Kashmir"
+        "nativeName": "कश्मीरी"
     },
     "kat": {
-        "nativeName": "ქართული",
-        "englishName": "Georgian"
+        "nativeName": "ქართული"
     },
     "kau": {
-        "nativeName": "Kanuri",
-        "englishName": "Kanuri"
+        "nativeName": "Kanuri"
     },
     "kaz": {
-        "nativeName": "қазақ тілі",
-        "englishName": "Kazak"
+        "nativeName": "қазақ тілі"
     },
     "khm": {
-        "nativeName": "ខ្មែរ",
-        "englishName": "Khme"
+        "nativeName": "ខ្មែរ"
     },
     "kik": {
-        "nativeName": "Gĩkũyũ",
-        "englishName": "Kikuyu"
+        "nativeName": "Gĩkũyũ"
     },
     "kin": {
-        "nativeName": "Ikinyarwanda",
-        "englishName": "Kinyarwanda"
+        "nativeName": "Ikinyarwanda"
     },
     "kir": {
-        "nativeName": "Кыргызча",
-        "englishName": "Kyrgyz"
+        "nativeName": "Кыргызча"
     },
     "kom": {
-        "nativeName": "коми кыв",
-        "englishName": "Komi"
+        "nativeName": "коми кыв"
     },
     "kon": {
-        "nativeName": "Kikongo",
-        "englishName": "Kongo"
+        "nativeName": "Kikongo"
     },
     "kor": {
-        "nativeName": "한국어",
-        "englishName": "Korea"
+        "nativeName": "한국어"
     },
     "kua": {
-        "nativeName": "Kuanyama",
-        "englishName": "Kwanyama"
+        "nativeName": "Kuanyama"
     },
     "kur": {
-        "nativeName": "Kurdî",
-        "englishName": "Kurdish"
+        "nativeName": "Kurdî"
     },
     "lao": {
-        "nativeName": "ພາສາລາວ",
-        "englishName": "Lao"
+        "nativeName": "ພາສາລາວ"
     },
     "lat": {
-        "nativeName": "latine",
-        "englishName": "Latin"
+        "nativeName": "latine"
     },
     "lav": {
-        "nativeName": "latviešu valoda",
-        "englishName": "Latvian"
+        "nativeName": "latviešu valoda"
     },
     "lim": {
-        "nativeName": "Limburgs",
-        "englishName": "Limburgish"
+        "nativeName": "Limburgs"
     },
     "lin": {
-        "nativeName": "Lingála",
-        "englishName": "Lingala"
+        "nativeName": "Lingála"
     },
     "lit": {
-        "nativeName": "lietuvių kalba",
-        "englishName": "Lithuanian"
+        "nativeName": "lietuvių kalba"
     },
     "ltz": {
-        "nativeName": "Lëtzebuergesch",
-        "englishName": "Luxembourgish"
+        "nativeName": "Lëtzebuergesch"
     },
     "lub": {
-        "nativeName": "Tshiluba",
-        "englishName": "Luba-Katanga"
+        "nativeName": "Tshiluba"
     },
     "lug": {
-        "nativeName": "Luganda",
-        "englishName": "Luganda"
+        "nativeName": "Luganda"
     },
     "mah": {
-        "nativeName": "Kajin M̧ajeļ",
-        "englishName": "Marshallese"
+        "nativeName": "Kajin M̧ajeļ"
     },
     "mal": {
-        "nativeName": "മലയാളം",
-        "englishName": "Malayala"
+        "nativeName": "മലയാളം"
     },
     "mar": {
-        "nativeName": "मराठी",
-        "englishName": "Marathi (Marāṭhī"
+        "nativeName": "मराठी"
     },
     "mkd": {
-        "nativeName": "македонски јазик",
-        "englishName": "Macedonia"
+        "nativeName": "македонски јазик"
     },
     "mlg": {
-        "nativeName": "fiteny malagasy",
-        "englishName": "Malagasy"
+        "nativeName": "fiteny malagasy"
     },
     "mlt": {
-        "nativeName": "Malti",
-        "englishName": "Maltes"
+        "nativeName": "Malti"
     },
     "mon": {
-        "nativeName": "Монгол хэл",
-        "englishName": "Mongolia"
+        "nativeName": "Монгол хэл"
     },
     "mri": {
-        "nativeName": "te reo Māori",
-        "englishName": "Māori"
+        "nativeName": "te reo Māori"
     },
     "msa": {
-        "nativeName": "bahasa Melayu",
-        "englishName": "Mala"
+        "nativeName": "bahasa Melayu"
     },
     "mya": {
-        "nativeName": "ဗမာစာ",
-        "englishName": "Burmese"
+        "nativeName": "ဗမာစာ"
     },
     "nau": {
-        "nativeName": "Ekakairũ Naoero",
-        "englishName": "Naur"
+        "nativeName": "Ekakairũ Naoero"
     },
     "nav": {
-        "nativeName": "Diné bizaad",
-        "englishName": "Navajo"
+        "nativeName": "Diné bizaad"
     },
     "nbl": {
-        "nativeName": "isi Ndebele",
-        "englishName": "Southern Ndebele"
+        "nativeName": "isi Ndebele"
     },
     "nde": {
-        "nativeName": "isi Ndebele",
-        "englishName": "Northern Ndebele"
+        "nativeName": "isi Ndebele"
     },
     "ndo": {
-        "nativeName": "Owambo",
-        "englishName": "Ndonga"
+        "nativeName": "Owambo"
     },
     "nep": {
-        "nativeName": "नेपाली",
-        "englishName": "Nepal"
+        "nativeName": "नेपाली"
     },
     "nld": {
-        "nativeName": "Nederlands",
-        "englishName": "Dutch"
+        "nativeName": "Nederlands"
     },
     "nno": {
-        "nativeName": "Norsk nynorsk",
-        "englishName": "Nynorsk"
+        "nativeName": "Norsk nynorsk"
     },
     "nob": {
-        "nativeName": "Norsk bokmål",
-        "englishName": "Bokmål"
+        "nativeName": "Norsk bokmål"
     },
     "nor": {
-        "nativeName": "Norsk",
-        "englishName": "Norwegia"
+        "nativeName": "Norsk"
     },
     "nya": {
-        "nativeName": "chiCheŵa",
-        "englishName": "Chichewa"
+        "nativeName": "chiCheŵa"
     },
     "oci": {
-        "nativeName": "occitan",
-        "englishName": "Occitan"
+        "nativeName": "occitan"
     },
     "oji": {
-        "nativeName": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
-        "englishName": "Ojibwe"
+        "nativeName": "ᐊᓂᔑᓈᐯᒧᐎᓐ"
     },
     "ori": {
-        "nativeName": "ଓଡ଼ିଆ",
-        "englishName": "Oriy"
+        "nativeName": "ଓଡ଼ିଆ"
     },
     "orm": {
-        "nativeName": "Afaan Oromoo",
-        "englishName": "Orom"
+        "nativeName": "Afaan Oromoo"
     },
     "oss": {
-        "nativeName": "ирон æвзаг",
-        "englishName": "Ossetian"
+        "nativeName": "ирон æвзаг"
     },
     "pan": {
-        "nativeName": "ਪੰਜਾਬੀ",
-        "englishName": "Panjabi"
+        "nativeName": "ਪੰਜਾਬੀ"
     },
     "pli": {
-        "nativeName": "पाऴि",
-        "englishName": "Pāli"
+        "nativeName": "पाऴि"
     },
     "pol": {
-        "nativeName": "język polski",
-        "englishName": "Polis"
+        "nativeName": "język polski"
     },
     "por": {
-        "nativeName": "português",
-        "englishName": "Portugues"
+        "nativeName": "português"
     },
     "pus": {
-        "nativeName": "پښتو",
-        "englishName": "Pashto"
+        "nativeName": "پښتو"
     },
     "que": {
-        "nativeName": "Runa Simi",
-        "englishName": "Quechu"
+        "nativeName": "Runa Simi"
     },
     "roh": {
-        "nativeName": "rumantsch grischun",
-        "englishName": "Romans"
+        "nativeName": "rumantsch grischun"
     },
     "ron": {
-        "nativeName": "limba română",
-        "englishName": "Romanian"
+        "nativeName": "limba română"
     },
     "run": {
-        "nativeName": "Ikirundi",
-        "englishName": "Kirundi"
+        "nativeName": "Ikirundi"
     },
     "rus": {
-        "nativeName": "Русский",
-        "englishName": "Russia"
+        "nativeName": "Русский"
     },
     "sag": {
-        "nativeName": "yângâ tî sängö",
-        "englishName": "Sang"
+        "nativeName": "yângâ tî sängö"
     },
     "san": {
-        "nativeName": "संस्कृतम्",
-        "englishName": "Sanskrit"
+        "nativeName": "संस्कृतम्"
     },
     "sin": {
-        "nativeName": "සිංහල",
-        "englishName": "Sinhala"
+        "nativeName": "සිංහල"
     },
     "slk": {
-        "nativeName": "slovenčina",
-        "englishName": "Slova"
+        "nativeName": "slovenčina"
     },
     "slv": {
-        "nativeName": "slovenščina",
-        "englishName": "Sloven"
+        "nativeName": "slovenščina"
     },
     "sme": {
-        "nativeName": "Davvisámegiella",
-        "englishName": "Northern Sami"
+        "nativeName": "Davvisámegiella"
     },
     "smo": {
-        "nativeName": "gagana fa'a Samoa",
-        "englishName": "Samoa"
+        "nativeName": "gagana fa'a Samoa"
     },
     "sna": {
-        "nativeName": "chiShona",
-        "englishName": "Shon"
+        "nativeName": "chiShona"
     },
     "snd": {
-        "nativeName": "सिन्धी",
-        "englishName": "Sindh"
+        "nativeName": "सिन्धी"
     },
     "som": {
-        "nativeName": "Soomaaliga",
-        "englishName": "Somal"
+        "nativeName": "Soomaaliga"
     },
     "sot": {
-        "nativeName": "Sesotho",
-        "englishName": "Southern Soth"
+        "nativeName": "Sesotho"
     },
     "spa": {
-        "nativeName": "español",
-        "englishName": "Spanish"
+        "nativeName": "español"
     },
     "sqi": {
-        "nativeName": "Shqip",
-        "englishName": "Albanian"
+        "nativeName": "Shqip"
     },
     "srd": {
-        "nativeName": "sardu",
-        "englishName": "Sardinia"
+        "nativeName": "sardu"
     },
     "srp": {
-        "nativeName": "српски језик",
-        "englishName": "Serbia"
+        "nativeName": "српски језик"
     },
     "ssw": {
-        "nativeName": "SiSwati",
-        "englishName": "Swat"
+        "nativeName": "SiSwati"
     },
     "sun": {
-        "nativeName": "Basa Sunda",
-        "englishName": "Sundanes"
+        "nativeName": "Basa Sunda"
     },
     "swa": {
-        "nativeName": "Kiswahili",
-        "englishName": "Swahil"
+        "nativeName": "Kiswahili"
     },
     "swe": {
-        "nativeName": "svenska",
-        "englishName": "Swedis"
+        "nativeName": "svenska"
     },
     "tah": {
-        "nativeName": "Reo Tahiti",
-        "englishName": "Tahitia"
+        "nativeName": "Reo Tahiti"
     },
     "tam": {
-        "nativeName": "தமிழ்",
-        "englishName": "Tami"
+        "nativeName": "தமிழ்"
     },
     "tat": {
-        "nativeName": "татар теле",
-        "englishName": "Tata"
+        "nativeName": "татар теле"
     },
     "tel": {
-        "nativeName": "తెలుగు",
-        "englishName": "Telug"
+        "nativeName": "తెలుగు"
     },
     "tgk": {
-        "nativeName": "тоҷикӣ",
-        "englishName": "Taji"
+        "nativeName": "тоҷикӣ"
     },
     "tgl": {
-        "nativeName": "Wikang Tagalog",
-        "englishName": "Tagalo"
+        "nativeName": "Wikang Tagalog"
     },
     "tha": {
-        "nativeName": "ไทย",
-        "englishName": "Tha"
+        "nativeName": "ไทย"
     },
     "tir": {
-        "nativeName": "ትግርኛ",
-        "englishName": "Tigriny"
+        "nativeName": "ትግርኛ"
     },
     "ton": {
-        "nativeName": "faka Tonga",
-        "englishName": "Tonga (Tonga Island)"
+        "nativeName": "faka Tonga"
     },
     "tsn": {
-        "nativeName": "Setswana",
-        "englishName": "Tswan"
+        "nativeName": "Setswana"
     },
     "tso": {
-        "nativeName": "Xitsonga",
-        "englishName": "Tsong"
+        "nativeName": "Xitsonga"
     },
     "tuk": {
-        "nativeName": "Türkmen",
-        "englishName": "Turkme"
+        "nativeName": "Türkmen"
     },
     "tur": {
-        "nativeName": "Türkçe",
-        "englishName": "Turkis"
+        "nativeName": "Türkçe"
     },
     "twi": {
-        "nativeName": "Twi",
-        "englishName": "Twi"
+        "nativeName": "Twi"
     },
     "uig": {
-        "nativeName": "ئۇيغۇرچە",
-        "englishName": "Uyghu"
+        "nativeName": "ئۇيغۇرچە"
     },
     "ukr": {
-        "nativeName": "українська мова",
-        "englishName": "Ukrainia"
+        "nativeName": "українська мова"
     },
     "urd": {
-        "nativeName": "اردو",
-        "englishName": "Urdu"
+        "nativeName": "اردو"
     },
     "uzb": {
-        "nativeName": "Oʻzbek",
-        "englishName": "Uzbe"
+        "nativeName": "Oʻzbek"
     },
     "ven": {
-        "nativeName": "Tshivenḓa",
-        "englishName": "Vend"
+        "nativeName": "Tshivenḓa"
     },
     "vie": {
-        "nativeName": "Tiếng Việt",
-        "englishName": "Vietnamese"
+        "nativeName": "Tiếng Việt"
     },
     "vol": {
-        "nativeName": "Volapük",
-        "englishName": "Volapük"
+        "nativeName": "Volapük"
     },
     "wln": {
-        "nativeName": "walon",
-        "englishName": "Walloo"
+        "nativeName": "walon"
     },
     "wol": {
-        "nativeName": "Wollof",
-        "englishName": "Wolo"
+        "nativeName": "Wollof"
     },
     "xho": {
-        "nativeName": "isiXhosa",
-        "englishName": "Xhos"
+        "nativeName": "isiXhosa"
     },
     "yid": {
-        "nativeName": "ייִדיש",
-        "englishName": "Yiddis"
+        "nativeName": "ייִדיש"
     },
     "yor": {
-        "nativeName": "Yorùbá",
-        "englishName": "Yorub"
+        "nativeName": "Yorùbá"
     },
     "zha": {
-        "nativeName": "Saɯ cueŋƅ",
-        "englishName": "Zhuang"
+        "nativeName": "Saɯ cueŋƅ"
     },
     "zho": {
-        "nativeName": "中文",
-        "englishName": "Chinese"
+        "nativeName": "中文"
     },
     "zul": {
-        "nativeName": "isiZulu",
-        "englishName": "Zul"
+        "nativeName": "isiZulu"
     }
 }

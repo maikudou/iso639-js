@@ -1,0 +1,3173 @@
+{
+    "abq": {
+        "gostName": "Абазинский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "аба",
+        "gostNumeric": "005"
+    },
+    "abk": {
+        "gostName": "Абхазский",
+        "part1": "ab",
+        "part2B": "abk",
+        "part2T": null,
+        "gostAlpha": "абх",
+        "gostNumeric": "010"
+    },
+    "awa": {
+        "gostName": "Авадхи",
+        "part1": null,
+        "part2B": "awa",
+        "part2T": null,
+        "gostAlpha": "авд",
+        "gostNumeric": "012"
+    },
+    "ava": {
+        "gostName": "Аварский",
+        "part1": "av",
+        "part2B": "ava",
+        "part2T": null,
+        "gostAlpha": "ава",
+        "gostNumeric": "014"
+    },
+    "ave": {
+        "gostName": "Авестийский",
+        "part1": "ae",
+        "part2B": "ave",
+        "part2T": null,
+        "gostAlpha": "аве",
+        "gostNumeric": "016"
+    },
+    "ada": {
+        "gostName": "Адангме",
+        "part1": null,
+        "part2B": "ada",
+        "part2T": null,
+        "gostAlpha": "ада",
+        "gostNumeric": "018"
+    },
+    "ady": {
+        "gostName": "Адыгейский",
+        "part1": null,
+        "part2B": "ady",
+        "part2T": null,
+        "gostAlpha": "ады",
+        "gostNumeric": "020"
+    },
+    "aze": {
+        "gostName": "Азербайджанский",
+        "part1": "az",
+        "part2B": "aze",
+        "part2T": null,
+        "gostAlpha": "азе",
+        "gostNumeric": "025"
+    },
+    "aym": {
+        "gostName": "Аймара",
+        "part1": "ay",
+        "part2B": "aym",
+        "part2T": null,
+        "gostAlpha": "айм",
+        "gostNumeric": "026"
+    },
+    "ain": {
+        "gostName": "Айну",
+        "part1": null,
+        "part2B": "ain",
+        "part2T": null,
+        "gostAlpha": null,
+        "gostNumeric": null
+    },
+    "aka": {
+        "gostName": "Акан",
+        "part1": "ak",
+        "part2B": "aka",
+        "part2T": null,
+        "gostAlpha": "ака",
+        "gostNumeric": "027"
+    },
+    "akk": {
+        "gostName": "Аккадский",
+        "part1": null,
+        "part2B": "akk",
+        "part2T": null,
+        "gostAlpha": "акк",
+        "gostNumeric": "028"
+    },
+    "sqi": {
+        "gostName": "Албанский",
+        "part1": "sq",
+        "part2B": "alb",
+        "part2T": "sqi",
+        "gostAlpha": "алб",
+        "gostNumeric": "030"
+    },
+    "ale": {
+        "gostName": "Алеутский",
+        "part1": null,
+        "part2B": "ale",
+        "part2T": null,
+        "gostAlpha": "але",
+        "gostNumeric": "033"
+    },
+    "alt": {
+        "gostName": "Алтайский",
+        "part1": null,
+        "part2B": "alt",
+        "part2T": null,
+        "gostAlpha": "алт",
+        "gostNumeric": "035"
+    },
+    "amh": {
+        "gostName": "Амхарский",
+        "part1": "am",
+        "part2B": "amh",
+        "part2T": null,
+        "gostAlpha": "амх",
+        "gostNumeric": "040"
+    },
+    "eng": {
+        "gostName": "Английский",
+        "part1": "en",
+        "part2B": "eng",
+        "part2T": null,
+        "gostAlpha": "анг",
+        "gostNumeric": "045"
+    },
+    "ara": {
+        "gostName": "Арабский",
+        "part1": "ar",
+        "part2B": "ara",
+        "part2T": null,
+        "gostAlpha": "ара",
+        "gostNumeric": "050"
+    },
+    "arw": {
+        "gostName": "Аравакский",
+        "part1": null,
+        "part2B": "arw",
+        "part2T": null,
+        "gostAlpha": "арв",
+        "gostNumeric": "051"
+    },
+    "arc": {
+        "gostName": "Арамейский",
+        "part1": null,
+        "part2B": "arc",
+        "part2T": null,
+        "gostAlpha": "аре",
+        "gostNumeric": "052"
+    },
+    "arp": {
+        "gostName": "Арапахо",
+        "part1": null,
+        "part2B": "arp",
+        "part2T": null,
+        "gostAlpha": "арп",
+        "gostNumeric": "053"
+    },
+    "ahu": {
+        "gostName": "Арахау",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": null,
+        "gostNumeric": null
+    },
+    "arn": {
+        "gostName": "Арауканский",
+        "part1": null,
+        "part2B": "arn",
+        "part2T": null,
+        "gostAlpha": "арн",
+        "gostNumeric": "054"
+    },
+    "hye": {
+        "gostName": "Армянский",
+        "part1": "hy",
+        "part2B": "arm",
+        "part2T": "hye",
+        "gostAlpha": "арм",
+        "gostNumeric": "055"
+    },
+    "axm": {
+        "gostName": "Армянский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "арм",
+        "gostNumeric": "055"
+    },
+    "xcl": {
+        "gostName": "Армянский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "арм",
+        "gostNumeric": "055"
+    },
+    "asm": {
+        "gostName": "Ассамский",
+        "part1": "as",
+        "part2B": "asm",
+        "part2T": null,
+        "gostAlpha": "аса",
+        "gostNumeric": "060"
+    },
+    "aii": {
+        "gostName": "Ассирийский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "асе",
+        "gostNumeric": "065"
+    },
+    "ath": {
+        "gostName": "Атапачские",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "ата",
+        "gostNumeric": "067"
+    },
+    "aar": {
+        "gostName": "Афарский",
+        "part1": "aa",
+        "part2B": "aar",
+        "part2T": null,
+        "gostAlpha": "афа",
+        "gostNumeric": "068"
+    },
+    "afr": {
+        "gostName": "Африкаанс",
+        "part1": "af",
+        "part2B": "afr",
+        "part2T": null,
+        "gostAlpha": "афр",
+        "gostNumeric": "070"
+    },
+    "afh": {
+        "gostName": "Африхили",
+        "part1": null,
+        "part2B": "afh",
+        "part2T": null,
+        "gostAlpha": "афх",
+        "gostNumeric": "073"
+    },
+    "akv": {
+        "gostName": "Ахвахский",
+        "part1": "ak",
+        "part2B": "akv",
+        "part2T": null,
+        "gostAlpha": "ахв",
+        "gostNumeric": "074"
+    },
+    "nah": {
+        "gostName": "Ацтекский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "ацт",
+        "gostNumeric": "075"
+    },
+    "ace": {
+        "gostName": "Ачехский",
+        "part1": null,
+        "part2B": "ace",
+        "part2T": null,
+        "gostAlpha": "аче",
+        "gostNumeric": "076"
+    },
+    "ach": {
+        "gostName": "Ачоли",
+        "part1": null,
+        "part2B": "ach",
+        "part2T": null,
+        "gostAlpha": "ачо",
+        "gostNumeric": "077"
+    },
+    "ban": {
+        "gostName": "Балийский",
+        "part1": null,
+        "part2B": "ban",
+        "part2T": null,
+        "gostAlpha": "бал",
+        "gostNumeric": "078"
+    },
+    "bam": {
+        "gostName": "Бамбара",
+        "part1": "bm",
+        "part2B": "bam",
+        "part2T": null,
+        "gostAlpha": "бам",
+        "gostNumeric": "080"
+    },
+    "bad": {
+        "gostName": "Банда",
+        "part1": null,
+        "part2B": "bad",
+        "part2T": null,
+        "gostAlpha": "бан",
+        "gostNumeric": "082"
+    },
+    "bas": {
+        "gostName": "Баса",
+        "part1": null,
+        "part2B": "bas",
+        "part2T": null,
+        "gostAlpha": "бас",
+        "gostNumeric": "084"
+    },
+    "eus": {
+        "gostName": "Баскский",
+        "part1": "eu",
+        "part2B": "baq",
+        "part2T": "eus",
+        "gostAlpha": "бак",
+        "gostNumeric": "085"
+    },
+    "bak": {
+        "gostName": "Башкирский",
+        "part1": "ba",
+        "part2B": "bak",
+        "part2T": null,
+        "gostAlpha": "баш",
+        "gostNumeric": "086"
+    },
+    "bej": {
+        "gostName": "Беджа",
+        "part1": null,
+        "part2B": "bej",
+        "part2T": null,
+        "gostAlpha": "бед",
+        "gostNumeric": "087"
+    },
+    "bel": {
+        "gostName": "Белорусский",
+        "part1": "be",
+        "part2B": "bel",
+        "part2T": null,
+        "gostAlpha": "бел",
+        "gostNumeric": "090"
+    },
+    "bal": {
+        "gostName": "Белуджский",
+        "part1": null,
+        "part2B": "bal",
+        "part2T": null,
+        "gostAlpha": "беу",
+        "gostNumeric": "095"
+    },
+    "bem": {
+        "gostName": "Бемба",
+        "part1": null,
+        "part2B": "bem",
+        "part2T": null,
+        "gostAlpha": "бем",
+        "gostNumeric": "097"
+    },
+    "ben": {
+        "gostName": "Бенгальский",
+        "part1": "bn",
+        "part2B": "ben",
+        "part2T": null,
+        "gostAlpha": "бен",
+        "gostNumeric": "100"
+    },
+    "bik": {
+        "gostName": "Бикольский",
+        "part1": null,
+        "part2B": "bik",
+        "part2T": " bcl",
+        "gostAlpha": "бик",
+        "gostNumeric": "103"
+    },
+    "bin": {
+        "gostName": "Бини",
+        "part1": null,
+        "part2B": "bin",
+        "part2T": null,
+        "gostAlpha": "бин",
+        "gostNumeric": "104"
+    },
+    "mya": {
+        "gostName": "Бирманский",
+        "part1": "my",
+        "part2B": "bur",
+        "part2T": "mya",
+        "gostAlpha": "бир",
+        "gostNumeric": "105"
+    },
+    "bis": {
+        "gostName": "Бислама",
+        "part1": "bi",
+        "part2B": "bis",
+        "part2T": null,
+        "gostAlpha": "бис",
+        "gostNumeric": "107"
+    },
+    "bul": {
+        "gostName": "Болгарский",
+        "part1": "bg",
+        "part2B": "bul",
+        "part2T": null,
+        "gostAlpha": "бол",
+        "gostNumeric": "115"
+    },
+    "bos": {
+        "gostName": "Боснийский",
+        "part1": "bs",
+        "part2B": "bos",
+        "part2T": null,
+        "gostAlpha": "боc",
+        "gostNumeric": null
+    },
+    "brh": {
+        "gostName": "Брауи",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "бра",
+        "gostNumeric": "117"
+    },
+    "bre": {
+        "gostName": "Бретонский",
+        "part1": "br",
+        "part2B": "bre",
+        "part2T": null,
+        "gostAlpha": "бре",
+        "gostNumeric": "120"
+    },
+    "bug": {
+        "gostName": "Бугийский",
+        "part1": null,
+        "part2B": "bug",
+        "part2T": null,
+        "gostAlpha": "буг",
+        "gostNumeric": "123"
+    },
+    "bua": {
+        "gostName": "Бурятский",
+        "part1": null,
+        "part2B": "bua",
+        "part2T": null,
+        "gostAlpha": "бур",
+        "gostNumeric": "125"
+    },
+    "bho": {
+        "gostName": "Бходжпури",
+        "part1": null,
+        "part2B": "bho",
+        "part2T": null,
+        "gostAlpha": "бхо",
+        "gostNumeric": "126"
+    },
+    "vai": {
+        "gostName": "Ваи",
+        "part1": null,
+        "part2B": "vai",
+        "part2T": null,
+        "gostAlpha": "ваи",
+        "gostNumeric": "127"
+    },
+    "cym": {
+        "gostName": "Валлийский",
+        "part1": "cy",
+        "part2B": "cym",
+        "part2T": "wel",
+        "gostAlpha": "вал",
+        "gostNumeric": "130"
+    },
+    "war": {
+        "gostName": "Варай",
+        "part1": null,
+        "part2B": "war",
+        "part2T": null,
+        "gostAlpha": "вар",
+        "gostNumeric": "131"
+    },
+    "was": {
+        "gostName": "Вашо",
+        "part1": null,
+        "part2B": "was",
+        "part2T": null,
+        "gostAlpha": "ваш",
+        "gostNumeric": "132"
+    },
+    "hun": {
+        "gostName": "Венгерский",
+        "part1": "hu",
+        "part2B": "hun",
+        "part2T": null,
+        "gostAlpha": "вен",
+        "gostNumeric": "133"
+    },
+    "ven": {
+        "gostName": "Венда",
+        "part1": "ve",
+        "part2B": "ven",
+        "part2T": null,
+        "gostAlpha": "вед",
+        "gostNumeric": "134"
+    },
+    "vep": {
+        "gostName": "Вепсский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "веп",
+        "gostNumeric": "135"
+    },
+    "wal": {
+        "gostName": "Воламо",
+        "part1": null,
+        "part2B": "wal",
+        "part2T": null,
+        "gostAlpha": "воа",
+        "gostNumeric": "136"
+    },
+    "vol": {
+        "gostName": "Волапюк",
+        "part1": "vo",
+        "part2B": "vol",
+        "part2T": null,
+        "gostAlpha": "вол",
+        "gostNumeric": "137"
+    },
+    "wol": {
+        "gostName": "Волоф",
+        "part1": "wo",
+        "part2B": "wol",
+        "part2T": null,
+        "gostAlpha": "воф",
+        "gostNumeric": "138"
+    },
+    "vie": {
+        "gostName": "Вьетнамский",
+        "part1": "vi",
+        "part2B": "vie",
+        "part2T": null,
+        "gostAlpha": "вье",
+        "gostNumeric": "140"
+        },
+    "gaa": {
+        "gostName": "Га",
+        "part1": null,
+        "part2B": "gaa",
+        "part2T": null,
+        "gostAlpha": "гаа",
+        "gostNumeric": "142"
+    },
+    "haw": {
+        "gostName": "Гавайский",
+        "part1": null,
+        "part2B": "haw",
+        "part2T": null,
+        "gostAlpha": "гав",
+        "gostNumeric": "143"
+    },
+    "gag": {
+        "gostName": "Гагаузский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "гаг",
+        "gostNumeric": "145"
+    },
+    "gay": {
+        "gostName": "Гайо",
+        "part1": null,
+        "part2B": "gay",
+        "part2T": null,
+        "gostAlpha": "гай",
+        "gostNumeric": "146"
+    },
+    "glg": {
+        "gostName": "Галисийский",
+        "part1": "gl",
+        "part2B": "glg",
+        "part2T": null,
+        "gostAlpha": "гал",
+        "gostNumeric": "147"
+    },
+    "lug": {
+        "gostName": "Ганда",
+        "part1": "lg",
+        "part2B": "lug",
+        "part2T": null,
+        "gostAlpha": "ган",
+        "gostNumeric": "148"
+    },
+    "her": {
+        "gostName": "Гереро",
+        "part1": "hz",
+        "part2B": "her",
+        "part2T": null,
+        "gostAlpha": "гер",
+        "gostNumeric": "149"
+    },
+    "gez": {
+        "gostName": "Геэз",
+        "part1": null,
+        "part2B": "gez",
+        "part2T": null,
+        "gostAlpha": "гез",
+        "gostNumeric": "151"
+    },
+    "gil": {
+        "gostName": "Гилбертский",
+        "part1": null,
+        "part2B": "gil",
+        "part2T": null,
+        "gostAlpha": "гил",
+        "gostNumeric": "152"
+    },
+    "gon": {
+        "gostName": "Гонди",
+        "part1": null,
+        "part2B": "gon",
+        "part2T": null,
+        "gostAlpha": "гон",
+        "gostNumeric": "153"
+    },
+    "got": {
+        "gostName": "Готский",
+        "part1": null,
+        "part2B": "got",
+        "part2T": null,
+        "gostAlpha": "гот",
+        "gostNumeric": "154"
+    },
+    "grb": {
+        "gostName": "Гребо",
+        "part1": null,
+        "part2B": "grb",
+        "part2T": null,
+        "gostAlpha": "грб",
+        "gostNumeric": "155"
+    },
+    "kal": {
+        "gostName": "Гренландский",
+        "part1": "kl",
+        "part2B": "kal",
+        "part2T": null,
+        "gostAlpha": "эсм",
+        "gostNumeric": "843"
+    },
+    "ell": {
+        "gostName": "Греческий",
+        "gostNameVariant": "Новогреческий",
+        "part1": "el",
+        "part2B": "ell",
+        "part2T": "gre",
+        "gostAlpha": "гре",
+        "gostNumeric": "157"
+    },
+    "kat": {
+        "gostName": "Грузинский",
+        "part1": "ka",
+        "part2B": "geo",
+        "part2T": "kat",
+        "gostAlpha": "гру",
+        "gostNumeric": "158"
+    },
+    "grn": {
+        "gostName": "Гуарани",
+        "part1": "gn",
+        "part2B": "grn",
+        "part2T": null,
+        "gostAlpha": "гуа",
+        "gostNumeric": "160"
+    },
+    "guj": {
+        "gostName": "Гуджарати",
+        "part1": "gu",
+        "part2B": "guj",
+        "part2T": null,
+        "gostAlpha": "гуд",
+        "gostNumeric": "165"
+    },
+    "gla": {
+        "gostName": "Гэльский",
+        "part1": "gd",
+        "part2B": "gla",
+        "part2T": null,
+        "gostAlpha": "гэл",
+        "gostNumeric": "170"
+    },
+    "dak": {
+        "gostName": "Дакота",
+        "part1": null,
+        "part2B": "dak",
+        "part2T": null,
+        "gostAlpha": "дак",
+        "gostNumeric": "173"
+    },
+    "dar": {
+        "gostName": "Даргинский",
+        "part1": "dr",
+        "part2B": "dar",
+        "part2T": null,
+        "gostAlpha": "даг",
+        "gostNumeric": "175"
+    },
+    "dan": {
+        "gostName": "Датский",
+        "part1": "da",
+        "part2B": "dan",
+        "part2T": null,
+        "gostAlpha": "дат",
+        "gostNumeric": "178"
+    },
+    "del": {
+        "gostName": "Делавэрский",
+        "part1": null,
+        "part2B": "del",
+        "part2T": null,
+        "gostAlpha": "дел",
+        "gostNumeric": "179"
+    },
+    "dzo": {
+        "gostName": "Дзонг-кэ",
+        "part1": "dz",
+        "part2B": "dzo",
+        "part2T": null,
+        "gostAlpha": "дзо",
+        "gostNumeric": "183"
+    },
+    "div": {
+        "gostName": "Дивехи",
+        "gostNameVariant": "Мальдивский",
+        "part1": "dv",
+        "part2B": "div",
+        "part2T": null,
+        "gostAlpha": "див",
+        "gostNumeric": "180"
+    },
+    "din": {
+        "gostName": "Динка",
+        "part1": null,
+        "part2B": "din",
+        "part2T": null,
+        "gostAlpha": "дин",
+        "gostNumeric": "181"
+    },
+    "dyu": {
+        "gostName": "Диула",
+        "gostNameVariant": "Дьюла",
+        "part1": null,
+        "part2B": "dyu",
+        "part2T": null,
+        "gostAlpha": "диу",
+        "gostNumeric": "182"
+    },
+    "doi": {
+        "gostName": "Догри",
+        "part1": null,
+        "part2B": "doi",
+        "part2T": null,
+        "gostAlpha": "дои",
+        "gostNumeric": "184"
+    },
+    "grc": {
+        "gostName": "Древнегреческий",
+        "part1": null,
+        "part2B": "grc",
+        "part2T": null,
+        "gostAlpha": "дрг",
+        "gostNumeric": "186"
+    },
+    "egy": {
+        "gostName": "Древнеегипетский",
+        "part1": null,
+        "part2B": "egy",
+        "part2T": null,
+        "gostAlpha": "дре",
+        "gostNumeric": "187"
+    },
+    "orv": {
+        "gostName": "Древнерусский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "дрр",
+        "gostNumeric": "188"
+    },
+    "osx": {
+        "gostName": "Древнесаксонский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": null,
+        "gostNumeric": "189"
+    },
+    "dua": {
+        "gostName": "Дуала",
+        "part1": null,
+        "part2B": "dua",
+        "part2T": null,
+        "gostAlpha": "дуа",
+        "gostNumeric": "190"
+    },
+    "dng": {
+        "gostName": "Дунганский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "дун",
+        "gostNumeric": "191"
+    },
+    "jrb": {
+        "gostName": "Еврейско-арабский",
+        "part1": null,
+        "part2B": "jrb",
+        "part2T": null,
+        "gostAlpha": "еар",
+        "gostNumeric": "192"
+    },
+    "jpr": {
+        "gostName": "Еврейско-персидский",
+        "part1": null,
+        "part2B": "jpr",
+        "part2T": null,
+        "gostAlpha": "епе",
+        "gostNumeric": "193"
+    },
+    "zen": {
+        "gostName": "Зенагский",
+        "part1": null,
+        "part2B": "zen",
+        "part2T": null,
+        "gostAlpha": "зен",
+        "gostNumeric": "194"
+    },
+    "zul": {
+        "gostName": "Зулу",
+        "part1": "zu",
+        "part2B": "zul",
+        "part2T": null,
+        "gostAlpha": "зул",
+        "gostNumeric": "195"
+    },
+    "zun": {
+        "gostName": "Зуньи",
+        "part1": null,
+        "part2B": "zun",
+        "part2T": null,
+        "gostAlpha": "зун",
+        "gostNumeric": "196"
+    },
+    "iba": {
+        "gostName": "Ибанский",
+        "part1": null,
+        "part2B": "iba",
+        "part2T": null,
+        "gostAlpha": "иба",
+        "gostNumeric": "197"
+    },
+    "heb": {
+        "gostName": "Иврит",
+        "part1": "he",
+        "part2B": "heb",
+        "part2T": null,
+        "gostAlpha": "ивр",
+        "gostNumeric": "198"
+    },
+    "ibo": {
+        "gostName": "Игбо",
+        "part1": "ig",
+        "part2B": "ibo",
+        "part2T": null,
+        "gostAlpha": "ибо",
+        "gostNumeric": "199"
+    },
+    "yid": {
+        "gostName": "Идиш",
+        "part1": "yi",
+        "part2B": "yid",
+        "part2T": null,
+        "gostAlpha": "иди",
+        "gostNumeric": "202"
+    },
+    "ilo": {
+        "gostName": "Илоко",
+        "part1": null,
+        "part2B": "ilo",
+        "part2T": null,
+        "gostAlpha": "ило",
+        "gostNumeric": "203"
+    },
+    "inh": {
+        "gostName": "Ингушский",
+        "part1": null,
+        "part2B": "inh",
+        "part2T": null,
+        "gostAlpha": "инг",
+        "gostNumeric": "205"
+    },
+    "ind": {
+        "gostName": "Индонезийский",
+        "part1": "id",
+        "part2B": "ind",
+        "part2T": null,
+        "gostAlpha": "инд",
+        "gostNumeric": "210"
+    },
+    "ina": {
+        "gostName": "Интерлингва",
+        "part1": "ia",
+        "part2B": "ina",
+        "part2T": null,
+        "gostAlpha": "ина",
+        "gostNumeric": "215"
+    },
+    "ile": {
+        "gostName": "Интерлингве",
+        "part1": "ie",
+        "part2B": "ile",
+        "part2T": null,
+        "gostAlpha": "ине",
+        "gostNumeric": "216"
+    },
+    "iku": {
+        "gostName": "Инуктитут",
+        "part1": "iu",
+        "part2B": "iku",
+        "part2T": null,
+        "gostAlpha": "инк",
+        "gostNumeric": "217"
+    },
+    "ipk": {
+        "gostName": "Инупиак",
+        "part1": "ik",
+        "part2B": "ipk",
+        "part2T": null,
+        "gostAlpha": "инп",
+        "gostNumeric": "218"
+    },
+    "gle": {
+        "gostName": "Ирландский",
+        "part1": "ga",
+        "part2B": "gle",
+        "part2T": null,
+        "gostAlpha": "ирл",
+        "gostNumeric": "220"
+    },
+    "isl": {
+        "gostName": "Исландский",
+        "part1": "is",
+        "part2B": "ice",
+        "part2T": "isl",
+        "gostAlpha": "исл",
+        "gostNumeric": "225"
+    },
+    "spa": {
+        "gostName": "Испанский",
+        "part1": "es",
+        "part2B": "esl",
+        "part2T": "spa",
+        "gostAlpha": "исп",
+        "gostNumeric": "230"
+    },
+    "ita": {
+        "gostName": "Итальянский",
+        "part1": "it",
+        "part2B": "ita",
+        "part2T": null,
+        "gostAlpha": "ита",
+        "gostNumeric": "235"
+    },
+    "itl": {
+        "gostName": "Ительменский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "ите",
+        "gostNumeric": "240"
+    },
+    "yor": {
+        "gostName": "Йоруба",
+        "part1": "yo",
+        "part2B": "yor",
+        "part2T": null,
+        "gostAlpha": "йор",
+        "gostNumeric": "245"
+    },
+    "kbd": {
+        "gostName": "Кабардино-черкесский",
+        "part1": null,
+        "part2B": "kbd",
+        "part2T": null,
+        "gostAlpha": "каа",
+        "gostNumeric": "250"
+    },
+    "kab": {
+        "gostName": "Кабильский",
+        "part1": null,
+        "part2B": "kab",
+        "part2T": null,
+        "gostAlpha": "каб",
+        "gostNumeric": "251"
+    },
+    "kaw": {
+        "gostName": "Кави",
+        "part1": null,
+        "part2B": "kaw",
+        "part2T": null,
+        "gostAlpha": "каг",
+        "gostNumeric": "252"
+    },
+    "cad": {
+        "gostName": "Каддо",
+        "part1": null,
+        "part2B": "cad",
+        "part2T": null,
+        "gostAlpha": "кад",
+        "gostNumeric": "254"
+    },
+    "kaz": {
+        "gostName": "Казахский",
+        "part1": "kk",
+        "part2B": "kaz",
+        "part2T": null,
+        "gostAlpha": "каз",
+        "gostNumeric": "255"
+    },
+    "xal": {
+        "gostName": "Калмыцкий",
+        "part1": null,
+        "part2B": "xal",
+        "part2T": null,
+        "gostAlpha": "кал",
+        "gostNumeric": "260"
+    },
+    "kam": {
+        "gostName": "Камба",
+        "part1": null,
+        "part2B": "kam",
+        "part2T": null,
+        "gostAlpha": "кам",
+        "gostNumeric": "263"
+    },
+    "kan": {
+        "gostName": "Каннада",
+        "part1": "kn",
+        "part2B": "kan",
+        "part2T": null,
+        "gostAlpha": "кан",
+        "gostNumeric": "265"
+    },
+    "kau": {
+        "gostName": "Канури",
+        "part1": "kr",
+        "part2B": "kau",
+        "part2T": null,
+        "gostAlpha": "кау",
+        "gostNumeric": "267"
+    },
+    "kdr": {
+        "gostName": "Караимский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "каи",
+        "gostNumeric": "270"
+    },
+    "kaa": {
+        "gostName": "Каракалпакский",
+        "part1": null,
+        "part2B": "kaa",
+        "part2T": null,
+        "gostAlpha": "кал",
+        "gostNumeric": "275"
+    },
+    "krc": {
+        "gostName": "Карачаево-балкарский",
+        "part1": null,
+        "part2B": "krc",
+        "part2T": null,
+        "gostAlpha": "као",
+        "gostNumeric": "280"
+    },
+    "krl": {
+        "gostName": "Карельский",
+        "part1": null,
+        "part2B": "krl",
+        "part2T": null,
+        "gostAlpha": "кас",
+        "gostNumeric": "285"
+    },
+    "car": {
+        "gostName": "Кариб",
+        "part1": null,
+        "part2B": "car",
+        "part2T": null,
+        "gostAlpha": "кар",
+        "gostNumeric": "288"
+    },
+    "cat": {
+        "gostName": "Каталанский",
+        "part1": "ca",
+        "part2B": "cat",
+        "part2T": null,
+        "gostAlpha": "кат",
+        "gostNumeric": "290"
+    },
+    "kac": {
+        "gostName": "Качинский",
+        "part1": null,
+        "part2B": "kac",
+        "part2T": null,
+        "gostAlpha": "кач",
+        "gostNumeric": "293"
+    },
+    "kas": {
+        "gostName": "Кашмири",
+        "part1": "ks",
+        "part2B": "kas",
+        "part2T": null,
+        "gostAlpha": "каш",
+        "gostNumeric": "294"
+    },
+    "que": {
+        "gostName": "Кечуа",
+        "part1": "qu",
+        "part2B": "que",
+        "part2T": null,
+        "gostAlpha": "кеч",
+        "gostNumeric": "300"
+    },
+    "kik": {
+        "gostName": "Кикуйю",
+        "part1": "ki",
+        "part2B": "kik",
+        "part2T": null,
+        "gostAlpha": "кик",
+        "gostNumeric": "302"
+    },
+    "kua": {
+        "gostName": "Киньяма",
+        "part1": "kj",
+        "part2B": "kua",
+        "part2T": null,
+        "gostAlpha": "кия",
+        "gostNumeric": "303"
+    },
+    "kir": {
+        "gostName": "Киргизский",
+        "part1": "ky",
+        "part2B": "kir",
+        "part2T": null,
+        "gostAlpha": "кир/кыр",
+        "gostNumeric": "305"
+    },
+    "zho": {
+        "gostName": "Китайский",
+        "part1": "zh",
+        "part2B": "chi",
+        "part2T": "zho",
+        "gostAlpha": "кит",
+        "gostNumeric": "315"
+    },
+    "kom": {
+        "gostName": "Коми",
+        "part1": "kv",
+        "part2B": "kom",
+        "part2T": null,
+        "gostAlpha": "кои",
+        "gostNumeric": "320"
+    },
+    "koi": {
+        "gostName": "Коми-пермяцкий",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "ком",
+        "gostNumeric": "325"
+    },
+    "kon": {
+        "gostName": "Конго",
+        "part1": "kg",
+        "part2B": "kon",
+        "part2T": null,
+        "gostAlpha": "кон",
+        "gostNumeric": "326"
+    },
+    "kok": {
+        "gostName": "Конкани",
+        "part1": null,
+        "part2B": "kok",
+        "part2T": null,
+        "gostAlpha": "кок",
+        "gostNumeric": "327"
+    },
+    "cop": {
+        "gostName": "Коптский",
+        "part1": null,
+        "part2B": "cop",
+        "part2T": null,
+        "gostAlpha": "коп",
+        "gostNumeric": "328"
+    },
+    "kor": {
+        "gostName": "Корейский",
+        "part1": "ko",
+        "part2B": "kor",
+        "part2T": null,
+        "gostAlpha": "коо",
+        "gostNumeric": "330"
+    },
+    "cor": {
+        "gostName": "Корнский",
+        "part1": "kw",
+        "part2B": "cor",
+        "part2T": null,
+        "gostAlpha": "кор",
+        "gostNumeric": "332"
+    },
+    "cos": {
+        "gostName": "Корсиканский",
+        "part1": "co",
+        "part2B": "cos",
+        "part2T": null,
+        "gostAlpha": "кос",
+        "gostNumeric": "334"
+    },
+    "kpy": {
+        "gostName": "Корякский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "коя",
+        "gostNumeric": "335"
+    },
+    "xho": {
+        "gostName": "Коса",
+        "part1": "xh",
+        "part2B": "xho",
+        "part2T": null,
+        "gostAlpha": "коа",
+        "gostNumeric": "340"
+    },
+    "kpe": {
+        "gostName": "Кпелле",
+        "part1": null,
+        "part2B": "kpe",
+        "part2T": null,
+        "gostAlpha": "кпе",
+        "gostNumeric": "341"
+    },
+    "mus": {
+        "gostName": "Крик",
+        "part1": null,
+        "part2B": "mus",
+        "part2T": null,
+        "gostAlpha": "крк",
+        "gostNumeric": "344"
+    },
+    "crh": {
+        "gostName": "Крымско-татарский",
+        "part1": null,
+        "part2B": "crh",
+        "part2T": null,
+        "gostAlpha": "кры",
+        "gostNumeric": "347"
+    },
+    "kum": {
+        "gostName": "Кумыкский",
+        "part1": null,
+        "part2B": "kum",
+        "part2T": null,
+        "gostAlpha": "кум",
+        "gostNumeric": "349"
+    },
+    "kur": {
+        "gostName": "Курдский",
+        "part1": "ku",
+        "part2B": "kur",
+        "part2T": null,
+        "gostAlpha": "кур",
+        "gostNumeric": "350"
+    },
+    "kru": {
+        "gostName": "Курух",
+        "part1": null,
+        "part2B": "kru",
+        "part2T": null,
+        "gostAlpha": "куу",
+        "gostNumeric": "352"
+    },
+    "kos": {
+        "gostName": "Кусайе",
+        "part1": null,
+        "part2B": "kos",
+        "part2T": null,
+        "gostAlpha": "кус",
+        "gostNumeric": "353"
+    },
+    "kut": {
+        "gostName": "Кутенай",
+        "part1": null,
+        "part2B": "kut",
+        "part2T": null,
+        "gostAlpha": "кут",
+        "gostNumeric": "354"
+    },
+    "kha": {
+        "gostName": "Кхаси",
+        "part1": null,
+        "part2B": "kha",
+        "part2T": null,
+        "gostAlpha": "кха",
+        "gostNumeric": "357"
+    },
+    "khm": {
+        "gostName": "Кхмерский",
+        "part1": "km",
+        "part2B": "khm",
+        "part2T": null,
+        "gostAlpha": "кхм",
+        "gostNumeric": "360"
+    },
+    "lad": {
+        "gostName": "Ладино",
+        "part1": null,
+        "part2B": "lad",
+        "part2T": null,
+        "gostAlpha": "лад",
+        "gostNumeric": "363"
+    },
+    "lbe": {
+        "gostName": "Лакский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "лак",
+        "gostNumeric": "370"
+    },
+    "lam": {
+        "gostName": "Ламба",
+        "part1": null,
+        "part2B": "lam",
+        "part2T": null,
+        "gostAlpha": "лам",
+        "gostNumeric": "373"
+    },
+    "lao": {
+        "gostName": "Лаосский",
+        "part1": "lo",
+        "part2B": "lao",
+        "part2T": null,
+        "gostAlpha": "лао",
+        "gostNumeric": "375"
+    },
+    "lat": {
+        "gostName": "Латинский",
+        "part1": "la",
+        "part2B": "lat",
+        "part2T": null,
+        "gostAlpha": "лат",
+        "gostNumeric": "380"
+    },
+    "lav": {
+        "gostName": "Латышский",
+        "part1": "lv",
+        "part2B": "lav",
+        "part2T": null,
+        "gostAlpha": "лаш",
+        "gostNumeric": "385"
+    },
+    "lah": {
+        "gostName": "Лахнда",
+        "part1": null,
+        "part2B": "lah",
+        "part2T": null,
+        "gostAlpha": "лах",
+        "gostNumeric": "387"
+    },
+    "lez": {
+        "gostName": "Лезгинский",
+        "part1": null,
+        "part2B": "lez",
+        "part2T": null,
+        "gostAlpha": "лез",
+        "gostNumeric": "390"
+    },
+    "lin": {
+        "gostName": "Лингала",
+        "part1": "ln",
+        "part2B": "lin",
+        "part2T": null,
+        "gostAlpha": "лин",
+        "gostNumeric": "395"
+    },
+    "lit": {
+        "gostName": "Литовский",
+        "part1": "lt",
+        "part2B": "lit",
+        "part2T": null,
+        "gostAlpha": "лит",
+        "gostNumeric": "400"
+    },
+    "loz": {
+        "gostName": "Лози",
+        "part1": null,
+        "part2B": "loz",
+        "part2T": null,
+        "gostAlpha": "лоз",
+        "gostNumeric": "402"
+    },
+    "lub": {
+        "gostName": "Луба-катанга",
+        "part1": "lu",
+        "part2B": "lub",
+        "part2T": null,
+        "gostAlpha": "луб",
+        "gostNumeric": "404"
+    },
+    "lui": {
+        "gostName": "Луисеньо",
+        "part1": null,
+        "part2B": "lui",
+        "part2T": null,
+        "gostAlpha": "луи",
+        "gostNumeric": "406"
+    },
+    "lun": {
+        "gostName": "Лунда",
+        "part1": null,
+        "part2B": "lun",
+        "part2T": null,
+        "gostAlpha": "лун",
+        "gostNumeric": "407"
+    },
+    "luo": {
+        "gostName": "Луо",
+        "part1": null,
+        "part2B": "luo",
+        "part2T": null,
+        "gostAlpha": "луо",
+        "gostNumeric": "408"
+    },
+    "ltz": {
+        "gostName": "Люксембургский",
+        "part1": "lb",
+        "part2B": "ltz",
+        "part2T": null,
+        "gostAlpha": "люк",
+        "gostNumeric": "409"
+    },
+    "mag": {
+        "gostName": "Магахи",
+        "part1": null,
+        "part2B": "mag",
+        "part2T": null,
+        "gostAlpha": "маг",
+        "gostNumeric": "410"
+    },
+    "mad": {
+        "gostName": "Мадурский",
+        "part1": null,
+        "part2B": "mad",
+        "part2T": null,
+        "gostAlpha": "мад",
+        "gostNumeric": "411"
+    },
+    "mai": {
+        "gostName": "Майтхили",
+        "part1": null,
+        "part2B": "mai",
+        "part2T": null,
+        "gostAlpha": "май",
+        "gostNumeric": "412"
+    },
+    "mak": {
+        "gostName": "Макассарский",
+        "part1": null,
+        "part2B": "mak",
+        "part2T": null,
+        "gostAlpha": "мак",
+        "gostNumeric": "414"
+    },
+    "mkd": {
+        "gostName": "Македонский",
+        "part1": "mk",
+        "part2B": "mac",
+        "part2T": "mkd",
+        "gostAlpha": "маа",
+        "gostNumeric": "415"
+    },
+    "mlg": {
+        "gostName": "Малагасийский",
+        "part1": "mg",
+        "part2B": "mlg",
+        "part2T": null,
+        "gostAlpha": "млг",
+        "gostNumeric": "418"
+    },
+    "msa": {
+        "gostName": "Малайский",
+        "part1": "ms",
+        "part2B": "may",
+        "part2T": "msa",
+        "gostAlpha": "маз",
+        "gostNumeric": "420"
+    },
+    "mal": {
+        "gostName": "Малаялам",
+        "part1": "ml",
+        "part2B": "mal",
+        "part2T": null,
+        "gostAlpha": "мал",
+        "gostNumeric": "425"
+    },
+    "mlt": {
+        "gostName": "Мальтийский",
+        "part1": "mt",
+        "part2B": "mlt",
+        "part2T": null,
+        "gostAlpha": "млт",
+        "gostNumeric": "430"
+    },
+    "man": {
+        "gostName": "Мандинго",
+        "part1": null,
+        "part2B": "man",
+        "part2T": null,
+        "gostAlpha": "май",
+        "gostNumeric": "432"
+    },
+    "mni": {
+        "gostName": "Манипури",
+        "part1": null,
+        "part2B": "mni",
+        "part2T": null,
+        "gostAlpha": "мни",
+        "gostNumeric": "433"
+    },
+    "mns": {
+        "gostName": "Мансийский",
+        "gostNameVariant": "Вогульский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "ман",
+        "gostNumeric": "435"
+    },
+    "mri": {
+        "gostName": "Маори",
+        "part1": "mi",
+        "part2B": "mao",
+        "part2T": "mri",
+        "gostAlpha": "мао",
+        "gostNumeric": "437"
+    },
+    "mar": {
+        "gostName": "Маратхи",
+        "part1": "mr",
+        "part2B": "mar",
+        "part2T": null,
+        "gostAlpha": "мар",
+        "gostNumeric": "440"
+    },
+    "mwr": {
+        "gostName": "Марвари",
+        "part1": null,
+        "part2B": "mwr",
+        "part2T": null,
+        "gostAlpha": "мвр",
+        "gostNumeric": "443"
+    },
+    "chm": {
+        "gostName": "Марийский",
+        "gostNameVariant": "Черемисский",
+        "part1": null,
+        "part2B": "chm",
+        "part2T": null,
+        "gostAlpha": "мач",
+        "gostNumeric": "445"
+    },
+    "mah": {
+        "gostName": "Маршалльский",
+        "part1": "mh",
+        "part2B": "mah",
+        "part2T": null,
+        "gostAlpha": "маш",
+        "gostNumeric": "446"
+    },
+    "mas": {
+        "gostName": "Масаи",
+        "part1": null,
+        "part2B": "mas",
+        "part2T": null,
+        "gostAlpha": "мас",
+        "gostNumeric": "447"
+    },
+    "men": {
+        "gostName": "Менде",
+        "part1": null,
+        "part2B": "men",
+        "part2T": null,
+        "gostAlpha": "мен",
+        "gostNumeric": "451"
+    },
+    "mic": {
+        "gostName": "Микмак",
+        "part1": null,
+        "part2B": "mic",
+        "part2T": null,
+        "gostAlpha": "мик",
+        "gostNumeric": "452"
+    },
+    "min": {
+        "gostName": "Минангкабау",
+        "part1": null,
+        "part2B": "min",
+        "part2T": null,
+        "gostAlpha": "мин",
+        "gostNumeric": "453"
+    },
+    "mdf": {
+        "gostName": "Мокшанский",
+        "part1": null,
+        "part2B": "mdf",
+        "part2T": null,
+        "gostAlpha": "мок",
+        "gostNumeric": "455"
+    },
+    "mol": {
+        "gostName": "Молдавский",
+        "part1": "mo",
+        "part2B": "mol",
+        "part2T": null,
+        "gostAlpha": "мол",
+        "gostNumeric": "460"
+    },
+    "lol": {
+        "gostName": "Монго",
+        "part1": null,
+        "part2B": "lol",
+        "part2T": null,
+        "gostAlpha": "мог",
+        "gostNumeric": "462"
+    },
+    "mon": {
+        "gostName": "Монгольский",
+        "part1": "mn",
+        "part2B": "mon",
+        "part2T": null,
+        "gostAlpha": "мон",
+        "gostNumeric": "463"
+    },
+    "mos": {
+        "gostName": "Мооре",
+        "part1": null,
+        "part2B": "mos",
+        "part2T": null,
+        "gostAlpha": "мос",
+        "gostNumeric": "466"
+    },
+    "moh": {
+        "gostName": "Мохаук",
+        "part1": null,
+        "part2B": "moh",
+        "part2T": null,
+        "gostAlpha": "мох",
+        "gostNumeric": "467"
+    },
+    "glv": {
+        "gostName": "Мэнский",
+        "gostNameVariant": "Мэнкский",
+        "part1": "gv",
+        "part2B": "glv",
+        "part2T": null,
+        "gostAlpha": "мэн",
+        "gostNumeric": "469"
+    },
+    "nav": {
+        "gostName": "Навахо",
+        "part1": "nv",
+        "part2B": "nav",
+        "part2T": null,
+        "gostAlpha": "нав",
+        "gostNumeric": "470"
+    },
+    "gld": {
+        "gostName": "Нанайский",
+        "gostNameVariant": "Гольдский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "нан",
+        "gostNumeric": "471"
+    },
+    "nau": {
+        "gostName": "Науру",
+        "part1": "na",
+        "part2B": "nau",
+        "part2T": null,
+        "gostAlpha": "нау",
+        "gostNumeric": "472"
+    },
+    "nde": {
+        "gostName": "Ндебеле северный",
+        "part1": "nd",
+        "part2B": "nde",
+        "part2T": null,
+        "gostAlpha": "нде",
+        "gostNumeric": "473"
+    },
+    "nbl": {
+        "gostName": "Ндебеле южный",
+        "part1": "nr",
+        "part2B": "nbl",
+        "part2T": null,
+        "gostAlpha": "нбл",
+        "gostNumeric": "474"
+    },
+    "ndo": {
+        "gostName": "Ндунга",
+        "part1": "ng",
+        "part2B": "ndo",
+        "part2T": null,
+        "gostAlpha": "нду",
+        "gostNumeric": "475"
+    },
+    "new": {
+        "gostName": "Неварский",
+        "part1": null,
+        "part2B": "new",
+        "part2T": null,
+        "gostAlpha": "нев",
+        "gostNumeric": "478"
+    },
+    "und": {
+        "gostName": "Неидентифицированный",
+        "part1": null,
+        "part2B": "und",
+        "part2T": null,
+        "gostAlpha": "унд",
+        "gostNumeric": "480"
+    },
+    "deu": {
+        "gostName": "Немецкий",
+        "part1": "de",
+        "part2B": "deu",
+        "part2T": "ger",
+        "gostAlpha": "нем",
+        "gostNumeric": "481"
+    },
+    "yrk": {
+        "gostName": "Ненецкий",
+        "gostNameVariant": "Юрако-самоедский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "нен",
+        "gostNumeric": "482"
+    },
+    "nep": {
+        "gostName": "Непальский",
+        "part1": "ne",
+        "part2B": "nep",
+        "part2T": null,
+        "gostAlpha": "неп",
+        "gostNumeric": "485"
+    },
+    "nzi": {
+        "gostName": "Нзима",
+        "part1": null,
+        "part2B": "nzi",
+        "part2T": null,
+        "gostAlpha": "нзи",
+        "gostNumeric": "487"
+    },
+    "niv": {
+        "gostName": "Нивхский",
+        "gostNameVariant": "Гиляцкий",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "нив",
+        "gostNumeric": "490"
+    },
+    "nld": {
+        "gostName": "Нидерландский",
+        "gostNameVariant": "Голландский",
+        "part1": "nl",
+        "part2B": "dut",
+        "part2T": "nld",
+        "gostAlpha": "нид",
+        "gostNumeric": "495"
+    },
+    "dum": {
+        "gostName": "Нидерландский средневековый",
+        "part1": null,
+        "part2B": "dum",
+        "part2T": null,
+        "gostAlpha": "нис",
+        "gostNumeric": "496"
+    },
+    "niu": {
+        "gostName": "Ниуэ",
+        "part1": null,
+        "part2B": "niu",
+        "part2T": null,
+        "gostAlpha": "ниу",
+        "gostNumeric": "498"
+    },
+    "nog": {
+        "gostName": "Ногайский",
+        "part1": null,
+        "part2B": "nog",
+        "part2T": null,
+        "gostAlpha": "ног",
+        "gostNumeric": "505"
+    },
+    "nor": {
+        "gostName": "Норвежский",
+        "part1": "no",
+        "part2B": "nor",
+        "part2T": null,
+        "gostAlpha": "нор",
+        "gostNumeric": "506"
+    },
+    "nyo": {
+        "gostName": "Ньоро",
+        "part1": null,
+        "part2B": "nyo",
+        "part2T": null,
+        "gostAlpha": "ньо",
+        "gostNumeric": "508"
+    },
+    "nym": {
+        "gostName": "Ньямвези",
+        "part1": null,
+        "part2B": "nym",
+        "part2T": null,
+        "gostAlpha": "ням",
+        "gostNumeric": "509"
+    },
+    "nya": {
+        "gostName": "Ньянджа",
+        "part1": "ny",
+        "part2B": "nya",
+        "part2T": null,
+        "gostAlpha": "нян",
+        "gostNumeric": "510"
+    },
+    "nyn": {
+        "gostName": "Ньянколе",
+        "part1": null,
+        "part2B": "nyn",
+        "part2T": null,
+        "gostAlpha": "нья",
+        "gostNumeric": "512"
+    },
+    "nno": {
+        "gostName": "Нюнорск",
+        "gostNameVariant": "Новонорвежский",
+        "part1": "nn",
+        "part2B": "nno",
+        "part2T": null,
+        "gostAlpha": "нно",
+        "gostNumeric": "513"
+    },
+    "oji": {
+        "gostName": "Оджибве",
+        "part1": "oj",
+        "part2B": "oji",
+        "part2T": null,
+        "gostAlpha": "одж",
+        "gostNumeric": "515"
+    },
+    "oci": {
+        "gostName": "Окситанский",
+        "part1": "oc",
+        "part2B": "oci",
+        "part2T": null,
+        "gostAlpha": "окс",
+        "gostNumeric": "517"
+    },
+    "ori": {
+        "gostName": "Ория",
+        "part1": "or",
+        "part2B": "ori",
+        "part2T": null,
+        "gostAlpha": "ори",
+        "gostNumeric": "520"
+    },
+    "orm": {
+        "gostName": "Оромо",
+        "part1": "om",
+        "part2B": "orm",
+        "part2T": null,
+        "gostAlpha": "орм",
+        "gostNumeric": "522"
+    },
+    "osa": {
+        "gostName": "Оседжи",
+        "part1": null,
+        "part2B": "osa",
+        "part2T": null,
+        "gostAlpha": "осе",
+        "gostNumeric": "523"
+    },
+    "oss": {
+        "gostName": "Осетинский",
+        "part1": "os",
+        "part2B": "oss",
+        "part2T": null,
+        "gostAlpha": "ост",
+        "gostNumeric": "524"
+    },
+    "pau": {
+        "gostName": "Палау",
+        "part1": null,
+        "part2B": "pau",
+        "part2T": null,
+        "gostAlpha": "пал",
+        "gostNumeric": "526"
+    },
+    "pli": {
+        "gostName": "Пали",
+        "part1": "pi",
+        "part2B": "pli",
+        "part2T": null,
+        "gostAlpha": "пли",
+        "gostNumeric": "527"
+    },
+    "pam": {
+        "gostName": "Пампанга",
+        "part1": null,
+        "part2B": "pam",
+        "part2T": null,
+        "gostAlpha": "пам",
+        "gostNumeric": "528"
+    },
+    "pag": {
+        "gostName": "Пангасинан",
+        "part1": null,
+        "part2B": "pag",
+        "part2T": null,
+        "gostAlpha": "паг",
+        "gostNumeric": "529"
+    },
+    "pan": {
+        "gostName": "Пенджабский",
+        "part1": "pa",
+        "part2B": "pan",
+        "part2T": null,
+        "gostAlpha": "пан",
+        "gostNumeric": "530"
+    },
+    "pap": {
+        "gostName": "Папьяменто",
+        "part1": null,
+        "part2B": "pap",
+        "part2T": null,
+        "gostAlpha": "пап",
+        "gostNumeric": "533"
+    },
+    "fas": {
+        "gostName": "Персидский",
+        "part1": "fa",
+        "part2B": "fas",
+        "part2T": "per",
+        "gostAlpha": "пер",
+        "gostNumeric": "535"
+    },
+    "pal": {
+        "gostName": "Пехлевийский",
+        "part1": null,
+        "part2B": "pal",
+        "part2T": null,
+        "gostAlpha": "пех",
+        "gostNumeric": "537"
+    },
+    "pol": {
+        "gostName": "Польский",
+        "part1": "pl",
+        "part2B": "pol",
+        "part2T": null,
+        "gostAlpha": "пол",
+        "gostNumeric": "540"
+    },
+    "pon": {
+        "gostName": "Понапе",
+        "part1": null,
+        "part2B": "pon",
+        "part2T": null,
+        "gostAlpha": "пон",
+        "gostNumeric": "542"
+    },
+    "por": {
+        "gostName": "Португальский",
+        "part1": "pt",
+        "part2B": "por",
+        "part2T": null,
+        "gostAlpha": "пор",
+        "gostNumeric": "545"
+    },
+    "pus": {
+        "gostName": "Пушту",
+        "part1": "ps",
+        "part2B": "pus",
+        "part2T": null,
+        "gostAlpha": "пуш",
+        "gostNumeric": "550"
+    },
+    "raj": {
+        "gostName": "Раджастхани",
+        "part1": null,
+        "part2B": "raj",
+        "part2T": null,
+        "gostAlpha": "рад",
+        "gostNumeric": "555"
+    },
+    "mul": {
+        "gostName": "Разных семей языки",
+        "part1": null,
+        "part2B": "mul",
+        "part2T": null,
+        "gostAlpha": "мул",
+        "gostNumeric": "556"
+    },
+    "rar": {
+        "gostName": "Раротонга",
+        "part1": null,
+        "part2B": "rar",
+        "part2T": null,
+        "gostAlpha": "рар",
+        "gostNumeric": "557"
+    },
+    "roh": {
+        "gostName": "Ретороманский",
+        "part1": "rm",
+        "part2B": "roh",
+        "part2T": null,
+        "gostAlpha": "рет",
+        "gostNumeric": "560"
+    },
+    "kin": {
+        "gostName": "Руанда",
+        "part1": "rw",
+        "part2B": "kin",
+        "part2T": null,
+        "gostAlpha": "кин",
+        "gostNumeric": "304"
+    },
+    "ron": {
+        "gostName": "Румынский",
+        "part1": "ro",
+        "part2B": "ron",
+        "part2T": "rum",
+        "gostAlpha": "рум",
+        "gostNumeric": "565"
+    },
+    "run": {
+        "gostName": "Рунди",
+        "part1": "rn",
+        "part2B": "run",
+        "part2T": null,
+        "gostAlpha": "рун",
+        "gostNumeric": "567"
+    },
+    "rus": {
+        "gostName": "Русский",
+        "part1": "ru",
+        "part2B": "rus",
+        "part2T": null,
+        "gostAlpha": "рус",
+        "gostNumeric": "570"
+    },
+    "smi": {
+        "gostName": "Саамский",
+        "part1": null,
+        "part2B": "smi",
+        "part2T": null,
+        "gostAlpha": "саа",
+        "gostNumeric": "575"
+    },
+    "sam": {
+        "gostName": "Самаритянский арамейский",
+        "part1": null,
+        "part2B": "sam",
+        "part2T": null,
+        "gostAlpha": "сам",
+        "gostNumeric": "577"
+    },
+    "smo": {
+        "gostName": "Самоанский",
+        "part1": "sm",
+        "part2B": "smo",
+        "part2T": null,
+        "gostAlpha": "смо",
+        "gostNumeric": "578"
+    },
+    "sag": {
+        "gostName": "Санго",
+        "part1": "sg",
+        "part2B": "sag",
+        "part2T": null,
+        "gostAlpha": "саг",
+        "gostNumeric": "579"
+    },
+    "sad": {
+        "gostName": "Сандаве",
+        "part1": null,
+        "part2B": "sad",
+        "part2T": null,
+        "gostAlpha": "сад",
+        "gostNumeric": "580"
+    },
+    "san": {
+        "gostName": "Санскрит",
+        "part1": "sa",
+        "part2B": "san",
+        "part2T": null,
+        "gostAlpha": "сан",
+        "gostNumeric": "581"
+    },
+    "zap": {
+        "gostName": "Сапотекский",
+        "part1": null,
+        "part2B": "zap",
+        "part2T": null,
+        "gostAlpha": "сап",
+        "gostNumeric": "582"
+    },
+    "srd": {
+        "gostName": "Сардинский",
+        "part1": "sc",
+        "part2B": "srd",
+        "part2T": null,
+        "gostAlpha": "срд",
+        "gostNumeric": "583"
+    },
+    "ssw": {
+        "gostName": "Свази",
+        "part1": "ss",
+        "part2B": "ssw",
+        "part2T": null,
+        "gostAlpha": "сва",
+        "gostNumeric": "584"
+    },
+    "ceb": {
+        "gostName": "Себуано",
+        "part1": null,
+        "part2B": "ceb",
+        "part2T": null,
+        "gostAlpha": "себ",
+        "gostNumeric": "587"
+    },
+    "sel": {
+        "gostName": "Селькупский",
+        "part1": null,
+        "part2B": "sel",
+        "part2T": null,
+        "gostAlpha": "сел",
+        "gostNumeric": "590"
+    },
+    "srp": {
+        "gostName": "Сербский",
+        "part1": "sr",
+        "part2B": "scc",
+        "part2T": null,
+        "gostAlpha": null,
+        "gostNumeric": null
+    },
+    "srr": {
+        "gostName": "Серер",
+        "part1": null,
+        "part2B": "srr",
+        "part2T": null,
+        "gostAlpha": "срр",
+        "gostNumeric": "596"
+    },
+    "sid": {
+        "gostName": "Сидама",
+        "part1": null,
+        "part2B": "sid",
+        "part2T": null,
+        "gostAlpha": "сид",
+        "gostNumeric": "597"
+    },
+    "bla": {
+        "gostName": "Сиксика",
+        "part1": null,
+        "part2B": "bla",
+        "part2T": null,
+        "gostAlpha": "сик",
+        "gostNumeric": "598"
+    },
+    "sin": {
+        "gostName": "Сингальский",
+        "part1": "si",
+        "part2B": "sin",
+        "part2T": null,
+        "gostAlpha": "син",
+        "gostNumeric": "599"
+    },
+    "snd": {
+        "gostName": "Синдхи",
+        "part1": "sd",
+        "part2B": "snd",
+        "part2T": null,
+        "gostAlpha": "снд",
+        "gostNumeric": "600"
+    },
+    "syr": {
+        "gostName": "Сирийский",
+        "part1": null,
+        "part2B": "syr",
+        "part2T": null,
+        "gostAlpha": "сир",
+        "gostNumeric": "602"
+    },
+    "slk": {
+        "gostName": "Словацкий",
+        "part1": "sk",
+        "part2B": "slk",
+        "part2T": "slo",
+        "gostAlpha": "сло",
+        "gostNumeric": "605"
+    },
+    "slv": {
+        "gostName": "Словенский",
+        "part1": "sl",
+        "part2B": "slv",
+        "part2T": null,
+        "gostAlpha": "слв",
+        "gostNumeric": "610"
+    },
+    "sog": {
+        "gostName": "Согдийский",
+        "part1": null,
+        "part2B": "sog",
+        "part2T": null,
+        "gostAlpha": "сог",
+        "gostNumeric": "613"
+    },
+    "som": {
+        "gostName": "Сомали",
+        "part1": "so",
+        "part2B": "som",
+        "part2T": null,
+        "gostAlpha": "сом",
+        "gostNumeric": "615"
+    },
+    "nso": {
+        "gostName": "Сото северный",
+        "part1": null,
+        "part2B": "nso",
+        "part2T": null,
+        "gostAlpha": "сос",
+        "gostNumeric": "617"
+    },
+    "sot": {
+        "gostName": "Сото южный",
+        "part1": "st",
+        "part2B": "sot",
+        "part2T": null,
+        "gostAlpha": "сот",
+        "gostNumeric": "618"
+    },
+    "enm": {
+        "gostName": "Среднеанглийский",
+        "part1": null,
+        "part2B": "enm",
+        "part2T": null,
+        "gostAlpha": "сра",
+        "gostNumeric": "619"
+    },
+    "gmh": {
+        "gostName": "Средневерхненемецкий",
+        "part1": null,
+        "part2B": "gmh",
+        "part2T": null,
+        "gostAlpha": "срн",
+        "gostNumeric": "620"
+    },
+    "mga": {
+        "gostName": "Среднеирландский",
+        "part1": null,
+        "part2B": "mga",
+        "part2T": null,
+        "gostAlpha": "сеи",
+        "gostNumeric": "621"
+    },
+    "frm": {
+        "gostName": "Среднефранцузский",
+        "part1": null,
+        "part2B": "frm",
+        "part2T": null,
+        "gostAlpha": "срф",
+        "gostNumeric": "622"
+    },
+    "ang": {
+        "gostName": "Староанглийский",
+        "part1": null,
+        "part2B": "ang",
+        "part2T": null,
+        "gostAlpha": "ста",
+        "gostNumeric": "623"
+    },
+    "goh": {
+        "gostName": "Староверхненемецкий",
+        "part1": null,
+        "part2B": "goh",
+        "part2T": null,
+        "gostAlpha": "свн",
+        "gostNumeric": "624"
+    },
+    "sga": {
+        "gostName": "Староирландский",
+        "part1": null,
+        "part2B": "sga",
+        "part2T": null,
+        "gostAlpha": "сти",
+        "gostNumeric": "625"
+    },
+    "non": {
+        "gostName": "Старонорвежский",
+        "part1": null,
+        "part2B": "non",
+        "part2T": null,
+        "gostAlpha": "стн",
+        "gostNumeric": "626"
+    },
+    "peo": {
+        "gostName": "Староперсидский",
+        "part1": null,
+        "part2B": "peo",
+        "part2T": null,
+        "gostAlpha": "стп",
+        "gostNumeric": "627"
+    },
+    "pro": {
+        "gostName": "Старопровансальский",
+        "part1": null,
+        "part2B": "pro",
+        "part2T": null,
+        "gostAlpha": "спр",
+        "gostNumeric": "628"
+    },
+    "ota": {
+        "gostName": "Старотурецкий",
+        "part1": null,
+        "part2B": "ota",
+        "part2T": null,
+        "gostAlpha": "стт",
+        "gostNumeric": "629"
+    },
+    "fro": {
+        "gostName": "Старофранцузский",
+        "part1": null,
+        "part2B": "fro",
+        "part2T": null,
+        "gostAlpha": "стф",
+        "gostNumeric": "630"
+    },
+    "swa": {
+        "gostName": "Суахили",
+        "part1": "sw",
+        "part2B": "swa",
+        "part2T": null,
+        "gostAlpha": "суа",
+        "gostNumeric": "631"
+    },
+    "suk": {
+        "gostName": "Сукума",
+        "part1": null,
+        "part2B": "suk",
+        "part2T": null,
+        "gostAlpha": "сук",
+        "gostNumeric": "632"
+    },
+    "sun": {
+        "gostName": "Сунданский",
+        "part1": "su",
+        "part2B": "sun",
+        "part2T": null,
+        "gostAlpha": "сун",
+        "gostNumeric": "633"
+    },
+    "sus": {
+        "gostName": "Сусу",
+        "part1": null,
+        "part2B": "sus",
+        "part2T": null,
+        "gostAlpha": "сус",
+        "gostNumeric": "634"
+    },
+    "tab": {
+        "gostName": "Табасаранский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "таб",
+        "gostNumeric": "635"
+    },
+    "tgl": {
+        "gostName": "Тагальский",
+        "part1": "tl",
+        "part2B": "tgl",
+        "part2T": null,
+        "gostAlpha": "таг",
+        "gostNumeric": "636"
+    },
+    "tgk": {
+        "gostName": "Таджикский",
+        "part1": "tg",
+        "part2B": "tgk",
+        "part2T": null,
+        "gostAlpha": "тад",
+        "gostNumeric": "640"
+    },
+    "tha": {
+        "gostName": "Тайский",
+        "part1": "th",
+        "part2B": "tha",
+        "part2T": null,
+        "gostAlpha": "таи",
+        "gostNumeric": "645"
+    },
+    "tah": {
+        "gostName": "Таитянский",
+        "part1": "ty",
+        "part2B": "tah",
+        "part2T": null,
+        "gostAlpha": "тая",
+        "gostNumeric": "647"
+    },
+    "tly": {
+        "gostName": "Талышский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "тал",
+        "gostNumeric": "650"
+    },
+    "tmh": {
+        "gostName": "Тамашек",
+        "part1": null,
+        "part2B": "tmh",
+        "part2T": null,
+        "gostAlpha": "тмш",
+        "gostNumeric": "653"
+    },
+    "tam": {
+        "gostName": "Тамильский",
+        "part1": "ta",
+        "part2B": "tam",
+        "part2T": null,
+        "gostAlpha": "там",
+        "gostNumeric": "655"
+    },
+    "tat": {
+        "gostName": "Татарский",
+        "part1": "tt",
+        "part2B": "tat",
+        "part2T": null,
+        "gostAlpha": "тар",
+        "gostNumeric": "660"
+    },
+    "twi": {
+        "gostName": "Тви",
+        "part1": "tw",
+        "part2B": "twi",
+        "part2T": null,
+        "gostAlpha": "тви",
+        "gostNumeric": "670"
+    },
+    "tel": {
+        "gostName": "Телугу",
+        "part1": "te",
+        "part2B": "tel",
+        "part2T": null,
+        "gostAlpha": "тел",
+        "gostNumeric": "675"
+    },
+    "tem": {
+        "gostName": "Темне",
+        "part1": null,
+        "part2B": "tem",
+        "part2T": null,
+        "gostAlpha": "тем",
+        "gostNumeric": "677"
+    },
+    "ter": {
+        "gostName": "Терено",
+        "part1": null,
+        "part2B": "ter",
+        "part2T": null,
+        "gostAlpha": "тер",
+        "gostNumeric": "678"
+    },
+    "bod": {
+        "gostName": "Тибетский",
+        "part1": "bo",
+        "part2B": "bod",
+        "part2T": "tib",
+        "gostAlpha": "тиб",
+        "gostNumeric": "680"
+    },
+    "tiw": {
+        "gostName": "Тиви",
+        "part1": null,
+        "part2B": "tiw",
+        "part2T": null,
+        "gostAlpha": "тив",
+        "gostNumeric": "681"
+    },
+    "tig": {
+        "gostName": "Тигре",
+        "part1": null,
+        "part2B": "tig",
+        "part2T": null,
+        "gostAlpha": "тиг",
+        "gostNumeric": "682"
+    },
+    "tir": {
+        "gostName": "Тигринья",
+        "part1": "ti",
+        "part2B": "tir",
+        "part2T": null,
+        "gostAlpha": "тир",
+        "gostNumeric": "683"
+    },
+    "tli": {
+        "gostName": "Тлингит",
+        "part1": null,
+        "part2B": "tli",
+        "part2T": null,
+        "gostAlpha": "тли",
+        "gostNumeric": "684"
+    },
+    "tog": {
+        "gostName": "Тонга",
+        "gostNameVariant": "Ньяса",
+        "part1": null,
+        "part2B": "tog",
+        "part2T": null,
+        "gostAlpha": "тог",
+        "gostNumeric": "685"
+    },
+    "ton": {
+        "gostName": "Тонганский",
+        "part1": "to",
+        "part2B": "ton",
+        "part2T": null,
+        "gostAlpha": "тон",
+        "gostNumeric": "686"
+    },
+    "chk": {
+        "gostName": "Трукский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "тру",
+        "gostNumeric": "687"
+    },
+    "tsn": {
+        "gostName": "Тсвана",
+        "part1": "tn",
+        "part2B": "tsn",
+        "part2T": null,
+        "gostAlpha": "тсн",
+        "gostNumeric": "688"
+    },
+    "tso": {
+        "gostName": "Тсонга",
+        "part1": "ts",
+        "part2B": "tso",
+        "part2T": null,
+        "gostAlpha": "тсо",
+        "gostNumeric": "689"
+    },
+    "tyv": {
+        "gostName": "Тувинский",
+        "part1": null,
+        "part2B": "tyv",
+        "part2T": null,
+        "gostAlpha": "тув",
+        "gostNumeric": "690"
+    },
+    "tum": {
+        "gostName": "Тумбука",
+        "part1": null,
+        "part2B": "tum",
+        "part2T": null,
+        "gostAlpha": "тум",
+        "gostNumeric": "692"
+    },
+    "tur": {
+        "gostName": "Турецкий",
+        "part1": "tr",
+        "part2B": "tur",
+        "part2T": null,
+        "gostAlpha": "тур",
+        "gostNumeric": "693"
+    },
+    "tuk": {
+        "gostName": "Туркменский",
+        "part1": "tk",
+        "part2B": "tuk",
+        "part2T": null,
+        "gostAlpha": "тук",
+        "gostNumeric": "695"
+    },
+    "uga": {
+        "gostName": "Угаритский",
+        "part1": null,
+        "part2B": "uga",
+        "part2T": null,
+        "gostAlpha": "уга",
+        "gostNumeric": "697"
+    },
+    "udm": {
+        "gostName": "Удмуртский",
+        "gostNameVariant": "Вотяцкий",
+        "part1": null,
+        "part2B": "udm",
+        "part2T": null,
+        "gostAlpha": "удм",
+        "gostNumeric": "700"
+    },
+    "ude": {
+        "gostName": "Удэгейский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "удэ",
+        "gostNumeric": "705"
+    },
+    "uzb": {
+        "gostName": "Узбекский",
+        "part1": "uz",
+        "part2B": "uzb",
+        "part2T": null,
+        "gostAlpha": "узб",
+        "gostNumeric": "710"
+    },
+    "uig": {
+        "gostName": "Уйгурский",
+        "part1": "ug",
+        "part2B": "uig",
+        "part2T": null,
+        "gostAlpha": "уйг",
+        "gostNumeric": "715"
+    },
+    "ukr": {
+        "gostName": "Украинский",
+        "part1": "uk",
+        "part2B": "ukr",
+        "part2T": null,
+        "gostAlpha": "укр",
+        "gostNumeric": "720"
+    },
+    "ulc": {
+        "gostName": "Ульчский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "уль",
+        "gostNumeric": "725"
+    },
+    "umb": {
+        "gostName": "Умбунду",
+        "part1": null,
+        "part2B": "umb",
+        "part2T": null,
+        "gostAlpha": "умб",
+        "gostNumeric": "727"
+    },
+    "urd": {
+        "gostName": "Урду",
+        "part1": "ur",
+        "part2B": "urd",
+        "part2T": null,
+        "gostAlpha": "урд",
+        "gostNumeric": "730"
+    },
+    "fan": {
+        "gostName": "Фанг",
+        "part1": null,
+        "part2B": "fan",
+        "part2T": null,
+        "gostAlpha": "фан",
+        "gostNumeric": "732"
+    },
+    "fat": {
+        "gostName": "Фанти",
+        "part1": null,
+        "part2B": "fat",
+        "part2T": null,
+        "gostAlpha": "фат",
+        "gostNumeric": "733"
+    },
+    "fao": {
+        "gostName": "Фарерский",
+        "part1": "fo",
+        "part2B": "fao",
+        "part2T": null,
+        "gostAlpha": "фар",
+        "gostNumeric": "735"
+    },
+    "fij": {
+        "gostName": "Фиджи",
+        "part1": "fj",
+        "part2B": "fij",
+        "part2T": null,
+        "gostAlpha": "фид",
+        "gostNumeric": "737"
+    },
+    "fil": {
+        "gostName": "Филиппинский",
+        "part1": "fl",
+        "part2B": "fil",
+        "part2T": null,
+        "gostAlpha": "таг",
+        "gostNumeric": "636"
+    },
+    "phn": {
+        "gostName": "Финикийский",
+        "part1": null,
+        "part2B": "phn",
+        "part2T": null,
+        "gostAlpha": "фик",
+        "gostNumeric": "738"
+    },
+    "fin": {
+        "gostName": "Финский",
+        "part1": "fi",
+        "part2B": "fin",
+        "part2T": null,
+        "gostAlpha": "фин",
+        "gostNumeric": "740"
+    },
+    "fon": {
+        "gostName": "Фон",
+        "part1": null,
+        "part2B": "fon",
+        "part2T": null,
+        "gostAlpha": "фон",
+        "gostNumeric": "743"
+    },
+    "fra": {
+        "gostName": "Французский",
+        "part1": "fr",
+        "part2B": "fra",
+        "part2T": "fre",
+        "gostAlpha": "фра",
+        "gostNumeric": "745"
+    },
+    "fry": {
+        "gostName": "Фризский",
+        "part1": "fy",
+        "part2B": "fry",
+        "part2T": null,
+        "gostAlpha": "фри",
+        "gostNumeric": "750"
+    },
+    "ful": {
+        "gostName": "Фулах",
+        "part1": "ff",
+        "part2B": "ful",
+        "part2T": null,
+        "gostAlpha": "фул",
+        "gostNumeric": "752"
+    },
+    "hai": {
+        "gostName": "Хайда",
+        "part1": null,
+        "part2B": "hai",
+        "part2T": null,
+        "gostAlpha": "хай",
+        "gostNumeric": "753"
+    },
+    "kjh": {
+        "gostName": "Хакасский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "хак",
+        "gostNumeric": "755"
+    },
+    "kca": {
+        "gostName": "Хантыйский",
+        "gostNameVariant": "Остяцкий",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "хан",
+        "gostNumeric": "760"
+    },
+    "hau": {
+        "gostName": "Хауса",
+        "part1": "ha",
+        "part2B": "hau",
+        "part2T": null,
+        "gostAlpha": "хау",
+        "gostNumeric": "761"
+    },
+    "hil": {
+        "gostName": "Хилигайнон",
+        "part1": null,
+        "part2B": "hil",
+        "part2T": null,
+        "gostAlpha": "хил",
+        "gostNumeric": "762"
+    },
+    "hin": {
+        "gostName": "Хинди",
+        "part1": "hi",
+        "part2B": "hin",
+        "part2T": null,
+        "gostAlpha": "хин",
+        "gostNumeric": "770"
+    },
+    "hmo": {
+        "gostName": "Хиримоту",
+        "part1": "ho",
+        "part2B": "hmo",
+        "part2T": null,
+        "gostAlpha": "хмо",
+        "gostNumeric": "772"
+    },
+    "hrv": {
+        "gostName": "Хорватский",
+        "part1": "hr",
+        "part2B": "hrv",
+        "part2T": "scr",
+        "gostAlpha": null,
+        "gostNumeric": null
+    },
+    "kho": {
+        "gostName": "Хотанский",
+        "part1": null,
+        "part2B": "kho",
+        "part2T": null,
+        "gostAlpha": "хот",
+        "gostNumeric": "773"
+    },
+    "hup": {
+        "gostName": "Хупа",
+        "part1": null,
+        "part2B": "hup",
+        "part2T": null,
+        "gostAlpha": "хуп",
+        "gostNumeric": "774"
+    },
+    "tkr": {
+        "gostName": "Цахурский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "цах",
+        "gostNumeric": "775"
+    },
+    "chu": {
+        "gostName": "Церковнославянский",
+        "gostNameVariant": "Старославянский",
+        "part1": "cu",
+        "part2B": "chu",
+        "part2T": null,
+        "gostAlpha": "цер",
+        "gostNumeric": "777"
+    },
+    "tsi": {
+        "gostName": "Цимшиан",
+        "part1": null,
+        "part2B": "tsi",
+        "part2T": null,
+        "gostAlpha": "цим",
+        "gostNumeric": "778"
+    },
+    "rom": {
+        "gostName": "Цыганский",
+        "part1": null,
+        "part2B": "rom",
+        "part2T": null,
+        "gostAlpha": "цыг",
+        "gostNumeric": "780"
+    },
+    "chg": {
+        "gostName": "Чагатайский",
+        "part1": null,
+        "part2B": "chg",
+        "part2T": null,
+        "gostAlpha": "чаг",
+        "gostNumeric": "781"
+    },
+    "cha": {
+        "gostName": "Чаморро",
+        "part1": "ch",
+        "part2B": "cha",
+        "part2T": null,
+        "gostAlpha": "чам",
+        "gostNumeric": "782"
+    },
+    "chy": {
+        "gostName": "Шайенн",
+        "gostNameVariant": "Чейенн",
+        "part1": null,
+        "part2B": "chy",
+        "part2T": null,
+        "gostAlpha": "чей",
+        "gostNumeric": "783"
+    },
+    "chr": {
+        "gostName": "Чероки",
+        "part1": null,
+        "part2B": "chr",
+        "part2T": null,
+        "gostAlpha": "чер",
+        "gostNumeric": "784"
+    },
+    "che": {
+        "gostName": "Чеченский",
+        "part1": "ce",
+        "part2B": "che",
+        "part2T": null,
+        "gostAlpha": "чеч",
+        "gostNumeric": "785"
+    },
+    "ces": {
+        "gostName": "Чешский",
+        "part1": "cs",
+        "part2B": "ces",
+        "part2T": "cze",
+        "gostAlpha": "чеш",
+        "gostNumeric": "790"
+    },
+    "zha": {
+        "gostName": "Чжуанский",
+        "part1": "za",
+        "part2B": "zha",
+        "part2T": null,
+        "gostAlpha": "чжу",
+        "gostNumeric": "791"
+    },
+    "chb": {
+        "gostName": "Чибча",
+        "part1": null,
+        "part2B": "chb",
+        "part2T": null,
+        "gostAlpha": "чиб",
+        "gostNumeric": "792"
+    },
+    "chn": {
+        "gostName": "Чинук жаргон",
+        "part1": null,
+        "part2B": "chn",
+        "part2T": null,
+        "gostAlpha": "чин",
+        "gostNumeric": "793"
+    },
+    "cho": {
+        "gostName": "Чоктав",
+        "part1": null,
+        "part2B": "cho",
+        "part2T": null,
+        "gostAlpha": "чок",
+        "gostNumeric": "794"
+    },
+    "chv": {
+        "gostName": "Чувашский",
+        "part1": "cv",
+        "part2B": "chv",
+        "part2T": null,
+        "gostAlpha": "чув",
+        "gostNumeric": "795"
+    },
+    "ckt": {
+        "gostName": "Чукотский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "чук",
+        "gostNumeric": "800"
+    },
+    "shn": {
+        "gostName": "Шанский",
+        "part1": null,
+        "part2B": "shn",
+        "part2T": null,
+        "gostAlpha": "шан",
+        "gostNumeric": "803"
+    },
+    "swe": {
+        "gostName": "Шведский",
+        "part1": "sv",
+        "part2B": "sve",
+        "part2T": "swe",
+        "gostAlpha": "шве",
+        "gostNumeric": "805"
+    },
+    "sna": {
+        "gostName": "Шона",
+        "part1": "sn",
+        "part2B": "sna",
+        "part2T": null,
+        "gostAlpha": "шон",
+        "gostNumeric": "807"
+    },
+    "cjs": {
+        "gostName": "Шорский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "шор",
+        "gostNumeric": "810"
+    },
+    "sco": {
+        "gostName": "Шотландский",
+        "gostNameVariant": "Англо-шотландский",
+        "part1": null,
+        "part2B": "sco",
+        "part2T": null,
+        "gostAlpha": null,
+        "gostNumeric": null
+    },
+    "sgh": {
+        "gostName": "Шугнанский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "шуг",
+        "gostNumeric": "815"
+    },
+    "sux": {
+        "gostName": "Шумерский",
+        "part1": null,
+        "part2B": "sux",
+        "part2T": null,
+        "gostAlpha": "шум",
+        "gostNumeric": "817"
+    },
+    "ewe": {
+        "gostName": "Эве",
+        "part1": "ee",
+        "part2B": "ewe",
+        "part2T": null,
+        "gostAlpha": "эве",
+        "gostNumeric": "820"
+    },
+    "evn": {
+        "gostName": "Эвенкийский",
+        "gostNameVariant": "Тунгусский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "эвк",
+        "gostNumeric": "825"
+    },
+    "eve": {
+        "gostName": "Эвенский",
+        "part1": null,
+        "part2B": null,
+        "part2T": null,
+        "gostAlpha": "эвн",
+        "gostNumeric": "830"
+    },
+    "ewo": {
+        "gostName": "Эвондо",
+        "part1": null,
+        "part2B": "ewo",
+        "part2T": null,
+        "gostAlpha": "эво",
+        "gostNumeric": "832"
+    },
+    "eka": {
+        "gostName": "Экаджук",
+        "part1": null,
+        "part2B": "eka",
+        "part2T": null,
+        "gostAlpha": "эка",
+        "gostNumeric": "833"
+    },
+    "elx": {
+        "gostName": "Эламский",
+        "part1": null,
+        "part2B": "elx",
+        "part2T": null,
+        "gostAlpha": "эла",
+        "gostNumeric": "834"
+    },
+    "myv": {
+        "gostName": "Эрзянский",
+        "part1": null,
+        "part2B": "myv",
+        "part2T": null,
+        "gostAlpha": "эрз",
+        "gostNumeric": "835"
+    },
+    "epo": {
+        "gostName": "Эсперанто",
+        "part1": "eo",
+        "part2B": "epo",
+        "part2T": null,
+        "gostAlpha": "эсп",
+        "gostNumeric": "845"
+    },
+    "est": {
+        "gostName": "Эстонский",
+        "part1": "et",
+        "part2B": "est",
+        "part2T": null,
+        "gostAlpha": "эст",
+        "gostNumeric": "850"
+    },
+    "efi": {
+        "gostName": "Эфик",
+        "part1": null,
+        "part2B": "efi",
+        "part2T": null,
+        "gostAlpha": "эфи",
+        "gostNumeric": "852"
+    },
+    "jav": {
+        "gostName": "Яванский",
+        "part1": "jv",
+        "part2B": "jav",
+        "part2T": "jaw",
+        "gostAlpha": "ява",
+        "gostNumeric": "860"
+    },
+    "sah": {
+        "gostName": "Якутский",
+        "gostNameVariant": "Саха",
+        "part1": null,
+        "part2B": "sah",
+        "part2T": null,
+        "gostAlpha": "яку",
+        "gostNumeric": "865"
+    },
+    "yao": {
+        "gostName": "Яо",
+        "part1": null,
+        "part2B": "yao",
+        "part2T": null,
+        "gostAlpha": "яоа",
+        "gostNumeric": "867"
+    },
+    "yap": {
+        "gostName": "Яп",
+        "part1": null,
+        "part2B": "yap",
+        "part2T": null,
+        "gostAlpha": "япа",
+        "gostNumeric": "868"
+    },
+    "jpn": {
+        "gostName": "Японский",
+        "part1": "ja",
+        "part2B": "jpn",
+        "part2T": null,
+        "gostAlpha": "япо",
+        "gostNumeric": "870"
+    }
+}

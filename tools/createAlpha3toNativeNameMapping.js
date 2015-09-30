@@ -12,7 +12,6 @@ for(languageCode in allCodeParsed){
     if(allNativeNameCodesParsed[languageCode]){
         mapping[languageCode] = {};
         mapping[languageCode].nativeName = allNativeNameCodesParsed[languageCode].nativeName;
-        mapping[languageCode].englishName = allNativeNameCodesParsed[languageCode].englishName.split(',')[0];
     }
 }
 
