@@ -5,7 +5,16 @@ ISO639 language codes for use in javaScript applications
 
 Based on [http://www-01.sil.org/iso639-3](http://www-01.sil.org/iso639-3), Wikipedia and other sources
 
-Generated files:
+
+Main files:
+-----------
+
+- *iso639.js* Full file with native and all locales names included
+- *iso639_enUS.js* English locale and native names only
+- *iso639_ruRU.js* Russian locale and native names only
+
+
+Other generated files:
 ----------------
 
 - *alpha2to3mappings.json* Mapping from 2-letter codes to 3-letter codes
