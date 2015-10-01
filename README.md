@@ -5,6 +5,8 @@ ISO639 language codes processed and ready to use in javaScript applications
 
 Based on [http://www-01.sil.org/iso639-3](http://www-01.sil.org/iso639-3), Wikipedia and other sources
 
+All codes used as index are iso639-3 codes except for `alpha2to3mappings.json` file
+
 
 Main files:
 -----------
@@ -36,6 +38,7 @@ Reference files:
 |[iso639-3_name-index.json](reference/iso639-3_name-index.json)|2015-05-05|ISO639-3 Name Index|
 |[iso639-3_macrolanguages.json](reference/iso639-3_macrolanguages.json)|2015-01-12|ISO639-3 Macrolanguages|
 |[iso639-3_retirements.json](reference/iso639-3_retirements.json)|2015-01-12|ISO639-3 Retirements|
+|[gost7.75-97.json](reference/gost7.75-97.json)|2000-01-01|Russian state standart for language codes|
 
 ### Key to reference files field names
 
@@ -53,3 +56,7 @@ Reference files:
 - **`changedTo`** — to which all instances of retired code should be changed
 - **`retirementRemedy`** — The instructions for updating an instance of the retired (split) identifier
 - **`effectiveDate`** — The date the retirement became effective
+- **`gostName`** — Language name according to GOST7.75-97
+- **`gostNameVariant`** — Language name variant(s) according to GOST7.75-97
+- **`gostAlpha`** — Three-letter cyrillic code according to GOST7.75-97
+- **`gostNumeric`** — Three-digit code according to GOST7.75-97
