@@ -1,6 +1,6 @@
 {
   "name": "iso639-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ISO639 language codes processed and ready to use in javaScript applications",
   "main": "iso639.js",
   "scripts": {
