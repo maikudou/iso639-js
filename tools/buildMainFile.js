@@ -1,8 +1,16 @@
 var fs = require('fs');
 
-var dataString = 'this.iso639=';
-var data = {};
+var dataString = '(function (root, iso639) {';
+dataString += 'if (typeof define === "function" && define.amd) {'
+dataString += '    define(["iso639"], iso639);'
+dataString += '} else if (typeof module === "object" && module.exports) {'
+dataString += '    module.exports = iso639;'
+dataString += '} else {'
+dataString += '    root.iso639 = iso639;'
+dataString += '}'
+dataString += '})(this, ';
 
+var data = {};
 
 var alpha2to3mapping = fs.readFileSync('alpha2to3mapping.json', 'utf8');
 var alpha2to3mappingParsed = JSON.parse(alpha2to3mapping);
@@ -48,6 +56,6 @@ for(index in localeFilenames){
 }
 
 dataString += JSON.stringify(data);
-dataString += ';'
+dataString += ');'
 
 fs.writeFileSync('iso639.js', dataString, 'utf8')

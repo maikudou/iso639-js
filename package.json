@@ -1,0 +1,26 @@
+{
+  "name": "iso639-js",
+  "version": "1.0.0",
+  "description": "ISO639 language codes processed and ready to use in javaScript applications",
+  "main": "iso639.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikudou/iso639-js.git"
+  },
+  "keywords": [
+    "iso639",
+    "alpha3",
+    "alpha2",
+    "language",
+    "codes"
+  ],
+  "author": "Mikhail Labanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikudou/iso639-js/issues"
+  },
+  "homepage": "https://github.com/maikudou/iso639-js#readme"
+}
