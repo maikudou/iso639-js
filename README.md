@@ -1,6 +1,8 @@
 iso639-js
 =========
 
+[![npm version](https://badge.fury.io/js/iso639-js.svg)](https://badge.fury.io/js/iso639-js)
+
 ISO639 language codes processed and ready to use in javaScript applications
 
 Based on [http://www-01.sil.org/iso639-3](http://www-01.sil.org/iso639-3), Wikipedia and other sources
